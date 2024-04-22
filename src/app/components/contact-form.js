@@ -22,7 +22,7 @@ const ContactForm = () => {
     return (
         <section className="py-5" style={{background:'url(/bg/pattern1.jpg)',backgroundSize:'cover',backgroundPosition:'top'}}>
         <div className="container d-flex justify-content-center align-items-center">
-            <div data-aos="zoom-in" className="row" style={{ width: '820px', background: 'radial-gradient(at center, #193bac, #03113f)', color:'var(--yellow)',border:'2px Solid var(--yellow)', borderRadius: '10px', boxShadow: '0 0 20px 5px var(--yellow)' }}>
+            <div data-aos="zoom-in" className="row mx-3" style={{ width: '820px', background: 'radial-gradient(at center, #193bac, #03113f)', color:'var(--yellow)',border:'2px Solid var(--yellow)', borderRadius: '10px', boxShadow: '0 0 20px 5px var(--yellow)' }}>
                 <div className="col-12 col-md-6 px-4">
                     <h3 className="py-3">Let&apos;s get in touch</h3>
                     <div className="row">
@@ -67,7 +67,7 @@ const ContactForm = () => {
                         </svg></a>
                     </div>
                 </div>
-                <div className="col-12 col-md-6 ">
+                <div className="col-12 col-md-6 px-4">
                     <form onSubmit={handleSubmit}>
                         <div className="form-row text-center">
                             <h3 className="py-2">Contact Us</h3>
