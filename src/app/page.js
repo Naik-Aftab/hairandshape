@@ -23,11 +23,11 @@ export default function Home() {
         <>
             {/* <!-- ========== Start Section ========== --> */}
 
-            {/* <section> */}
+            <section> 
                 <div className="container-fluid p-0">
-                    {/* <video className="banner-video" src="/banner-video.mp4" poster="" muted preload="auto" loop autoPlay></video> */}
+                     <video className="banner-video" src="/banner-video.mp4" poster="" muted preload="auto" loop autoPlay></video>
                 </div>
-            {/* </section> */}
+             </section>
 
             {/* <!-- ========== End Section ========== --> */}
 
@@ -101,7 +101,7 @@ export default function Home() {
 
                      <div className='col-md-4 col-12 mb-5'>
                             <div className='card shadow mx-3 d-flex flex-column align-items-center text-align-center'>
-                                <img src="ot.png" className="img-fluid rounded p-2" alt="icon3" width="100px"/>
+                                <img src="OT.png" className="img-fluid rounded p-2" alt="icon3" width="100px"/>
                                  <div className='text-center py-3 px-4'>
                                     <h4 className='mb-1'>Two fully equipped Operation theatres</h4>
                                     {/* <p>asda asda sadas  fdg dfgd dfgdf vxcvxcvv xcvx asda fdsf  dfgdf asda fdsfs s sdaa</p> */}
