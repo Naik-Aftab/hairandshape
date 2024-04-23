@@ -44,14 +44,14 @@ export default function Home() {
                                 <h5 className='text-center text-md-start' style={{color:'var(--yellow)'}}>About Our Clinic</h5>
                                 <h3 className='text-center text-md-start'>Your Ultimate Aesthetic Destination</h3>
                                 <p>The Hair And Shape Clinic is a Day Care Aesthetic Centre that brings to you a wide array of services all under one roof ranging from Hair Transplant, Laser and Cosmetology (Peels, Skin rejuvenation treatments, Botox, fillers and may more), Plastic surgery (Liposuction, Tummy tucks, Breast Implants, Bodycontouring, and similar) and Integrated Obesity Clinic (Physician / Dietician /Yoga Therapist/Bariatric Surgery/Plastic Surgeon).</p>
-                                 <ul>
+                                <ul>
                                    <li>Board Certified Team of Doctors</li> 
                                    <li>Well Trained and Experienced Staff</li> 
                                    <li>Two fully equipped state of the art Operation theatres</li> 
                                    <li>Dedicated treatment room for botox, fillers and lasers (US FDA approved)</li> 
                                    <li>Holistic approach for Hair Loss</li> 
                                    <li>Patient friendly and utmost importance to Patient care and Privacy.</li> 
-                                    </ul>   
+                                </ul>   
                             </div>
                         </div>
                     </div>
@@ -62,7 +62,7 @@ export default function Home() {
 
 
             {/* <!-- ========== Start doctor ========== --> */}
-            <section style={{background:'var(--light)'}}>
+            <section style={{background: 'linear-gradient(to bottom, rgba(255, 246, 209, 0.5), rgba(255, 246, 209, 0.5)), url(/bg/pattern4.jpg) center/cover'}}>
             <Doctor />                
             </section>            
             {/* <!-- ========== End doctor ========== --> */}            

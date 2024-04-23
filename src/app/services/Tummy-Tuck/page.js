@@ -4,7 +4,7 @@ const TummyTuckPage = () => {
     return (
         <>
             {/* ========== Start About ========== */}
-            <section>
+            <section className='py-5'>
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
@@ -22,7 +22,7 @@ const TummyTuckPage = () => {
             {/* ========== End About ========== */}
 
             {/* ========== Start main content ========== */}
-            <section className="py-5">
+            <section className="pb-5">
                 <div className="container">
                     <h2>Good Candidates for a Tummy Tuck</h2>
                     <p>A tummy tuck may be right for you if you have:</p>
@@ -48,7 +48,7 @@ const TummyTuckPage = () => {
             {/* ========== End main content ========== */}
 
             {/* ========== Start FAQ ========== */}
-            <section className="py-5">
+            <section className="pb-5">
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-5">

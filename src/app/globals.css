@@ -17,7 +17,7 @@ html {
   
   --yellow: #dcab28;
   --yellow1: #ffdd00;
-  --light: #fff6d1;
+  --light: rgb(255, 246, 209);
 }
 
 .hsbtn{
@@ -123,16 +123,21 @@ p {
 
 .hairContainer {
     position: relative;
-    background-color: rgb(255 255 255 / 20%) !important;
-    color :#fff !important;
+    /* background-color: rgb(255 255 255 / 20%) !important; */
+    background: var(--light) !important;
+    /* color :#fff !important; */
+    box-shadow: 0 0 15px 2px var(--yellow); 
+    border: 1px solid var(--yellow); 
+
+
 }
  .hairContainer h3{
-  color :var(--yellow) !important;
-  text-shadow: 0.5px 0.5px #fff;
+  color :var(--blue) !important;
+  /* text-shadow: 0.5px 0.5px #fff; */
  }
  .hairContainer h4{
-  color :var(--yellow) !important;
-  text-shadow: 0.5px 0.5px #fff;
+  color :var(--blue) !important;
+  /* text-shadow: 0.5px 0.5px #fff; */
  }
 
 .hairContainer:hover {
