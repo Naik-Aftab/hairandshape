@@ -47,7 +47,7 @@ export default function BeardHairTransplant() {
 
           <h2>The procedure of Beard Hair Transplant</h2>
           <ul>
-            <li>Surgical planning will be done with the patients and markings are done</li>
+            <li>Surgical planning will be done with the patients followed by markings over the beard region</li>
             <li>4 out of 5 sample grafts are taken out and the average length of grafts is calculated. Slits are made in the desired area of the beard using cut-to-size blades.</li>
             <li>The procedure involves some steps as FUE or FUT. A normal density of 40-80 hairs/sq.cm is natural. Usually, 2000 to 2500 grafts are necessary for a good aesthetic.</li>
             <li>Eventually, the grafts are implanted using implanters as in the decided beard region.</li>
