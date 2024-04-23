@@ -13,7 +13,6 @@ const PRPHairLossTreatmentsPage = () => {
                         </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
-                                <h2>PRP Hair Loss Treatments</h2>
                                 <h2>What is Platelet Rich Plasma (PRP)</h2>
                                 <p>Platelet Rich Plasma, or PRP as it is also known as, considered to be a revolutionary treatment that consists of a high concentration of rich platelets created from the patient’s own blood. This high concentrated platelet rich plasma is then injected into the balding scalp to potentially stimulate thin (miniaturized) hair to grow into thicker (terminal) hairs.</p>
                             </div>
