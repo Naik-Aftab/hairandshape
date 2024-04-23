@@ -66,7 +66,7 @@ const HairTransplantBioFuePage = () => {
                             <ul>
                                 <li>The follicular grafts are then strategically placed one by one, according to the number of hairs within each follicle, in order to maximize the naturalness, density and coverage of the thinning areas.</li>
                                 <li><strong>BIO FUE & SAPPHIRE FUE </strong>  - Double forceps technique is used to implant the grafts</li>
-                                <li><strong>BIO FUE-</strong>  A specialized device called  <li><strong>KEEP’S IMPLANTER </strong> is used for implantation.</li>
+                                <li><strong>BIO FUE -</strong> A specialized device called <strong>KEEP’S IMPLANTER</strong> is used for implantation.</li>
                             </ul>
                         </li>
                     </ul>
