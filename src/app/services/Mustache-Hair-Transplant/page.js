@@ -14,9 +14,9 @@ const MustacheHairTransplantPage = () => {
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
                                 <h2>Mustache Hair Transplant</h2>
-                                <p>Having bold and thick mustaches represents a powerful symbol of masculinity and maturity in men. However, some men suffer a mustache hair loss or are genetically predisposed to absent or thin mustache hair.</p>
-                                <p>Injuries, trauma to the face, and other causes resulting in scarring may lead to less hair growth or hair loss in the mustache area. Mustache hair loss causes not merely appearance issues for men but might also generate mental issues.</p>
-                                <p>The mustache transplantation represents a lifetime solution for these problems. The procedure includes transferring the hair follicles from the donor area and their implantation into the mustache area. The surgery itself lasts few hours, typically between 3 and 4 hours, depending on the number of grafts required for the desired results. The procedure itself is very similar to a standard hair transplant procedure, and is a subset of the beard transplant. It gives the best results in patients over 20 years of age.</p>
+                                <p>Having bold and thick moustaches represents a powerful symbol of masculinity and maturity in men. However, some men suffer a moustache hair loss or are genetically predisposed to absent or thin moustache hair.</p>
+                                <p>Injuries, trauma to the face, and other causes resulting in scarring may lead to less hair growth or hair loss in the moustache area. Moustache hair loss causes not merely appearance issues for men but might also generate mental issues.</p>
+                                <p>The moustache transplantation represents a lifetime solution for these problems. The procedure includes transferring the hair follicles from the donor area and their implantation into the moustache area. The surgery itself lasts a few hours, typically between 3 and 4 hours, depending on the number of grafts required for the desired results. The procedure itself is very similar to a standard hair transplant procedure, and is a subset of the beard transplant. It gives the best results in patients over 20 years of age.</p>
                             </div>
                         </div>
                     </div>
@@ -25,7 +25,7 @@ const MustacheHairTransplantPage = () => {
             {/* ========== End About ========== */}
 
             {/* ========== Start main content ========== */}
-            <section className='py-5'>
+            <section className='pb-5'>
                 <div className="container">
                     <h2>How is Mustache Transplant Procedure done?</h2>
                     <ul>
