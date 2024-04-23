@@ -23,7 +23,7 @@ const HairTransplantFutPage = () => {
             {/* ========== End About ========== */}
 
             {/* ========== Start main content ========== */}
-            <section>
+            <section className="pb-5">
                 <div className="container">
                     <h2>FUT procedure steps</h2>
                     <ul style={{ listStyleType: 'none' }}>
