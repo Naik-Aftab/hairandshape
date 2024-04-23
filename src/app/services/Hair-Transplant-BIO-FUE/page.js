@@ -16,7 +16,14 @@ const HairTransplantBioFuePage = () => {
                                 <h2>Hair Transplant Bio Fue</h2>
                                 <p>The Hair And Shape Clinic is a state-of-the-art hair restoration centre. Our experts utilize the most advanced hair transplant techniques available today</p>
                                 <p>FUE is a minimally invasive hair restoration surgery that uses advanced technology to track and extract hair follicles with precise accuracy and control. The process involves using a small (0.8mm - 1.0mm), rounded instrument or “punch” to make a small, round incision in the skin around a follicular unit, isolating it from the surrounding tissue. The unit is then extracted (pulled) directly from the scalp, leaving a small open hole.</p>
-                            </div>
+                            <p>There are 3 variations of FUE Hair Transplant :</p>
+        <ul>
+        <li>BIO FUE</il>
+         <li>SAPPHIRE FUE</il>
+         <li>BIG FUE</il>
+        </ul>
+        </div>
+       
                         </div>
                     </div>
                 </div>
