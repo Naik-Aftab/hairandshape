@@ -73,21 +73,22 @@ const HairTransplantBioFuePage = () => {
 
                     <h2>Body Hair Transplant</h2>
                     <p>BHT for treating male pattern hair loss is a refined technique, for the body hairs, can be challenging at times to extract.</p>
-                    <p>Body Hair Transplant (BHT) is the harvesting of hair from a location where it is not wanted and subsequently transplanted to the scalp. The donor area in BHT is often the chest .The harvest of the donor is through the use of the Follicular Unit Extraction (FUE) procedure. The characteristics of hair in these locations are different than scalp hair. The hair in the chest tends to be curlier and thinner than scalp hair. The growth phase or anagen phase last less than that of scalp hair, usually about 18 months. The hair characteristics of this chest hair render the hair suitable only as filler hair in the middle of the scalp. BHT is not suitable for hairline or crown because of the hair characteristics and shorter growth phase. BHT should only be used when donor is in limited supply, because hair from the permanent donor zone is best for hair restoration.</p>
+                    <p>Since FUE leaves behind no linear scars it is more suitable to harvest from various body areas including beard, chest & pubic regions. Body Hair Transplant (BHT) is the harvesting of hair from a location where it is not wanted and subsequently transplanted to the scalp. The donor area in BHT is often the chest .The harvest of the donor is through the use of the Follicular Unit Extraction (FUE) procedure. The characteristics of hair in these locations are different than scalp hair. The hair in the chest tends to be curlier and thinner than scalp hair. The growth phase or anagen phase last less than that of scalp hair, usually about 18 months. The hair characteristics of this chest hair render the hair suitable only as filler hair in the middle of the scalp. BHT is not suitable for hairline or crown because of the hair characteristics and shorter growth phase. BHT should only be used when donor is in limited supply, because hair from the permanent donor zone is best for hair restoration.</p>
                     
                     <h2>BENEFITS OF A FUE HAIR TRANSPLANT PROCEDURE</h2>
                     <ul>
                         <li><strong>No stitches; donor area appears mostly unchanged within days</strong></li>
-                        <li><strong>Natural-looking and permanent results</strong></li>
+                        <li><strong>Natural-looking results</strong></li>
                         <li><strong>State-of-the-art minimally invasive technique</strong></li>
                         <li><strong>Simple outpatient procedure</strong></li>
                         <li><strong>Fast recovery; many patients return to work the next day</strong></li>                
                     </ul>
                     <h2>How to take care after Hair Transplant | Things to do post surgery |</h2>
                     <ul>
-                        <li>The patient goes home after the procedure with the instructions and everything necessary for the post-operative care at home: an antibiotic is taken for 5days , the receiving region is moisturized with a saline spray for 7 days (every 1 hours) and sterile pillow covers must be used.</li>
-                        <li>Most or all of the hair that has been transplanted will fall out within two weeks of the procedure. The aim of the procedure was of course not that hair but the hair root from which 3-4 months after the procedure new hair will begin to grow.</li>
-                        <li>The recovery is very short, usually, within 5-7 days all signs of FUE hair transplant will disappear. The success is not only the natural hair growth but the subsequent natural-looking results. The check-up, if necessary, is within a month.</li>
+                        <li>The patient goes home after the procedure with the instructions and everything necessary for the post-operative care at home: an antibiotic, painkiller, anti-inflammatory & anti-itching tablet is taken for 5 days , the implanted area is moisturized with a saline spray for 7 days (every 30 minutes to 1 hour) and sterile pillow covers must be used.</li>
+                        <li>The hair that is transplanted in the graft normally falls out within the 3-4 weeks of the procedure.</li>
+                        <li>The new hair will then grow from the hair root and will be noticeable by approximately 5 months and carry on growing. A post operative check up is carried out after 6 months and an assessment of the final outcome of surgery is normally made after 12 months when the grafts are fully grown.</li>
+                        <li>The recovery is very short, usually, within 5-7 days all signs of hair transplant will disappear. The success is not only the natural hair growth but the subsequent natural-looking results. The check-up, if necessary, is within a month.</li>
                     </ul>
                 </div>
             </section>
