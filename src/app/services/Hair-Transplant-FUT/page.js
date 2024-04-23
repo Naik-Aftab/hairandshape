@@ -26,25 +26,22 @@ const HairTransplantFutPage = () => {
             <section className="pb-5">
                 <div className="container">
                     <h2>FUT procedure steps</h2>
-                    <ul style={{ listStyleType: 'none' }}>
-                       <ol>
-    <li>
-        <strong>Step 1 - </strong> During a FUT hair transplant, a local anesthetic will be used to numb the areas where follicles are being extracted and implanted.
-    </li>
-    <li>
-        <strong>Step 2 - </strong>The donor tissue is removed from the scalp in a single thin strip (Single-strip harvesting). The location of the donor area is carefully chosen to be a region of the scalp with maximum hair density and the best long-term stability.
-    </li>
-    <li>
-        <strong>Step 3 - </strong>In Follicular Unit Transplantation, the individual follicular units (each containing from 1 to 4 hairs) are meticulously dissected from the donor strip in their naturally occurring groups under strict stereo-microscopic control.
-    </li>
-    <li>
-        <strong>Step 4 - </strong>Recipient sites are made by the surgeon using a fine instrument. Recipient site creation is a critical aspect of hair restoration surgery that requires considerable experience and surgical skill and a keen aesthetic sense.
-    </li>
-    <li>
-        <strong>Step 5 - </strong>Once all of the recipient sites are made, the technician team begins to place the follicular unit grafts into these pre-made sites. One-hair follicular units are used in the frontal hairline to give a soft, natural appearance and 3- and 4-hair grafts are used in the central forelock area to achieve maximum fullness.
-    </li>
-</ol>
-
+                    <ul style={{ listStyleType: 'none' }}>                        
+                            <li>
+                                <strong>Step 1 - </strong> During a FUT hair transplant, a local anesthetic will be used to numb the areas where follicles are being extracted and implanted.
+                            </li>
+                            <li>
+                                <strong>Step 2 - </strong>The donor tissue is removed from the scalp in a single thin strip (Single-strip harvesting). The location of the donor area is carefully chosen to be a region of the scalp with maximum hair density and the best long-term stability.
+                            </li>
+                            <li>
+                                <strong>Step 3 - </strong>In Follicular Unit Transplantation, the individual follicular units (each containing from 1 to 4 hairs) are meticulously dissected from the donor strip in their naturally occurring groups under strict stereo-microscopic control.
+                            </li>
+                            <li>
+                                <strong>Step 4 - </strong>Recipient sites are made by the surgeon using a fine instrument. Recipient site creation is a critical aspect of hair restoration surgery that requires considerable experience and surgical skill and a keen aesthetic sense.
+                            </li>
+                            <li>
+                                <strong>Step 5 - </strong>Once all of the recipient sites are made, the technician team begins to place the follicular unit grafts into these pre-made sites. One-hair follicular units are used in the frontal hairline to give a soft, natural appearance and 3- and 4-hair grafts are used in the central forelock area to achieve maximum fullness.
+                            </li>                        
                     </ul>
 
                     <h2>Indication for FUT?</h2>

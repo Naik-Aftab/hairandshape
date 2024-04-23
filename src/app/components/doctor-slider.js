@@ -12,12 +12,12 @@ import Image from 'next/image';
 export default function Doctor() {
     useEffect(() => {
         const swiper = new Swiper('.doctor-swiper', {
-            modules: [Navigation],
+            modules: [Navigation,Autoplay],
             loop: true,
-            // autoplay: {
-            //     delay: 3000, // auto slide delay in milliseconds
-            //     disableOnInteraction: false // enable autoplay even when user interacts with the slider
-            // },  
+            autoplay: {
+                delay: 3000, // auto slide delay in milliseconds
+                disableOnInteraction: false // enable autoplay even when user interacts with the slider
+            },  
             navigation: {
                 nextEl: '.doctor-next',
                 prevEl: '.doctor-prev',
@@ -26,7 +26,7 @@ export default function Doctor() {
                 el: '.doctor-pagination',
                 clickable: true,
             },
-            // speed: 500,
+            speed: 500,
         });
     }, []);
 
