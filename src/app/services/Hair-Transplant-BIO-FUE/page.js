@@ -33,7 +33,7 @@ const HairTransplantBioFuePage = () => {
             {/* ========== End About ========== */}
 
             {/* ========== Start main content ========== */}
-            <section className='py-5'>
+            <section className='py-5 pb-5'>
                 <div className="container">
                     <h2>5 Steps of Hair Transplant Process</h2>
                     <ul style={{ listStyleType: 'none' }}>
@@ -58,12 +58,15 @@ const HairTransplantBioFuePage = () => {
                             <strong>Step 4 - INCISION :</strong> Opening channels for transplantation : Placing the Follicular Units
                             <ul>
                                 <li>When the follicular grafts are ready, we make small incisions in your recipient area that match your natural hair growth pattern.</li>
-                            </ul>
+                           <li><strong>BIO FUE-</strong>  18 G Hypodermic Needle is used to make the slits (1.2mm diameter)</li>
+                                </ul>
                         </li>
                         <li>
                             <strong>Step 5 -  Implantation :</strong> Implanting hair follicles to affected area :
                             <ul>
                                 <li>The follicular grafts are then strategically placed one by one, according to the number of hairs within each follicle, in order to maximize the naturalness, density and coverage of the thinning areas.</li>
+                                <li><strong>BIO FUE & SAPPHIRE FUE </strong>  - Double forceps technique is used to implant the grafts</li>
+                                <li><strong>BIO FUE-</strong>  A specialized device called  <li><strong>KEEP’S IMPLANTER </strong> is used for implantation.</li>
                             </ul>
                         </li>
                     </ul>
