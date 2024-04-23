@@ -7,7 +7,7 @@ const DepigmentationPage = () => {
             <section>
                 <div className="container">
                     <div className="row">
-                        <div className="col-12 col-md-6 d-flex justify-content-center align-items-center"><img src="assets/images/" alt="about image" /></div>
+                        <div className="col-12 col-md-6 d-flex justify-content-center align-items-center"><img src="/" alt="about image" /></div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
                                 <h2>Depigmentation</h2>

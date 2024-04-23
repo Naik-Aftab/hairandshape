@@ -108,7 +108,7 @@ const Navbar = () => {
                           </div>
                           <div className={`collapse ${isAccordionHovered('body') ? 'show' : ''}`} id="collapseBody">
                             <ul className="list-unstyled ms-2">
-                              {/* <li><Link href="/services/Liposuction">Liposuction</Link></li> */}
+                              <li><Link href="/services/Liposuction">Liposuction</Link></li>
                               <li><Link href="/services/Tummy-Tuck">Tummy Tuck</Link></li>
                               <li><Link href="/services/Mommy-Makeover">Mommy Makeover</Link></li>
                               <li><Link href="/services/Butt-Lift">Butt Contouring</Link></li>

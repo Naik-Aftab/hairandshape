@@ -8,7 +8,7 @@ const TummyTuckPage = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
-                            <img src="assets/images/" alt="about image" />
+                            <img src="/" alt="about image" />
                         </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
@@ -52,7 +52,7 @@ const TummyTuckPage = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-5">
-                            <img src="assets/images/faq.jpg" className="img-fluid" alt="image" />
+                            <img src="/faq.jpg" className="img-fluid" alt="image" />
                         </div>
                         <div className="col-12 col-md-7">
                             <div className="section-header">

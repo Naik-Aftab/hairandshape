@@ -38,19 +38,19 @@ const ThreadLiftPage = () => {
                     <div className="swiper mySwiper">
                         <div className="swiper-wrapper">
                             <div className="swiper-slide">
-                                <img src="assets/images/Amey.jpg" alt="image" width="300px" />
+                                <img src="/Amey.jpg" alt="image" width="300px" />
                             </div>
                             <div className="swiper-slide">
-                                <img src="assets/images/Ankur Anand.jpg" alt="image" width="300px" />
+                                <img src="/Ankur Anand.jpg" alt="image" width="300px" />
                             </div>
                             <div className="swiper-slide">
-                                <img src="assets/images/Araj.jpg" alt="image" width="300px" />
+                                <img src="/Araj.jpg" alt="image" width="300px" />
                             </div>
                             <div className="swiper-slide">
-                                <img src="assets/images/Bhagyesh.jpg" alt="image" width="300px" />
+                                <img src="/Bhagyesh.jpg" alt="image" width="300px" />
                             </div>
                             <div className="swiper-slide">
-                                <img src="assets/images/chirag.jpg" alt="image" width="300px" />
+                                <img src="/chirag.jpg" alt="image" width="300px" />
                             </div>
                         </div>
                         {/* <div className="swiper-pagination"></div> */}

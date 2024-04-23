@@ -4,7 +4,7 @@ const GynecomastiaPage = () => {
     return (
         <>
             {/* ========== Start About ========== */}
-            <section>
+            <section className='py-5'>
                 <div className="container">
                     <div className="row">
                         <div className="col-6 d-flex justify-content-center align-items-center"><img src="/" alt="about image" /></div>
@@ -27,7 +27,7 @@ const GynecomastiaPage = () => {
             {/* ========== End About ========== */}
 
             {/* ========== Start main content ========== */}
-            <section>
+            <section className='py-5'>
                 <div className="container">
                     <h2>Candidates for Male Breast Reduction</h2>
                     <p>The best candidates for male breast reduction include:</p>

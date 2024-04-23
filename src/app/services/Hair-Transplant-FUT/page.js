@@ -9,7 +9,7 @@ const HairTransplantFutPage = () => {
                     <div className="row">
                         <div className="col-6 d-flex justify-content-center align-items-center">
                             {/* Update the image source with the correct path or use a placeholder image */}
-                            <img src="assets/images/placeholder.jpg" alt="about image" />
+                            <img src="/placeholder.jpg" alt="about image" />
                         </div>
                         <div className="col-6 d-flex justify-content-center align-items-center">
                             <div className="about">
