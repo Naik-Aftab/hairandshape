@@ -65,7 +65,7 @@ const Navbar = () => {
                             className={`accordion-toggle accordion-male ${isAccordionHovered('male') ? 'show' : ''}`}
                           >
                             {/* <Link className="accordion-toggle accordion-male" data-bs-toggle="collapse" href="#collapseMale" role="button" aria-expanded="false" aria-controls="collapseMale"> */}
-                            <b>Male Surgeries</b><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="#fff" className="bi bi-caret-down-fill ms-3" viewBox="0 0 16 16">
+                            <b>Male</b><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="#fff" className="bi bi-caret-down-fill ms-3" viewBox="0 0 16 16">
                               <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z" />
                             </svg>
                             {/* </Link>  */}
@@ -73,7 +73,7 @@ const Navbar = () => {
                           <div className={`collapse ${isAccordionHovered('male') ? 'show' : ''}`} id="collapseMale">
                             <ul className="list-unstyled ms-2">
                               <li><Link href="/services/Gynecomastia">Gynecomastia</Link></li>
-                              <li><Link href="/services/6-Pack-Creation">6 pack creation</Link></li>
+                              <li><Link href="/services/6-Pack-Creation">Hi-Definition Liposuction</Link></li>
                             </ul>
                           </div>
                         </li>
@@ -81,7 +81,7 @@ const Navbar = () => {
                           onMouseLeave={() => handleAccordionHover(null)}>
                           <div className={`accordion-toggle accordion-female ${isAccordionHovered('female') ? 'show' : ''}`}>
                             {/* <Link className="accordion-toggle accordion-female" data-bs-toggle="collapse" href="#collapseFemale" role="button" aria-expanded="false" aria-controls="collapseFemale"> */}
-                            <b>Breast Surgeries</b><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="#fff" className="bi bi-caret-down-fill ms-3" viewBox="0 0 16 16">
+                            <b>Breast</b><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="#fff" className="bi bi-caret-down-fill ms-3" viewBox="0 0 16 16">
                               <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z" />
                             </svg>
                             {/* </Link> */}
@@ -101,7 +101,7 @@ const Navbar = () => {
                             className={`accordion-toggle accordion-body ${isAccordionHovered('body') ? 'show' : ''}`}
                           >
                             {/* <Link className="accordion-toggle accordion-body" data-bs-toggle="collapse" href="#collapseBody" role="button" aria-expanded="false" aria-controls="collapseBody"> */}
-                            <b>Body Surgeries</b><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="#fff" className="bi bi-caret-down-fill ms-3" viewBox="0 0 16 16">
+                            <b>Body</b><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="#fff" className="bi bi-caret-down-fill ms-3" viewBox="0 0 16 16">
                               <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z" />
                             </svg>
                             {/* </Link> */}
@@ -111,9 +111,9 @@ const Navbar = () => {
                               <li><Link href="/services/Liposuction">Liposuction</Link></li>
                               <li><Link href="/services/Tummy-Tuck">Tummy Tuck</Link></li>
                               <li><Link href="/services/Mommy-Makeover">Mommy Makeover</Link></li>
-                              <li><Link href="/services/Butt-Lift">Butt Lift</Link></li>
-                              <li><Link href="/services/Arm-Lift">Arm Lift</Link></li>
-                              <li><Link href="/services/Thigh-Lift">Thigh Lift</Link></li>
+                              <li><Link href="/services/Butt-Lift">Butt Contouring</Link></li>
+                              <li><Link href="/services/Arm-Lift">Arm Contouring</Link></li>
+                              <li><Link href="/services/Thigh-Lift">Thigh Contouring</Link></li>
                             </ul>
                           </div>
                         </li>
@@ -123,7 +123,7 @@ const Navbar = () => {
                             className={`accordion-toggle accordion-face pb-2 ${isAccordionHovered('face') ? 'show' : ''}`}
                           >
                             {/* <Link className="accordion-toggle accordion-face" data-bs-toggle="collapse" href="#collapseFace" role="button" aria-expanded="false" aria-controls="collapseFace"> */}
-                            <b>Facial Surgeries</b><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="#fff" className="bi bi-caret-down-fill ms-3" viewBox="0 0 16 16">
+                            <b>Facial</b><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="#fff" className="bi bi-caret-down-fill ms-3" viewBox="0 0 16 16">
                               <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z" />
                             </svg>
                             {/* </Link> */}
