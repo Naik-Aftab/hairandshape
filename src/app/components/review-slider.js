@@ -73,7 +73,19 @@ export default function Review() {
                 </div>
                 <p>
                  If you want to do hair Transplant Avanza Clinic Should be your first choice in Mumbai.
-                 
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                    
                 </p>
               </div>
             </div>
@@ -106,6 +118,15 @@ export default function Review() {
                 </div>
                 <p>
                   I didt a lot of search and came across Avanza clinic for my hair transplant. Dr Shweta did a good job with the treatment. I felt very comfortable with the procedure and the staff is also nice.
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
                   
                 </p>
               </div>
@@ -139,6 +160,16 @@ export default function Review() {
                 </div>
                 <p>
                  I am very happy with the overall results and would highly recommend this clinic to anyone who wants to go in for a hair transplant.
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
                  
                 </p>
               </div>
@@ -172,7 +203,17 @@ export default function Review() {
                 </div>
                 <p>
                   Excellent staff, good doctor and you offer good service to client, may be cost bit on higher side, but they maintaining standard and services.
-                 
+                  <br>
+                  <br>
+                  <br>
+                  <br>
+                  <br>
+                  <br>
+                  <br>
+                  <br>
+                  <br>
+                  <br>
+                    
                 </p>
               </div>
             </div>
