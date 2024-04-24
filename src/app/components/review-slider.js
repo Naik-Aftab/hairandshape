@@ -194,7 +194,7 @@ export default function Review() {
                   />
                 </div>
                 <div className="py-1">
-                  <b>Mangesh Dapake</b>
+                  <b>Dipesh</b>
                 </div>
                 <div className="static-rating">
                   <span className="star">★</span>
@@ -204,8 +204,7 @@ export default function Review() {
                   <span className="star">★</span>
                 </div>
                 <p>
-               I had done my hair transplant surgery from this clinic and result is outstanding, doctors and staff are well qualified and well trained they are highly supportive after transplant they gives us continues follow up to monitor progress of surgery now in June i have done my crown area transplant and it is also going well there was no any complication in my both surgery I think hair and shape clinic is best clinic for hair transplant with reasonable price
-                  
+Great experience. The staff and doctors are all wonderful and they take care of you. The procedure was fast and only took 6-7 hours. The injecting of the anesthesia was the only uncomfortable part of the procedure. I can’t wait for my results in 6-12 months from now                  
                 </p>
               </div>
             </div>
