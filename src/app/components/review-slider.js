@@ -227,7 +227,7 @@ export default function Review() {
                   />
                 </div>
                 <div className="py-1">
-                  <b>Zaid Sayyed</b>
+                  <b>Khalid Shaikh</b>
                 </div>
                 <div className="static-rating">
                   <span className="star">★</span>
@@ -237,7 +237,8 @@ export default function Review() {
                   <span className="star">★</span>
                 </div>
                 <p>
-                  I did my hair transplant at the hair and shape clinic about a 7 month ago, the team at clinic is highly professional, experienced and caring they made me feel comfortable during the entire process. Now after 7 months confidently I can say that the result have exceeded my expectation and my hairline looks natural, the density of hair improved a lot. Thank you Team for restoring my self confidence and helping me feel like me again.
+                    Recently got a hair transplant done.
+Fantastic result and amazing service with Dr. Omkar and his team.
                 </p>
               </div>
             </div>
