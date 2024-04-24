@@ -39,7 +39,7 @@ export default function ArmLift() {
       <section className="py-5">
         <div className="container">
         <h2>Who is this procedure for?</h2>
-         <p> You may benefit from brachioplasty surgery if your upper arms are drooping or sagging. This area may take on a batwing-like appearance with a flap of skin that hangs down when you raise your arms.</p>
+         // <p> You may benefit from brachioplasty surgery if your upper arms are drooping or sagging. This area may take on a batwing-like appearance with a flap of skin that hangs down when you raise your arms.</p>
             <p>This may occur due to:</p>
             <ul>
                 <li>Changes in skin elasticity that occur with age.</li>
