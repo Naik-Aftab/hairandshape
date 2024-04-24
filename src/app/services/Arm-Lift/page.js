@@ -20,7 +20,7 @@ export default function ArmLift() {
             <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
               <div className="about">
                 <h2>Arm Lift (Brachioplasty)</h2>
-                <p>Brachioplasty is a type of cosmetic surgery that can improve the appearance of your upper arms. It involves tightening sagging skin and supportive tissue. Surgeons also remove pockets of fat. It makes your arms appear more sculpted in a way that exercise and diet alone can't.</p>
+                <p>Brachioplasty is a type of cosmetic surgery that can improve the appearance of your upper arms. It involves tightening sagging skin and supportive tissue. Surgeons also remove pockets of fat. It makes your arms appear more sculpted in a way that exercise and diet alone can&apos;t.</p>
                 <p>This procedure, also known as an arm lift, is a type of cosmetic surgery. It helps improve tone and definition in your upper arms by:</p>
                 <ul>
                   <li>Reducing pockets of fat.</li>
@@ -39,7 +39,8 @@ export default function ArmLift() {
       <section className="py-5">
         <div className="container">
         <h2>Who is this procedure for?</h2>
-<p>You may benefit from brachioplasty surgery if your upper arms are drooping or sagging. This area may take on a batwing-like appearance with a flap of skin that hangs down when you raise your arms.</p>            <p>This may occur due to:</p>
+            <p>You may benefit from brachioplasty surgery if your upper arms are drooping or sagging. This area may take on a batwing-like appearance with a flap of skin that hangs down when you raise your arms.</p>
+            <p>This may occur due to:</p>
             <ul>
                 <li>Changes in skin elasticity that occur with age.</li>
                 <li>Losing a lot of weight with or without obesity surgery and maintaining a healthy lifestyle.</li>
