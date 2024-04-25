@@ -62,7 +62,7 @@ export default function Review() {
                   />
                 </div>
                 <div className="py-1">
-                  <b>Mr Lalchand Rajpur (Cricketer)</b>
+                  <b>Deepika</b>
                 </div>
                 <div className="static-rating">
                   <span className="star">★</span>
@@ -72,7 +72,8 @@ export default function Review() {
                   <span className="star">★</span>
                 </div>
                 <p>
-                 If you want to do hair Transplant Avanza Clinic Should be your first choice in Mumbai.
+                 If you want to do hair Transplant Avanza Clinic Should be your first choice in Mumbai.I had the privilege of being under Dr. Umang Kothari’s care. He is an outstanding
+                    healthcare professional. Dr. Kothari is friendly, thorough and collaborative. He made me feel assured throughout my treatment and empowered me to make informed choices about my health.
                                     
                 </p>
               </div>
@@ -94,7 +95,7 @@ export default function Review() {
                   />
                 </div>
                 <div className="py-1">
-                  <b>Raviteja Gude</b>
+                  <b>Ajit Khedekar</b>
                 </div>
                 <div className="static-rating">
                   <span className="star">★</span>
@@ -104,8 +105,7 @@ export default function Review() {
                   <span className="star">★</span>
                 </div>
                 <p>
-                  I didt a lot of search and came across Avanza clinic for my hair transplant. Dr Shweta did a good job with the treatment. I felt very comfortable with the procedure and the staff is also nice.
-                
+                    It was great experience at the hair and shape clinic Dr. Omkar and his team during pre - post of surgery. Still my process is on going. I am very excited for my final new look. Thankyou so much to all team.                
                 </p>
               </div>
             </div>
@@ -127,7 +127,7 @@ export default function Review() {
                   />
                 </div>
                 <div className="py-1">
-                  <b>Charles DSA</b>
+                  <b>Swapnil Varute</b>
                 </div>
                 <div className="static-rating">
                   <span className="star">★</span>
@@ -137,8 +137,8 @@ export default function Review() {
                   <span className="star">★</span>
                 </div>
                 <p>
-                 I am very happy with the overall results and would highly recommend this clinic to anyone who wants to go in for a hair transplant.
-                
+                Hi, This is my Second experience with Hair &amp; shape clinic. Resently i have done my both chest Gynecomastia surgery, surgery was very painless.
+                Dr. Umang kothari is very well experienced and friendly surgen. Also Mr. Kundan is very good staff..☺️                
                  
                 </p>
               </div>
@@ -161,7 +161,7 @@ export default function Review() {
                   />
                 </div>
                 <div className="py-1">
-                  <b>Sanjay Bhatia</b>
+                  <b>Wasim Mirza</b>
                 </div>
                 <div className="static-rating">
                   <span className="star">★</span>
@@ -170,9 +170,9 @@ export default function Review() {
                   <span className="star">★</span>
                   <span className="star">★</span>
                 </div>
-                <p>
-                  Excellent staff, good doctor and you offer good service to client, may be cost bit on higher side, but they maintaining standard and services.
-                                     
+                <p> The Clinic was up to mark from Receptionist to Surgeons. From Appointment Booking to completely the surgery. For me Its been 3 months 15 days.I went there for my FUE
+                    Hair Transplant Surgery. And it's just 3 + months and the result are very Good.Thanks to my Doctor, whatever they have prescribed I have did exactly the
+                    same from medicine to Diet from time to time and that's why I'm getting the best result. Now I can only say that it's worth the money coming to The Hair and Shape Clinic.                                     
                 </p>
               </div>
             </div>
