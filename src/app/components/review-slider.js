@@ -126,7 +126,7 @@ It was great experience at the hair and shape clinic Dr. Omkar and his team duri
                   />
                 </div>
                <div className="py-1">
-                  <b>Charles DSA</b>
+                  <b>Mangesh Dapake</b>
                 </div>
                 <div className="static-rating">
                   <span className="star">★</span>
@@ -136,7 +136,15 @@ It was great experience at the hair and shape clinic Dr. Omkar and his team duri
                   <span className="star">★</span>
                 </div>
                 <p>
-                 I am very happy with the overall results and would highly recommend this clinic to anyone who wants to go in for a hair transplant.
+               I had done my hair transplant surgery from this clinic and result is outstanding,
+                                        doctors and staff are well qualified and well trained they are highly supportive
+                                        after transplant they gives us continues follow up to monitor progress of
+                                        surgery
+                                        now in June i have done my crown area transplant and it is also going well there
+                                        was
+                                        no any complication in my both surgery
+                                        I think hair and shape clinic is best clinic for hair transplant with reasonable
+                                        price
                 
                  
                 </p>
@@ -161,7 +169,7 @@ It was great experience at the hair and shape clinic Dr. Omkar and his team duri
                   />
                 </div>
                                <div className="py-1">
-                  <b>Sanjay Bhatia</b>
+                  <b>Swapnil Varute</b>
                 </div>
                 <div className="static-rating">
                   <span className="star">★</span>
@@ -171,8 +179,14 @@ It was great experience at the hair and shape clinic Dr. Omkar and his team duri
                   <span className="star">★</span>
                 </div>
                 <p>
-                  Excellent staff, good doctor and you offer good service to client, may be cost bit on higher side, but they maintaining standard and services.
-                                     
+Hi,
+
+                                        This is my Second experience with Hair &amp; shape clinic.
+                                        Resently i have done my both chest Gynecomastia surgery, surgery was very
+                                        painless.
+                                        Dr. Umang kothari is very well experienced and friendly surgen. Also Mr. Kundan
+                                        is
+                                        very good staff.                                     
                 </p>
 
               </div>
