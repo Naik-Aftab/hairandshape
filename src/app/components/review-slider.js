@@ -72,10 +72,8 @@ export default function Review() {
                   <span className="star">★</span>
                 </div>
                 <p>
-                 If you want to do hair Transplant Avanza Clinic Should be your first choice in Mumbai.I had the privilege of being under Dr. Umang Kothari’s care. He is an outstanding
-                    healthcare professional. Dr. Kothari is friendly, thorough and collaborative. He made me feel assured throughout my treatment and empowered me to make informed choices about my health.
-                                    
-                </p>
+                 If you want to do hair Transplant Avanza Clinic Should be your first choice in Mumbai.I had the privilege of being under Dr. Umang Kothari’s care. He is an outstanding healthcare professional. Dr. Kothari is friendly, thorough and collaborative. He made me feel assured throughout my treatment and empowered me to make informed choices about my health.
+               </p>
               </div>
             </div>
           </div>
@@ -137,9 +135,7 @@ export default function Review() {
                   <span className="star">★</span>
                 </div>
                 <p>
-                Hi, This is my Second experience with Hair &amp; shape clinic. Resently i have done my both chest Gynecomastia surgery, surgery was very painless.
-                Dr. Umang kothari is very well experienced and friendly surgen. Also Mr. Kundan is very good staff..☺️                
-                 
+                Hi, This is my Second experience with Hair &amp; shape clinic. Resently i have done my both chest Gynecomastia surgery, surgery was very painless. Dr. Umang kothari is very well experienced and friendly surgen. Also Mr. Kundan is very good staff..☺️                
                 </p>
               </div>
             </div>
@@ -170,9 +166,8 @@ export default function Review() {
                   <span className="star">★</span>
                   <span className="star">★</span>
                 </div>
-                <p> The Clinic was up to mark from Receptionist to Surgeons. From Appointment Booking to completely the surgery. For me Its been 3 months 15 days.I went there for my FUE
-                    Hair Transplant Surgery. And it's just 3 + months and the result are very Good.Thanks to my Doctor, whatever they have prescribed I have did exactly the
-                    same from medicine to Diet from time to time and that's why I'm getting the best result. Now I can only say that it's worth the money coming to The Hair and Shape Clinic.                                     
+                <p>
+                    The Clinic was up to mark from Receptionist to Surgeons. From Appointment Booking to completely the surgery. For me Its been 3 months 15 days.I went there for my FUE Hair Transplant Surgery. And it's just 3 + months and the result are very Good.Thanks to my Doctor, whatever they have prescribed I have did exactly the same from medicine to Diet from time to time and that's why I'm getting the best result. Now I can only say that it's worth the money coming to The Hair and Shape Clinic. 
                 </p>
               </div>
             </div>
