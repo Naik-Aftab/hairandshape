@@ -33,7 +33,7 @@ export default function Doctor() {
     return (
         <section id='doctor' className='pt-5'>
             <div className="container doctor-swiper" style={{overflow:'hidden'}}>
-                <h1 className='text-center pb-2' style={{color:'var(--blue)'}} data-aos="zoom-in"><span>&#x275D;</span> Meet The Surgeons <span>&#x275E;</span></h1>
+                <h1 className='text-center pb-2' style={{color:'var(--blue)'}} data-aos="zoom-in">&#x275D; Meet The Surgeons &#x275E;</h1>
 
                 <div className="swiper-wrapper">
                     <div className='swiper-slide'>

@@ -32,32 +32,6 @@ const ThreadLiftPage = () => {
             </section>
             {/* ========== End main content ========== */}
 
-            {/* ========== Start result ========== */}
-            <section className="py-5">
-                <div className="container-fluid">
-                    <div className="swiper mySwiper">
-                        <div className="swiper-wrapper">
-                            <div className="swiper-slide">
-                                <img src="/Amey.jpg" alt="image" width="300px" />
-                            </div>
-                            <div className="swiper-slide">
-                                <img src="/Ankur Anand.jpg" alt="image" width="300px" />
-                            </div>
-                            <div className="swiper-slide">
-                                <img src="/Araj.jpg" alt="image" width="300px" />
-                            </div>
-                            <div className="swiper-slide">
-                                <img src="/Bhagyesh.jpg" alt="image" width="300px" />
-                            </div>
-                            <div className="swiper-slide">
-                                <img src="/chirag.jpg" alt="image" width="300px" />
-                            </div>
-                        </div>
-                        {/* <div className="swiper-pagination"></div> */}
-                    </div>
-                </div>
-            </section>
-            {/* ========== End result ========== */}
         </>
     );
 };

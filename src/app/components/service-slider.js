@@ -10,7 +10,7 @@ export const Service = () => {
   return (
     <section>
 
-<h2 className="text-center px-3" style={{color:'white'}} data-aos="zoom-in">Our Specialized services</h2>
+<h2 className="text-center px-3" style={{color:'white'}} data-aos="zoom-in">Our Specialized Services</h2>
 
       <Swiper
         slidesPerView={1}

@@ -168,13 +168,13 @@ const Navbar = () => {
                     <div className="col-megamenu">
                       <h6 className="title"><b>Aesthetic Medicine</b></h6>
                       <ul className="list-unstyled">
-                        <li><Link href="/services/Hair_Removal">Hair Removal</Link></li>
-                        <li><Link href="/services/Tattoo_Removal">Tattoo Removal</Link></li>
-                        <li><Link href="/services/Skin_Tightening">Skin Tightening</Link></li>
+                        <li><Link href="/services/Hair-Removal">Hair Removal</Link></li>
+                        <li><Link href="/services/Tattoo-Removal">Tattoo Removal</Link></li>
+                        <li><Link href="/services/Skin-Tightening">Skin Tightening</Link></li>
                         <li><Link href="/services/Depigmentation">Depigmentation</Link></li>
                         <li><Link href="/services/Botox">Botox</Link></li>
                         <li><Link href="/services/Fillers">Fillers</Link></li>
-                        <li><Link href="/services/Thread_Lifts">Thread Lifts</Link></li>
+                        <li><Link href="/services/Thread-Lifts">Thread Lifts</Link></li>
                       </ul>
                     </div>
                   </div>
@@ -183,17 +183,28 @@ const Navbar = () => {
             </li> 
             <li className="nav-item dropdown result-menu">
               <Link href="#" className="nav-link dropdown-toggle" id="galleryDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                <b>Before/After</b>
+                <b>Before & After</b>
               </Link>
               <ul className="dropdown-menu result-item" aria-labelledby="galleryDropdown">
-                <li><Link href="/gallery/images" className="dropdown-item">Images</Link></li>
-                <li><Link href="/gallery/videos" className="dropdown-item">Videos</Link></li>
+                <li><Link href="/gallery/" className="dropdown-item">Hair Transplant</Link></li>
+                <li><Link href="/gallery/" className="dropdown-item">PRP</Link></li>
+                <li><Link href="/gallery/" className="dropdown-item">Liposuction</Link></li>
+                <li><Link href="/gallery/" className="dropdown-item">Thigh Liposuction</Link></li>
+                <li><Link href="/gallery/" className="dropdown-item">Tummy Tuck</Link></li>
+                <li><Link href="/gallery/" className="dropdown-item">Gynecomastia</Link></li>
+                <li><Link href="/gallery/" className="dropdown-item">Breast Augmentation</Link></li>
+                <li><Link href="/gallery/" className="dropdown-item">Breast Reduction</Link></li>
+                <li><Link href="/gallery/" className="dropdown-item">Arm Lift</Link></li>
+                <li><Link href="/gallery/" className="dropdown-item">Rhinoplasty</Link></li>
               </ul>
             </li>
             <li className="nav-item">
               <Link href="/contact" className="nav-link">
                 <b>Contact Us</b>
               </Link>
+            </li>
+            <li className='nav-item'>
+              <a className='nav-link'><b>Gender Reassignment</b></a>
             </li>
           </ul>
         </div>
