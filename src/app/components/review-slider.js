@@ -125,8 +125,8 @@ It was great experience at the hair and shape clinic Dr. Omkar and his team duri
                     style={{ width: "20px" }}
                   />
                 </div>
-                <div className="py-1">
-                  <b>Wasim Mirza</b>
+               <div className="py-1">
+                  <b>Charles DSA</b>
                 </div>
                 <div className="static-rating">
                   <span className="star">★</span>
@@ -136,9 +136,11 @@ It was great experience at the hair and shape clinic Dr. Omkar and his team duri
                   <span className="star">★</span>
                 </div>
                 <p>
-The Clinic was up to mark from Receptionist to Surgeons. From Appointment Booking to completely the surgery. For me Its been 3 months 15 days.I went there for my FUE Hair Transplant Surgery. And it's just 3 + months and the result are very Good.Thanks to my Doctor, whatever they have prescribed I have did exactly the same from medicine to Diet from time to time and that's why I'm getting the best result. Now I can only say that it's worth the money coming to The Hair and Shape Clinic.                
+                 I am very happy with the overall results and would highly recommend this clinic to anyone who wants to go in for a hair transplant.
+                
                  
                 </p>
+
               </div>
             </div>
           </div>
