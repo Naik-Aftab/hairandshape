@@ -62,7 +62,7 @@ export default function Review() {
                   />
                 </div>
                 <div className="py-1">
-                  <b>Wasim Mirza</b>
+                  <b>Mr Lalchand Rajpur (Cricketer)</b>
                 </div>
                 <div className="static-rating">
                   <span className="star">★</span>
@@ -72,10 +72,8 @@ export default function Review() {
                   <span className="star">★</span>
                 </div>
                 <p>
-                  The Clinic was up to mark from Receptionist to Surgeons. From
-                  Appointment Booking to completely the surgery. For me Its been
-                  3 months 15 days.I went there for my FUE Hair Transplant
-                 
+                 If you want to do hair Transplant Avanza Clinic Should be your first choice in Mumbai.
+                                    
                 </p>
               </div>
             </div>
@@ -87,8 +85,7 @@ export default function Review() {
               <div className="shadow-effect text-center p-4">
                 <div
                   className="py-2"
-                  style={{ display: "flex", justifyContent: "center" }}
-                >
+                  style={{ display: "flex", justifyContent: "center" }}>
                   <img
                     className="m-0"
                     src="/search.png"
@@ -97,7 +94,7 @@ export default function Review() {
                   />
                 </div>
                 <div className="py-1">
-                  <b>Wasim Mirza</b>
+                  <b>Raviteja Gude</b>
                 </div>
                 <div className="static-rating">
                   <span className="star">★</span>
@@ -107,10 +104,8 @@ export default function Review() {
                   <span className="star">★</span>
                 </div>
                 <p>
-                  The Clinic was up to mark from Receptionist to Surgeons. From
-                  Appointment Booking to completely the surgery. For me Its been
-                  3 months 15 days.I went there for my FUE Hair Transplant
-                  
+                  I didt a lot of search and came across Avanza clinic for my hair transplant. Dr Shweta did a good job with the treatment. I felt very comfortable with the procedure and the staff is also nice.
+                
                 </p>
               </div>
             </div>
@@ -132,7 +127,7 @@ export default function Review() {
                   />
                 </div>
                 <div className="py-1">
-                  <b>Wasim Mirza</b>
+                  <b>Charles DSA</b>
                 </div>
                 <div className="static-rating">
                   <span className="star">★</span>
@@ -142,9 +137,8 @@ export default function Review() {
                   <span className="star">★</span>
                 </div>
                 <p>
-                  The Clinic was up to mark from Receptionist to Surgeons. From
-                  Appointment Booking to completely the surgery. For me Its been
-                  3 months 15 days.I went there for my FUE Hair Transplant
+                 I am very happy with the overall results and would highly recommend this clinic to anyone who wants to go in for a hair transplant.
+                
                  
                 </p>
               </div>
@@ -167,7 +161,7 @@ export default function Review() {
                   />
                 </div>
                 <div className="py-1">
-                  <b>Wasim Mirza</b>
+                  <b>Sanjay Bhatia</b>
                 </div>
                 <div className="static-rating">
                   <span className="star">★</span>
@@ -177,10 +171,8 @@ export default function Review() {
                   <span className="star">★</span>
                 </div>
                 <p>
-                  The Clinic was up to mark from Receptionist to Surgeons. From
-                  Appointment Booking to completely the surgery. For me Its been
-                  3 months 15 days.I went there for my FUE Hair Transplant
-                 
+                  Excellent staff, good doctor and you offer good service to client, may be cost bit on higher side, but they maintaining standard and services.
+                                     
                 </p>
               </div>
             </div>
@@ -202,7 +194,7 @@ export default function Review() {
                   />
                 </div>
                 <div className="py-1">
-                  <b>Wasim Mirza</b>
+                  <b>Dipesh</b>
                 </div>
                 <div className="static-rating">
                   <span className="star">★</span>
@@ -212,10 +204,7 @@ export default function Review() {
                   <span className="star">★</span>
                 </div>
                 <p>
-                  The Clinic was up to mark from Receptionist to Surgeons. From
-                  Appointment Booking to completely the surgery. For me Its been
-                  3 months 15 days.I went there for my FUE Hair Transplant
-                  
+Great experience. The staff and doctors are all wonderful and they take care of you. The procedure was fast and only took 6-7 hours. The injecting of the anesthesia was the only uncomfortable part of the procedure. I can’t wait for my results in 6-12 months from now                  
                 </p>
               </div>
             </div>
@@ -237,7 +226,7 @@ export default function Review() {
                   />
                 </div>
                 <div className="py-1">
-                  <b>Wasim Mirza</b>
+                  <b>Khalid Shaikh</b>
                 </div>
                 <div className="static-rating">
                   <span className="star">★</span>
@@ -247,10 +236,8 @@ export default function Review() {
                   <span className="star">★</span>
                 </div>
                 <p>
-                  The Clinic was up to mark from Receptionist to Surgeons. From
-                  Appointment Booking to completely the surgery. For me Its been
-                  3 months 15 days.I went there for my FUE Hair Transplant
-                 
+                    Recently got a hair transplant done.
+Fantastic result and amazing service with Dr. Omkar and his team.
                 </p>
               </div>
             </div>
