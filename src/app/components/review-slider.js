@@ -137,9 +137,7 @@ I had the privilege of being under Dr. Umang Kothari’s care. He is an outstand
                   <span className="star">★</span>
                   <span className="star">★</span>
                 </div>
-                <p>
-                Hi, This is my Second experience with Hair &amp; shape clinic. Resently i have done my both chest Gynecomastia surgery, surgery was very painless. Dr. Umang kothari is very well experienced and friendly surgen. Also Mr. Kundan is very good staff..☺️                
-                </p>
+                <p>Hi, This is my Second experience with Hair &amp; shape clinic. Resently i have done my both chest Gynecomastia surgery, surgery was very painless. Dr. Umang kothari is very well experienced and friendly surgen. Also Mr. Kundan is very good staff.. </p>
               </div>
             </div>
           </div>
