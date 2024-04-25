@@ -34,7 +34,7 @@ export default function Results() {
     return (
         <section className='py-5'>
             <div className="container-fluid result-swiper" style={{overflow:'hidden'}}>
-                <h1 className='text-center py-3 px-3' data-aos="zoom-in"><b>Improving The Quality of Your Aesthetics Through Better</b></h1>
+                <h1 className='text-center py-3 px-3' data-aos="zoom-in"><b>Successful Liposuction Results</b></h1>
                 <div className="swiper-wrapper">
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                      <img

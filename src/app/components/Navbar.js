@@ -183,7 +183,7 @@ const Navbar = () => {
             </li> 
             <li className="nav-item dropdown result-menu">
               <Link href="#" className="nav-link dropdown-toggle" id="galleryDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                <b>Results</b>
+                <b>Before/After</b>
               </Link>
               <ul className="dropdown-menu result-item" aria-labelledby="galleryDropdown">
                 <li><Link href="/gallery/images" className="dropdown-item">Images</Link></li>
