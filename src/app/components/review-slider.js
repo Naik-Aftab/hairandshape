@@ -62,7 +62,7 @@ export default function Review() {
                   />
                 </div>
                 <div className="py-1">
-                  <b>Mr Lalchand Rajpur (Cricketer)</b>
+                  <b>Deepika</b>
                 </div>
                 <div className="static-rating">
                   <span className="star">★</span>
@@ -72,7 +72,7 @@ export default function Review() {
                   <span className="star">★</span>
                 </div>
                 <p>
-                 If you want to do hair Transplant Avanza Clinic Should be your first choice in Mumbai.
+                I had the privilege of being under Dr. Umang Kothari’s care. He is an outstanding healthcare professional. Dr. Kothari is friendly, thorough and collaborative. He made me feel assured throughout my treatment and empowered me to make informed choices about my health.
                                     
                 </p>
               </div>
