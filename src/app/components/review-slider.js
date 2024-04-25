@@ -158,8 +158,8 @@ The Clinic was up to mark from Receptionist to Surgeons. From Appointment Bookin
                     style={{ width: "20px" }}
                   />
                 </div>
-                <div className="py-1">
-                  <b>Swapnil Varute</b>
+                               <div className="py-1">
+                  <b>Sanjay Bhatia</b>
                 </div>
                 <div className="static-rating">
                   <span className="star">★</span>
@@ -169,8 +169,10 @@ The Clinic was up to mark from Receptionist to Surgeons. From Appointment Bookin
                   <span className="star">★</span>
                 </div>
                 <p>
-Hi, This is my Second experience with Hair &amp; shape clinic.Resently i have done my both chest Gynecomastia surgery, surgery was very painless. Dr. Umang kothari is very well experienced and friendly surgen. Also Mr. Kundan is very good staff..☺️                                      
+                  Excellent staff, good doctor and you offer good service to client, may be cost bit on higher side, but they maintaining standard and services.
+                                     
                 </p>
+
               </div>
             </div>
           </div>
