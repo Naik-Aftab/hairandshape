@@ -62,7 +62,7 @@ export default function Review() {
                   />
                 </div>
                 <div className="py-1">
-                  <b>Deepika</b>
+                  <b>Ajit Khedekar</b>
                 </div>
                 <div className="static-rating">
                   <span className="star">★</span>
@@ -94,7 +94,7 @@ It was great experience at the hair and shape clinic Dr. Omkar and his team duri
                   />
                 </div>
                 <div className="py-1">
-                  <b>Ajit Khedekar</b>
+                  <b>Deepika</b>
                 </div>
                 <div className="static-rating">
                   <span className="star">★</span>
@@ -104,8 +104,10 @@ It was great experience at the hair and shape clinic Dr. Omkar and his team duri
                   <span className="star">★</span>
                 </div>
                 <p>
-                    It was great experience at the hair and shape clinic Dr. Omkar and his team during pre - post of surgery. Still my process is on going. I am very excited for my final new look. Thankyou so much to all team.                
-                </p>
+I had the privilege of being under Dr. Umang Kothari’s care. He is an outstanding
+                                    healthcare professional. Dr. Kothari is friendly, thorough and collaborative. He
+                                    made me feel assured throughout my treatment and empowered me to make informed
+                                    choices about my health.                </p>
               </div>
             </div>
           </div>
