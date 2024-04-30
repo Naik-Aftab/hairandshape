@@ -25,7 +25,7 @@ export default function Home() {
 
             <section> 
                 <div className="container-fluid p-0">
-                     {/* <video className="banner-video" src="/banner-video.mp4" poster="" muted preload="auto" loop autoPlay></video> */}
+                     <video className="banner-video" src="/banner-video.mp4" poster="" muted preload="auto" loop autoPlay></video>
                 </div>
              </section>
 
