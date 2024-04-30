@@ -39,10 +39,34 @@ html {
   box-shadow: 0 0 15px 2px var(--yellow); 
 }
 
+.input-group-text {
+  background-color: #fff;
+  border-right: 0px;
+  border-top-right-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
+}
+
+.input-group input {
+  border-left: 0
+}
+
+.nav-pills .nav-link.active {
+  background-color: var(--blue) !important; 
+  color: var(--yellow) !important;
+  border-radius: 20px;
+  font-size: 18px;
+  font-weight: 600; 
+}
+
+.nav-pills .nav-link{
+  color: var(--blue);
+  font-size: 18px;
+  font-weight: 600; 
+}
 
 a {
   text-decoration: none !important;
-  color: black !important ;
+  color: var(--yellow) !important ;
 }
 
 p {
@@ -124,7 +148,7 @@ p {
 .hairContainer {
     position: relative;
     /* background-color: rgb(255 255 255 / 20%) !important; */
-    background: var(--light) !important;
+    background: var(--blue) !important;
     /* color :#fff !important; */
     box-shadow: 0 0 15px 2px var(--yellow); 
     border: 1px solid var(--yellow); 
@@ -132,12 +156,16 @@ p {
 
 }
  .hairContainer h3{
-  color :var(--blue) !important;
+  color :var(--yellow) !important;
   /* text-shadow: 0.5px 0.5px #fff; */
  }
  .hairContainer h4{
-  color :var(--blue) !important;
+  color :var(--yellow) !important;
   /* text-shadow: 0.5px 0.5px #fff; */
+ }
+
+ .hairContainer p{
+  color: var(--yellow);
  }
 
 .hairContainer:hover {
@@ -170,7 +198,7 @@ p {
   list-style-type: disc; 
   padding-left: 0px;
   font-size: 18px;
-  text-align: center;
+  /* text-align: center; */
 }
 
 .under-line{
@@ -240,41 +268,13 @@ p {
 }
 
 .swiper-horizontal{
-
   overflow:hidden;
 }
 
 .swiper-pagination .swiper-pagination-bullet{
-  background: #dcab28 !important;
+  background: var(--blue) !important;
 }
 
-
-
-.doctorImage{
-  z-index: 5;
-}
-
-.doctorInfo {
-  position: relative;
-  padding: 20px;
-  border-top-left-radius: 20px;
-  border-bottom-left-radius: 20px;
-  background-color: #03113f;
-  color: #fff;
-}
-
- .doctorInfo::after {
-  content: "";
-  position: absolute;
-  top: 0;
-  right: -200px; 
-  width: 200px;
-  height: 100%; 
-  background-color: #03113f;
-  border-top-right-radius: 20px; 
-  border-bottom-right-radius: 20px;
-
-} 
 
 .footer-overlay-color {
   background-color: #07268ce6;
@@ -308,13 +308,14 @@ p {
 }
 
 .choose .shadow{
-  border: 1px solid var(--yellow); 
-  box-shadow: 0 0 15px 2px var(--yellow) !important; 
-  border-radius: 8px;
+  /* border: 3px solid var(--blue);  */
+  box-shadow: 0 0 8px 0px var(--blue) !important; 
+  border-radius: 10px;
 }
 
 .choose .card{
   transition: transform 0.3s ease-in-out;
+  background-color: #ffdc5f;
 }
 
 .choose .card:hover{
@@ -332,6 +333,18 @@ p {
 .contact-pg a:hover{
   box-shadow: 0 2px 15px 2px var(--yellow);
  
+}
+
+.counter-number {
+  font-weight: 700;
+  color: var(--yellow);
+  font-size: 28px;
+  text-align: center;
+}
+
+.counter-text {
+  font-weight: 700;
+  color: var(--blue);
 }
 
 /* mobile view */

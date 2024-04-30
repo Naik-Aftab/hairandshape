@@ -9,8 +9,8 @@ import { Autoplay, Pagination } from "swiper/modules";
 export const Service = () => {
   return (
     <section>
-
-<h2 className="text-center px-3" style={{color:'white'}} data-aos="zoom-in">Our Specialized Services</h2>
+<p className="text-center mb-0" ><b>What We Do ?</b></p>
+<h1 className="text-center px-3" style={{color:'var(--blue)'}} data-aos="zoom-in"><b>Our Specialized Services</b></h1>
 
       <Swiper
         slidesPerView={1}
@@ -44,8 +44,8 @@ export const Service = () => {
 
         <SwiperSlide className="d-flex  justify-content-center align-items-center" >
         <div className="m-3 card hairContainer">
-          <div className="hairOverlay d-flex justify-content-center align-items-center">
-          <ul style={{listStyleType: 'none', paddingLeft: '0px'}}>
+          <div className="hairOverlay d-flex justify-content-center align-items-center" style={{padding:'0 10px 0 35px'}}>
+          <ul style={{color:'white'}}>
             <li><a href="#">Hair Transplant FUT</a></li>
             <li><a href="#">Hair Transplant BIO FUE</a></li>
             <li><a href="#">Hair Transplant BIG FUE</a></li>
@@ -63,7 +63,7 @@ export const Service = () => {
         <SwiperSlide className="d-flex justify-content-center align-items-center" >
         <div className="m-3 card hairContainer">
           <div className="hairOverlay d-flex justify-content-center align-items-center">
-          <ul style={{listStyleType: 'none', paddingLeft: '0px'}}>
+          <ul style={{color:'white'}}>
             <li><a href="#">Hair Removal</a></li>
             <li><a href="#">Tattoo Removal</a></li>
             <li><a href="#">Skin Tightening</a></li>
@@ -81,7 +81,7 @@ export const Service = () => {
         <SwiperSlide className="d-flex justify-content-center align-items-center" >
         <div className="m-3 card hairContainer">
           <div className="hairOverlay d-flex justify-content-center align-items-center">
-          <ul style={{listStyleType: 'none', paddingLeft: '0px'}}>
+          <ul style={{color:'white'}}>
             <li><a href="#">Acne</a></li>
             <li><a href="#">Psoriasis</a></li>
             <li><a href="#">Vitiligo</a></li>
@@ -97,7 +97,7 @@ export const Service = () => {
         <SwiperSlide className="d-flex justify-content-center align-items-center" >
         <div className="m-3 card hairContainer" >
           <div className="hairOverlay d-flex justify-content-center align-items-center">
-          <ul style={{listStyleType: 'none', paddingLeft: '0px'}}>
+          <ul style={{color:'white'}}>
             <li><a href="#">Hydra Facial</a></li>
             <li><a href="#">Carbon Peel</a></li>
             <li><a href="#">Chemical Peel</a></li>
@@ -112,8 +112,8 @@ export const Service = () => {
         <SwiperSlide className="d-flex justify-content-center align-items-center" >
         <div className="m-3 card hairContainer">
           <div className="hairOverlay d-flex justify-content-center align-items-center">
-          <ul style={{listStyleType: 'none', paddingLeft: '0px'}}>
-            <li><a href="#">Male Surgeries</a></li>
+          <ul style={{color:'white'}}>
+            {/* <li><a href="#">Male Surgeries</a></li> */}
             <li><a href="#">Breast Surgeries</a></li>
             <li><a href="#">Body Surgeries</a></li>
             <li><a href="#">Facial Surgeries</a></li>

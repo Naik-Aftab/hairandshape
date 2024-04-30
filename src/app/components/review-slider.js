@@ -140,12 +140,7 @@ It was great experience at the hair and shape clinic Dr. Omkar and his team duri
                                         doctors and staff are well qualified and well trained they are highly supportive
                                         after transplant they gives us continues follow up to monitor progress of
                                         surgery
-                                        now in June i have done my crown area transplant and it is also going well there
-                                        was
-                                        no any complication in my both surgery
-                                        I think hair and shape clinic is best clinic for hair transplant with reasonable
-                                        price
-                
+                                        now in June i have done my crown area transplant and it is also going well.
                  
                 </p>
 
