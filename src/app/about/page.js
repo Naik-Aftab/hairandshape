@@ -41,7 +41,7 @@ const About = () => {
       </section>
 
       {/* <!-- ========== Start About ========== --> */}
-      <About />
+      {/* <About /> */}
       {/* <!-- ========== End About ========== --> */}
 
       <Results />
