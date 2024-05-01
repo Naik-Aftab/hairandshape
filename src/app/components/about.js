@@ -12,8 +12,8 @@ export const About = () => {
                         </div>
                         <div className="col-12 col-md-6 py-5 d-flex justify-content-center align-items-center" data-aos="fade-up">
                             <div>
-                                <h5 className='text-center text-md-start' style={{ color: 'var(--yellow)' }}>About Our Clinic</h5>
-                                <h3 className='text-center text-md-start'>Your Ultimate Aesthetic Destination</h3>
+                                <h5 className='text-center text-md-start' >About Our Clinic</h5>
+                                <h3 className='text-center text-md-start' style={{ color: 'var(--yellow)' }}>Your Ultimate Aesthetic Destination</h3>
                                 <p>The Hair And Shape Clinic is a Day Care Aesthetic Centre that brings to you a wide array of services all under one roof ranging from Hair Transplant, Laser and Cosmetology (Peels, Skin rejuvenation treatments, Botox, fillers and may more), Plastic surgery (Liposuction, Tummy tucks, Breast Implants, Bodycontouring, and similar) and Integrated Obesity Clinic (Physician / Dietician /Yoga Therapist/Bariatric Surgery/Plastic Surgeon).</p>
                                 <div className="container p-4">
                                     <div className="row">

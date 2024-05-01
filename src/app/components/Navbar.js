@@ -21,9 +21,12 @@ const Navbar = () => {
           <img src="/has-logo.png" alt="logo" width="70px" style={{filter: 'drop-shadow(0px 0px 5px #fff)'}} />
         </Link>
         <button className="navbar-toggler border-0 shadow-none collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span className="navbar-toggler-icon"></span>
+        <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="var(--yellow)" class="bi bi-list" viewBox="0 0 16 16">
+          <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5"/>
+        </svg>
         </button>
-        <div className="navbar-collapse justify-content-center collapse" id="navbarNav">
+        <div className="navbar-collapse collapse" id="navbarNav">
+          <div className='col-lg-10 navbar-lists'>
           <ul className="navbar-nav">
             <li className="nav-item">
               <Link href="/" className="nav-link">
@@ -202,10 +205,14 @@ const Navbar = () => {
               </Link>
             </li>           
           </ul>
-        </div>
-        <Link href="http://www.thegendercare.com/" className="" style={{color:'var(--yellow) !important'}} >
-          <img src='/GCC.png' alt='header-img' className='img-fluid' width={170}/>        
+          </div>
+         <div className='col-lg-2'>               
+          <Link href="http://www.thegendercare.com/">
+          <img src='/GCC.png' alt='header-img' className='' width={170}/>        
         </Link>
+         </div>               
+        </div>
+        
       </div>
     </nav>
   );
