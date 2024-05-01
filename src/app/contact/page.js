@@ -197,7 +197,7 @@ export default function Contact() {
       {/*<!-- ========== End Address ========== -->*/}
 
       {/* <!-- ========== Start Contactform ========== -->*/}
-      <section className="py-4" style={{background:'url(/bg/pattern1.jpg)',backgroundSize:'cover',backgroundPosition:'bottom'}}>
+      <section className="py-4" style={{background:'linear-gradient(to bottom, rgba(255, 246, 209, 0.5), rgba(255, 246, 209, 0.5)),url(/bg/pattern1.jpg)',backgroundSize:'cover',backgroundPosition:'bottom'}}>
         <div className="container">
           <div className="row d-flex align-items-center justify-content-center ">
             <div className="col-lg-12 shadow">
@@ -214,7 +214,7 @@ export default function Contact() {
                     }}
                   ></div>
                 </div>
-                <div className="col-md-6 col-12 shadow py-5 d-flex align-items-center justify-content-center" style={{background:'radial-gradient(at bottom, #193bac, #03113f)',borderTopRightRadius: '20px',borderBottomRightRadius: '20px'}}>
+                <div className="col-md-6 col-12 shadow py-3 d-flex align-items-center justify-content-center" style={{background:'radial-gradient(at bottom, #193bac, #03113f)',borderTopRightRadius: '20px',borderBottomRightRadius: '20px'}}>
                   <div className="container px-5">
                     <h3 className="mb-3 text-center" style={{color:'var(--yellow)'}}>
                       <b>Contact Form</b>
