@@ -34,7 +34,7 @@ export default function Doctor() {
                         <div className="container py-5">
                             <div className='row'>
                             <div data-aos='zoom-in' data-aos-delay='500' className='doctorImage col-12 col-md-6  d-flex justify-content-center align-items-center'>
-                                    <img className='img-fluid' src="/DrOmkar.png" alt="Dr. Omkar Warang" />
+                                    <img className='img-fluid shadow rounded' src="/Omkar-sir.jpg" alt="Dr. Omkar Warang" />
                                 </div>
 
                                 <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
