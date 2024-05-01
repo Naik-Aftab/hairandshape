@@ -41,8 +41,6 @@ export default function Home() {
             <About />
             {/* <!-- ========== End About ========== --> */}
 
-
-
             {/* <!-- ========== Start Service ========== --> */}
             <section className='py-5' style={{background:'var(--light)'}}>
             <Service />

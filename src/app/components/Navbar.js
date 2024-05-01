@@ -85,7 +85,7 @@ const Navbar = () => {
                               <li><Link href="/services/Breast-Augmentation">Breast Augmentation</Link></li>
                               <li><Link href="/services/Breast-Lift">Breast Lift</Link></li>
                               <li><Link href="/services/Breast-Reduction">Breast Reduction</Link></li>
-                              <li><Link href="/services/Breast-Reduction">Breast Implant/Fat</Link></li>
+                              <li><Link href="#">Breast Implant/Fat</Link></li>
                               <li><Link href="/services/Inverted-Nipple">Inverted Nipple</Link></li>
                               <li><Link href="/services/Gynecomastia">Gynecomastia (Male Boobs)</Link></li>
                             </ul>
@@ -105,7 +105,7 @@ const Navbar = () => {
                           <div className={`collapse ${isAccordionHovered('body') ? 'show' : ''}`} id="collapseBody">
                             <ul className="list-unstyled ms-2">
                               <li><Link href="/services/Liposuction">Liposuction</Link></li>
-                              <li><Link href="/services/6-Pack-Creation">Hi-Definition Liposuction</Link></li>
+                              <li><Link href="#">Hi-Definition Liposuction</Link></li>
                               <li><Link href="/services/Tummy-Tuck">Tummy Tuck</Link></li>
                               <li><Link href="/services/Mommy-Makeover">Mommy Makeover</Link></li>
                               <li><Link href="/services/Butt-Lift">Butt Contouring</Link></li>
@@ -128,7 +128,7 @@ const Navbar = () => {
                           <div className={`collapse ${isAccordionHovered('face') ? 'show' : ''}`} id="collapseFace">
                             <ul className="list-unstyled ms-2">
                               <li><Link href="/services/Rhinoplasty">Rhinoplasty</Link></li>
-                              <li><Link href="/services/Rhinoplasty">Chin Surgery</Link></li>
+                              <li><Link href="#">Chin Surgery</Link></li>
                               <li><Link href="/services/Face-Lift">Face Lift</Link></li>
                               <li><Link href="/services/Brow-Lift">Brow Lift</Link></li>
                               <li><Link href="/services/Lip-Reduction">Lip Reduction</Link></li>

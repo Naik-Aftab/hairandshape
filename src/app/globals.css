@@ -206,7 +206,7 @@ p {
   top: -15px;
   width: 25px;
   height: 2px;
-  background-color: #000;
+  background-color: var(--yellow);
   display: inline-block;
 }
 
@@ -314,12 +314,11 @@ p {
 }
 
 .choose .card{
-  transition: transform 0.3s ease-in-out;
   background-color: #ffdc5f;
 }
 
 .choose .card:hover{
-  transform: scale(1.02);
+  box-shadow: 0 0 20px 0px var(--yellow) !important; 
 }
 
 

@@ -35,7 +35,7 @@ export default function Results() {
         <section className='py-5'>
           <h1 className='text-center pb-3 px-3' data-aos="zoom-in"><b>Our Successful Results</b></h1>
 
-<div className='d-flex justify-content-center pb-5'>
+<div className='d-flex justify-content-center pb-3'>
 <ul class="nav nav-pills mb-3 d-flex justify-content-center py-1 px-2 px-md-5" id="pills-tab" role="tablist" style={{ background:'var(--yellow)',borderRadius:'25px'}}>
   <li class="nav-item" role="presentation">
     <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true">Hair Transplant</button>
@@ -134,7 +134,7 @@ export default function Results() {
                 <div className="swiper-wrapper">
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                      <img
-                        src="/results/Img 1.jpg"
+                        src="/Arm lift/A1.webp"
                         class="img-fluid rounded"
                         alt="result"
                      />
@@ -142,42 +142,56 @@ export default function Results() {
                     </div>
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                     <img
-                        src="/results/Img 2.jpg"
+                        src="/Breast Augmentation/Breast Augmentation 1.webp"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                     <img
-                        src="/results/Img 3.jpg"
+                        src="/Breast Reduction/Breast Reduction 1.webp"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                     <img
-                        src="/results/Img 4.jpg"
+                        src="/Gynecomastia/Gynecomastia 1.webp"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                     <img
-                        src="/results/Img 5.jpg"
+                        src="/Liposuction/Liposuction 1.webp"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                     <img
-                        src="/results/Img 6.jpg"
+                        src="/Rhinoplasty/Rhinoplasty 1.webp"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                     <img
-                        src="/results/Img 7.jpg"
+                        src="/Thigh Liposuction/Thigh Liposuction 1.webp"
+                        class="img-fluid rounded"
+                        alt="result"
+                     />
+                    </div>
+                    <div className='swiper-slide d-flex justify-content-center align-items-center'>
+                    <img
+                        src="/Tummy Liposuction/Tummy Liposuction 1.webp"
+                        class="img-fluid rounded"
+                        alt="result"
+                     />
+                    </div>
+                    <div className='swiper-slide d-flex justify-content-center align-items-center'>
+                    <img
+                        src="/Tummy Tuck/Tummy Tuck 1.webp"
                         class="img-fluid rounded"
                         alt="result"
                      />

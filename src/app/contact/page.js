@@ -7,9 +7,9 @@ export default function Contact() {
       <section
         style={{
           background:
-            "linear-gradient(to bottom, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(./contact.jpg)",
-          backgroundPosition: "center",
-          backgroundSize: "cover",
+            "linear-gradient(to bottom, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(/contact.jpg)",
+          backgroundPosition:'center',
+          backgroundSize: 'cover',
         }}
       >
         <div
@@ -24,12 +24,12 @@ export default function Contact() {
       {/* <!-- ========== End Banner ========== --> */}
 
       {/*<!-- ========== Start Address ========== -->*/}
-      <section className="py-5 bg-light">
+      <section className="py-5" style={{background:'var(--blue)', color:'var(--yellow)'}}>
         <div className="container contact-pg">
           <div className="row ">
             <div className="col-md ">
               <h5><b>Clinic Location</b></h5>
-              <span className="under-line"></span>
+              <span className="under-line" ></span>
 
               <ul className="icon-list">
                 <li className="icon-item">
