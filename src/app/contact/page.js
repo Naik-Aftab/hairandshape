@@ -216,9 +216,9 @@ export default function Contact() {
                 </div>
                 <div className="col-md-6 col-12 shadow py-3 d-flex align-items-center justify-content-center" style={{background:'radial-gradient(at bottom, #193bac, #03113f)',borderTopRightRadius: '20px',borderBottomRightRadius: '20px'}}>
                   <div className="container px-5">
-                    <h3 className="mb-3 text-center" style={{color:'var(--yellow)'}}>
-                      <b>Contact Form</b>
-                    </h3>
+                    <h1 className="mb-3 text-center" style={{color:'var(--yellow)'}}>
+                      <b>Contact With Us</b>
+                    </h1>
                     <form className="text-center">
                       <div className="mb-3">
                         <input
