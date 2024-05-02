@@ -9,11 +9,11 @@ export default function BreastLift() {
             </Head>
 
             {/* Start About */}
-            <section>
+            <section className='py-5'>
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
-                            <Image src="/breast-lift.jpg" alt="about image" width={500} height={500} />
+                            <img src="/breast-lift.jpg" alt="about image" />
                         </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
@@ -27,7 +27,7 @@ export default function BreastLift() {
             {/* End About */}
 
             {/* Start main content */}
-            <section>
+            <section className='pb-5'>
                 <div className="container">
                     <h2>Am I a Breast Lift Candidate?</h2>
                     <p>Breast lift surgery generally provides the best results in women who have small to moderate sized breasts that show signs of sagging. It is possible to treat larger and/or heavier breasts as well, but the weight of such breasts has tendency to undo the effects of the breast lift in a shorter amount of time.</p>
@@ -47,12 +47,12 @@ export default function BreastLift() {
             {/* End main content */}
 
             {/* Start FAQ */}
-            <section className="py-5">
+            <section className="pb-5">
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-5">
-                            {/* Replace the src attribute with the correct path to your image */}
-                            <Image src="/faq.jpg" alt="faq image" width={500} height={500} />
+                         
+                            <img src="/faq.jpg" alt="faq image" width={500} height={500} />
                         </div>
                         <div className="col-12 col-md-7">
                             <div className="section-header">
