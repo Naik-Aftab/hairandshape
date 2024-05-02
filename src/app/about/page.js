@@ -5,8 +5,9 @@ import 'aos/dist/aos.css';
 import Doctor from "../components/doctor-slider";
 import Results from "../components/results";
 import ContactForm from "../components/contact-form";
+import { About } from '../components/about';
 
-const About = () => {
+const Aboutpage = () => {
   useEffect(() => {
     AOS.init({
       duration: 1000,
@@ -41,7 +42,7 @@ const About = () => {
       </section>
 
       {/* <!-- ========== Start About ========== --> */}
-      {/* <About /> */}
+      <About />
       {/* <!-- ========== End About ========== --> */}
 
       <Results />
@@ -50,4 +51,4 @@ const About = () => {
   );
 };
 
-export default About;
+export default Aboutpage;

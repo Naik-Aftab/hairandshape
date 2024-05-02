@@ -7,10 +7,10 @@ const HairTransplantFutPage = () => {
             <section className='py-5'>
                 <div className="container">
                     <div className="row">
-                        <div className="col-6 d-flex justify-content-center align-items-center">
+                        <div className="col-md-6 col-12 pb-4 d-flex justify-content-center align-items-center">
                             <img className=' rounded shadow' src="/hair-transplant.jpeg" alt="about image" height='300px'/>
                         </div>
-                        <div className="col-6 d-flex justify-content-center align-items-center">
+                        <div className="col-md-6 col-12 d-flex justify-content-center align-items-center">
                             <div className="about">
                                 <h2> Hair Transplant FUT</h2>
                                 <p>This hair transplantation method involves donor hair being removed from a small single strip of tissue from the back of the head. The donor site is closed in a fine line with well-placed sutures to minimize the scar. Donor hair grafts are microscopically extracted from this tissue by our skilled hair specialist team. Grafts are then transplanted to recipient site areas created by our hair transplant surgeons in a fashion that yields the most natural, high density result.</p>

@@ -23,7 +23,7 @@ const ContactForm = () => {
         <>
             <section id="cta" className=" p-3 py-5" style={{background:'var(--light)'}}>
         <div className="container p-4 " style={{background:'var(--blue)', border:'1px Solid var(--yellow)', borderRadius: '10px', boxShadow: '0 0 10px 3px var(--yellow)'}}>
-            <h1 className="text-center" style={{color:'var(--yellow)'}}><b>Calculate Liposuction Cost</b></h1>
+            <h1 className="text-center" style={{color:'var(--yellow)'}}><b>Book Appointment Now</b></h1>
             <div className="appointment-form">
                 <form className="contact">
                     <div className="row py-4">
@@ -80,7 +80,7 @@ const ContactForm = () => {
                         </div>
                     </div>
                     <div className="text-center">
-                        <button type="submit" className="hsbtn border-0 py-2 px-3" id="submitBtn" style={{background:'var(--yellow)',color:'var(--blue)'}}>Get Costing Now</button>
+                        <button type="submit" className="hsbtn border-0 py-2 px-3" id="submitBtn" style={{background:'var(--yellow)',color:'var(--blue)'}}>Submit</button>
                     </div>
                 </form>
             </div>

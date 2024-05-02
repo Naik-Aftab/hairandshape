@@ -8,7 +8,6 @@ const HairTransplantBioFuePage = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
-                            {/* Update the image source with the correct path or use a placeholder image */}
                             <img src="/placeholder.jpg" alt="about image" />
                         </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
@@ -16,16 +15,16 @@ const HairTransplantBioFuePage = () => {
                                 <h2>Hair Transplant Bio Fue</h2>
                                 <p>The Hair And Shape Clinic is a state-of-the-art hair restoration centre. Our experts utilize the most advanced hair transplant techniques available today</p>
                                 <p>FUE is a minimally invasive hair restoration surgery that uses advanced technology to track and extract hair follicles with precise accuracy and control. The process involves using a small (0.8mm - 1.0mm), rounded instrument or “punch” to make a small, round incision in the skin around a follicular unit, isolating it from the surrounding tissue. The unit is then extracted (pulled) directly from the scalp, leaving a small open hole.</p>
-                            <p>There are 3 variations of FUE Hair Transplant :</p>
-  <ol >
-    <li><strong>BIO FUE</strong></li>
-    <li><strong>SAPPHIRE FUE</strong></li>
-    <li><strong>BIG FUE</strong></li>
-</ol>
+                                <p>There are 3 variations of FUE Hair Transplant :</p>
+                                <ol >
+                                    <li><strong>BIO FUE</strong></li>
+                                    <li><strong>SAPPHIRE FUE</strong></li>
+                                    <li><strong>BIG FUE</strong></li>
+                                </ol>
 
 
-        </div>
-       
+                            </div>
+
                         </div>
                     </div>
                 </div>
@@ -46,7 +45,7 @@ const HairTransplantBioFuePage = () => {
                             Next, we trim the hair in your donor area to facilitate the identification and removal of strong, healthy donor hairs.
                         </li>
                         <li>
-                            <strong>Step 3 - EXTRACTION :</strong> Extracting hair follicles from donor areas : Removing and Preparing the Hair Follicles 
+                            <strong>Step 3 - EXTRACTION :</strong> Extracting hair follicles from donor areas : Removing and Preparing the Hair Follicles
                             <ul>
                                 <li>Once the donor area is prepared, we remove individual follicular units from your scalp by making a tiny circular incision around them to isolate the graft. Then we extract the graft from the scalp using a forcep-like instrument.</li>
                                 <li>Our trained technicians examine the follicular grafts and prepare them for placement.</li>
@@ -58,8 +57,8 @@ const HairTransplantBioFuePage = () => {
                             <strong>Step 4 - INCISION :</strong> Opening channels for transplantation : Placing the Follicular Units
                             <ul>
                                 <li>When the follicular grafts are ready, we make small incisions in your recipient area that match your natural hair growth pattern.</li>
-                           <li><strong>BIO FUE-</strong>  18 G Hypodermic Needle is used to make the slits (1.2mm diameter)</li>
-                                </ul>
+                                <li><strong>BIO FUE-</strong>  18 G Hypodermic Needle is used to make the slits (1.2mm diameter)</li>
+                            </ul>
                         </li>
                         <li>
                             <strong>Step 5 -  Implantation :</strong> Implanting hair follicles to affected area :
@@ -74,14 +73,14 @@ const HairTransplantBioFuePage = () => {
                     <h2>Body Hair Transplant</h2>
                     <p>BHT for treating male pattern hair loss is a refined technique, for the body hairs, can be challenging at times to extract.</p>
                     <p>Since FUE leaves behind no linear scars it is more suitable to harvest from various body areas including beard, chest & pubic regions. Body Hair Transplant (BHT) is the harvesting of hair from a location where it is not wanted and subsequently transplanted to the scalp. The donor area in BHT is often the chest .The harvest of the donor is through the use of the Follicular Unit Extraction (FUE) procedure. The characteristics of hair in these locations are different than scalp hair. The hair in the chest tends to be curlier and thinner than scalp hair. The growth phase or anagen phase last less than that of scalp hair, usually about 18 months. The hair characteristics of this chest hair render the hair suitable only as filler hair in the middle of the scalp. BHT is not suitable for hairline or crown because of the hair characteristics and shorter growth phase. BHT should only be used when donor is in limited supply, because hair from the permanent donor zone is best for hair restoration.</p>
-                    
+
                     <h2>BENEFITS OF A FUE HAIR TRANSPLANT PROCEDURE</h2>
                     <ul>
                         <li><strong>No stitches; donor area appears mostly unchanged within days</strong></li>
                         <li><strong>Natural-looking results</strong></li>
                         <li><strong>State-of-the-art minimally invasive technique</strong></li>
                         <li><strong>Simple outpatient procedure</strong></li>
-                        <li><strong>Fast recovery; many patients return to work the next day</strong></li>                
+                        <li><strong>Fast recovery; many patients return to work the next day</strong></li>
                     </ul>
                     <h2>How to take care after Hair Transplant | Things to do post surgery |</h2>
                     <ul>
@@ -94,8 +93,8 @@ const HairTransplantBioFuePage = () => {
             </section>
             {/* ========== End main content ========== */}
 
-                        {/* ========== Start FAQ ========== */}
-                        <section className="pb-5">
+            {/* ========== Start FAQ ========== */}
+            <section className="pb-5">
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-5">
@@ -106,7 +105,7 @@ const HairTransplantBioFuePage = () => {
                                 <h1 className="text-center py-4 m-0"><b>Frequently Asked Questions</b></h1>
                             </div>
                             <div className="accordion" id="accordionExample">
-                            <div className="accordion-item" style={{ marginBottom: "0px" }}>
+                                <div className="accordion-item" style={{ marginBottom: "0px" }}>
                                     <h2 className="accordion-header">
                                         <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-controls="collapseOne" aria-expanded="false">
                                             <b>Q. What is Gynecomastia?</b>
@@ -114,7 +113,7 @@ const HairTransplantBioFuePage = () => {
                                     </h2>
                                     <div id="collapseOne" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div className="accordion-body">
-                                        Gynecomastia is a male breast reduction surgery. This procedure is designed for men who have developed excess breast tissue on one or both breasts, commonly due to fluctuations in hormones or from a weight gain. Patients with gynecomastia are not able to lose the excess breast tissue with weight-loss.
+                                            Gynecomastia is a male breast reduction surgery. This procedure is designed for men who have developed excess breast tissue on one or both breasts, commonly due to fluctuations in hormones or from a weight gain. Patients with gynecomastia are not able to lose the excess breast tissue with weight-loss.
                                         </div>
                                     </div>
                                 </div>
@@ -126,7 +125,7 @@ const HairTransplantBioFuePage = () => {
                                     </h2>
                                     <div id="collapseTwo" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div className="accordion-body">
-                                        Any male patient that has excessive breast growth on one or both breasts, and who is also in generally good health.                                        </div>
+                                            Any male patient that has excessive breast growth on one or both breasts, and who is also in generally good health.                                        </div>
                                     </div>
                                 </div>
                                 <div className="accordion-item" style={{ marginBottom: "0px" }}>
@@ -137,7 +136,7 @@ const HairTransplantBioFuePage = () => {
                                     </h2>
                                     <div id="collapseThree" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div className="accordion-body">
-                                        In some circumstances, yes. This is a difficult procedure for insurance to approve. It is necessary to come in for a consultation and allow The Hair and Shape Clinic to evaluate you to see if he thinks you are a good candidate for this procedure. If you meet the requirements for insurance coverage, our office will apply for prior authorization, which can take 2-3 weeks or more.
+                                            In some circumstances, yes. This is a difficult procedure for insurance to approve. It is necessary to come in for a consultation and allow The Hair and Shape Clinic to evaluate you to see if he thinks you are a good candidate for this procedure. If you meet the requirements for insurance coverage, our office will apply for prior authorization, which can take 2-3 weeks or more.
 
                                         </div>
                                     </div>
@@ -150,7 +149,7 @@ const HairTransplantBioFuePage = () => {
                                     </h2>
                                     <div id="collapseFour" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div className="accordion-body">
-                                        Most patients prefer to take 1 to 2 weeks off of work for their recovery. You will also have physical restrictions for at least 4 to 6 weeks following surgery. During this time, you cannot exercise, go to the gym, or engage in any strenuous activity. You will need to minimize your arm movements as well, to help optimize recovery (no lifting, pulling, or stretching).
+                                            Most patients prefer to take 1 to 2 weeks off of work for their recovery. You will also have physical restrictions for at least 4 to 6 weeks following surgery. During this time, you cannot exercise, go to the gym, or engage in any strenuous activity. You will need to minimize your arm movements as well, to help optimize recovery (no lifting, pulling, or stretching).
 
                                         </div>
                                     </div>
