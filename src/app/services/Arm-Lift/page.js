@@ -15,7 +15,7 @@ export default function ArmLift() {
         <div className="container">
           <div className="row">
             <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
-              <Image src="/image.jpg" alt="about image" width={500} height={500} />
+              <img src="/image.jpg" alt="about image" width={500} height={500} />
             </div>
             <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
               <div className="about">
