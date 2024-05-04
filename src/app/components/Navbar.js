@@ -18,7 +18,7 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-lg" style={{background:'var(--blue)', color:'var(--yellow)'}}>
       <div className="container-fluid">
         <Link href="/" className="navbar-brand mx-3 p-0">
-          <img src="\Assets\icons\has-logo.png" alt="logo" width="70px" style={{filter: 'drop-shadow(0px 0px 5px #fff)'}} />
+          <img src="Assets\icons\has-logo.png" alt="logo" width="70px" style={{filter: 'drop-shadow(0px 0px 5px #fff)'}} />
         </Link>
         <button className="navbar-toggler border-0 shadow-none collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="var(--yellow)" class="bi bi-list" viewBox="0 0 16 16">
@@ -188,8 +188,8 @@ const Navbar = () => {
           </div>
          <div className='col-lg-3'>               
           <Link href="http://www.thegendercare.com/">
-          {/* <img src='\Assets\icons\GCC.png' alt='header-img' className='' width={170}/>         */}
-          <button className='hsbtn'><img src='\Assets\icons\gendercare.png' className='me-2'/>Click Here For Gender Reassignment Surgery</button>
+          {/* <img src='Assets\icons\GCC.png' alt='header-img' className='' width={170}/>         */}
+          <button className='hsbtn'><img src='Assets\icons\gendercare.png' className='me-2'/>Click Here For Gender Reassignment Surgery</button>
         </Link>
          </div>               
         </div>

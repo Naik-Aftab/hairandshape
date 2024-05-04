@@ -22,7 +22,7 @@ export default function Tummytuck() {
               <div className="row">
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="/Assets/Tummy Tuck/Tummy Tuck 8.webp"
+                    src="Assets/Tummy Tuck/Tummy Tuck 8.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
@@ -30,7 +30,7 @@ export default function Tummytuck() {
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="/Assets/Tummy Tuck/Tummy Tuck 9.webp"
+                    src="Assets/Tummy Tuck/Tummy Tuck 9.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
@@ -38,7 +38,7 @@ export default function Tummytuck() {
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="/Assets/Tummy Tuck/Tummy Tuck 1.webp"
+                    src="Assets/Tummy Tuck/Tummy Tuck 1.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
@@ -46,42 +46,42 @@ export default function Tummytuck() {
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="/Assets/Tummy Tuck/Tummy Tuck 2.webp"
+                    src="Assets/Tummy Tuck/Tummy Tuck 2.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="/Assets/Tummy Tuck/Tummy Tuck 3.webp"
+                    src="Assets/Tummy Tuck/Tummy Tuck 3.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="/Assets/Tummy Tuck/Tummy Tuck 4.webp"
+                    src="Assets/Tummy Tuck/Tummy Tuck 4.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="/Assets/Tummy Tuck/Tummy Tuck 5.webp"
+                    src="Assets/Tummy Tuck/Tummy Tuck 5.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="/Assets/Tummy Tuck/Tummy Tuck 6.webp"
+                    src="Assets/Tummy Tuck/Tummy Tuck 6.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="/Assets/Tummy Tuck/Tummy Tuck 7.webp"
+                    src="Assets/Tummy Tuck/Tummy Tuck 7.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />

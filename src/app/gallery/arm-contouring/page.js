@@ -23,7 +23,7 @@ export default function Arm() {
               <div className="row">
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="\Assets\Arm lift\Arm Lift 8.webp"
+                    src="Assets\Arm lift\Arm Lift 8.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
@@ -31,7 +31,7 @@ export default function Arm() {
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="\Assets\Arm lift\Arm Lift 9.webp"
+                    src="Assets\Arm lift\Arm Lift 9.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
@@ -39,7 +39,7 @@ export default function Arm() {
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="\Assets\Arm lift\Arm Lift 10.webp"
+                    src="Assets\Arm lift\Arm Lift 10.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
@@ -47,7 +47,7 @@ export default function Arm() {
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="/Assets/Arm lift/A1.webp"
+                    src="Assets/Arm lift/A1.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
@@ -55,42 +55,42 @@ export default function Arm() {
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="/Assets/Arm lift/A2.webp"
+                    src="Assets/Arm lift/A2.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="/Assets/Arm lift/A3.webp"
+                    src="Assets/Arm lift/A3.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="/Assets/Arm lift/A4.webp"
+                    src="Assets/Arm lift/A4.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="/Assets/Arm lift/A5.webp"
+                    src="Assets/Arm lift/A5.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="/Assets/Arm lift/A6.webp"
+                    src="Assets/Arm lift/A6.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="/Assets/Arm lift/A7.webp"
+                    src="Assets/Arm lift/A7.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />

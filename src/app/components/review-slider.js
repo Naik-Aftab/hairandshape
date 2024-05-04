@@ -56,7 +56,7 @@ export default function Review() {
                 >
                   <img
                     className="m-0"
-                    src="\Assets\icons\search.png"
+                    src="Assets\icons\search.png"
                     alt="icon"
                     style={{ width: "20px" }}
                   />
@@ -88,7 +88,7 @@ export default function Review() {
                   style={{ display: "flex", justifyContent: "center" }}>
                   <img
                     className="m-0"
-                    src="\Assets\icons\search.png"
+                    src="Assets\icons\search.png"
                     alt="icon"
                     style={{ width: "20px" }}
                   />
@@ -120,7 +120,7 @@ It was great experience at the hair and shape clinic Dr. Omkar and his team duri
                 >
                   <img
                     className="m-0"
-                    src="\Assets\icons\search.png"
+                    src="Assets\icons\search.png"
                     alt="icon"
                     style={{ width: "20px" }}
                   />
@@ -158,7 +158,7 @@ It was great experience at the hair and shape clinic Dr. Omkar and his team duri
                 >
                   <img
                     className="m-0"
-                    src="\Assets\icons\search.png"
+                    src="Assets\icons\search.png"
                     alt="icon"
                     style={{ width: "20px" }}
                   />
@@ -198,7 +198,7 @@ Hi,
                 >
                   <img
                     className="m-0"
-                    src="\Assets\icons\search.png"
+                    src="Assets\icons\search.png"
                     alt="icon"
                     style={{ width: "20px" }}
                   />
@@ -230,7 +230,7 @@ Great experience. The staff and doctors are all wonderful and they take care of 
                 >
                   <img
                     className="m-0"
-                    src="\Assets\icons\search.png"
+                    src="Assets\icons\search.png"
                     alt="icon"
                     style={{ width: "20px" }}
                   />

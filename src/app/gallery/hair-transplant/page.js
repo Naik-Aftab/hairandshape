@@ -24,7 +24,7 @@ export default function HT(){
                 <div className="row">
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                      <img
-                        src="\Assets\HT\HT-NEW\ht1.jpg"
+                        src="Assets\HT\HT-NEW\ht1.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
@@ -32,84 +32,84 @@ export default function HT(){
                     </div>
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <img
-                        src="\Assets\HT\HT-NEW\ht2.jpg"
+                        src="Assets\HT\HT-NEW\ht2.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <img
-                        src="\Assets\HT\HT-NEW\ht3.jpg"
+                        src="Assets\HT\HT-NEW\ht3.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <img
-                        src="\Assets\HT\HT-NEW\ht4.jpg"
+                        src="Assets\HT\HT-NEW\ht4.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <img
-                        src="\Assets\HT\HT-NEW\ht5.jpg"
+                        src="Assets\HT\HT-NEW\ht5.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     {/* <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <img
-                        src="\Assets\HT\HT-NEW\ht6.jpg"
+                        src="Assets\HT\HT-NEW\ht6.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div> */}
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <img
-                        src="\Assets\HT\HT-NEW\ht7.jpg"
+                        src="Assets\HT\HT-NEW\ht7.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <img
-                        src="\Assets\HT\HT-NEW\ht8.jpg"
+                        src="Assets\HT\HT-NEW\ht8.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <img
-                        src="\Assets\HT\HT-NEW\ht9.jpg"
+                        src="Assets\HT\HT-NEW\ht9.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <img
-                        src="\Assets\HT\HT-NEW\ht10.jpg"
+                        src="Assets\HT\HT-NEW\ht10.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <img
-                        src="\Assets\HT\HT-NEW\ht11.jpg"
+                        src="Assets\HT\HT-NEW\ht11.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <img
-                        src="\Assets\HT\HT-NEW\ht12.jpg"
+                        src="Assets\HT\HT-NEW\ht12.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <img
-                        src="\Assets\HT\HT-NEW\ht13.jpg"
+                        src="Assets\HT\HT-NEW\ht13.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />

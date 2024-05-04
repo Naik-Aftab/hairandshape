@@ -7,8 +7,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Footer from './components/footer';
 
 export const metadata = {
-  title: 'Hair And Shape',
-  description: 'Hair And Shape',
+  title: 'The Hair And Shape Clinic',
+  description: 'The Hair And Shape Clinic',
 }
 
 export default function RootLayout({ children }) {

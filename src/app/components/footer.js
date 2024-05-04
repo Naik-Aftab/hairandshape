@@ -9,7 +9,7 @@ const Footer = () => {
                     <div className="row mt-3">
                         <div className="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
                             <div className="d-flex justify-content-center align-items-center">
-                                <img src="\Assets\icons\has-logo.png" alt="logo" width="90px" className="d-inline-block align-text-top mb-2" />
+                                <img src="Assets\icons\has-logo.png" alt="logo" width="90px" className="d-inline-block align-text-top mb-2" />
                             </div>
                             <p className="text-start px-3">
                                 At The Hair and Shape Clinic We conduct a range of surgical and non-surgical procedures

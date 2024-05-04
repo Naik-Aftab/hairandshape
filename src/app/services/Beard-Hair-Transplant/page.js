@@ -13,7 +13,7 @@ export default function BeardHairTransplant() {
         <div className="container">
           <div className="row">
             <div className="col-12 col-md-6 pb-4 d-flex justify-content-center align-items-center">
-              <img className='shadow rounded img-fluid' src="\Assets\service-imgs\Beard Transplant.jpeg" alt="about image" height={300} />
+              <img className='shadow rounded img-fluid' src="Assets\service-imgs\Beard Transplant.jpeg" alt="about image" height={300} />
             </div>
             <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
               <div className="about">

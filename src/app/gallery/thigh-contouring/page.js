@@ -23,7 +23,7 @@ export default function Thigh() {
                      <div className="row">
                         <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                            <img
-                              src="/Assets/Thigh Liposuction/Thigh Liposuction 6.webp"
+                              src="Assets/Thigh Liposuction/Thigh Liposuction 6.webp"
                               class="img-fluid rounded"
                               alt="result"
                            />
@@ -31,7 +31,7 @@ export default function Thigh() {
                         </div>
                         <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                            <img
-                              src="/Assets/Thigh Liposuction/Thigh Liposuction 7.webp"
+                              src="Assets/Thigh Liposuction/Thigh Liposuction 7.webp"
                               class="img-fluid rounded"
                               alt="result"
                            />
@@ -39,7 +39,7 @@ export default function Thigh() {
                         </div>
                         <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                            <img
-                              src="/Assets/Thigh Liposuction/Thigh Liposuction 8.webp"
+                              src="Assets/Thigh Liposuction/Thigh Liposuction 8.webp"
                               class="img-fluid rounded"
                               alt="result"
                            />
@@ -47,7 +47,7 @@ export default function Thigh() {
                         </div>
                         <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                            <img
-                              src="/Assets/Thigh Liposuction/Thigh Liposuction 9.webp"
+                              src="Assets/Thigh Liposuction/Thigh Liposuction 9.webp"
                               class="img-fluid rounded"
                               alt="result"
                            />
@@ -55,7 +55,7 @@ export default function Thigh() {
                         </div>
                         <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                            <img
-                              src="/Assets/Thigh Liposuction/Thigh Liposuction 10.webp"
+                              src="Assets/Thigh Liposuction/Thigh Liposuction 10.webp"
                               class="img-fluid rounded"
                               alt="result"
                            />
@@ -63,7 +63,7 @@ export default function Thigh() {
                         </div>
                         <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                            <img
-                              src="/Assets/Thigh Liposuction/Thigh Liposuction 1.webp"
+                              src="Assets/Thigh Liposuction/Thigh Liposuction 1.webp"
                               class="img-fluid rounded"
                               alt="result"
                            />
@@ -71,28 +71,28 @@ export default function Thigh() {
                         </div>
                         <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                            <img
-                              src="/Assets/Thigh Liposuction/Thigh Liposuction 2.webp"
+                              src="Assets/Thigh Liposuction/Thigh Liposuction 2.webp"
                               class="img-fluid rounded"
                               alt="result"
                            />
                         </div>
                         <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                            <img
-                              src="/Assets/Thigh Liposuction/Thigh Liposuction 3.webp"
+                              src="Assets/Thigh Liposuction/Thigh Liposuction 3.webp"
                               class="img-fluid rounded"
                               alt="result"
                            />
                         </div>
                         <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                            <img
-                              src="/Assets/Thigh Liposuction/Thigh Liposuction 4.webp"
+                              src="Assets/Thigh Liposuction/Thigh Liposuction 4.webp"
                               class="img-fluid rounded"
                               alt="result"
                            />
                         </div>
                         <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                            <img
-                              src="/Assets/Thigh Liposuction/Thigh Liposuction 5.webp"
+                              src="Assets/Thigh Liposuction/Thigh Liposuction 5.webp"
                               class="img-fluid rounded"
                               alt="result"
                            />

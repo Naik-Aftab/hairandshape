@@ -22,7 +22,7 @@ export default function Tummy() {
               <div className="row">
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="/Assets/Tummy Liposuction/Tummy Liposuction 1.webp"
+                    src="Assets/Tummy Liposuction/Tummy Liposuction 1.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
@@ -30,49 +30,49 @@ export default function Tummy() {
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="/Assets/Tummy Liposuction/Tummy Liposuction 2.webp"
+                    src="Assets/Tummy Liposuction/Tummy Liposuction 2.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="/Assets/Tummy Liposuction/Tummy Liposuction 3.webp"
+                    src="Assets/Tummy Liposuction/Tummy Liposuction 3.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="/Assets/Tummy Liposuction/Tummy Liposuction 4.webp"
+                    src="Assets/Tummy Liposuction/Tummy Liposuction 4.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="/Assets/Tummy Liposuction/Tummy Liposuction 5.webp"
+                    src="Assets/Tummy Liposuction/Tummy Liposuction 5.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="/Assets/Tummy Liposuction/Tummy Liposuction 6.webp"
+                    src="Assets/Tummy Liposuction/Tummy Liposuction 6.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="/Assets/Tummy Liposuction/Tummy Liposuction 7.webp"
+                    src="Assets/Tummy Liposuction/Tummy Liposuction 7.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="/Assets/Tummy Liposuction/Tummy Liposuction 8.webp"
+                    src="Assets/Tummy Liposuction/Tummy Liposuction 8.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />

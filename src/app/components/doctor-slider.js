@@ -108,17 +108,17 @@ export default function Doctor() {
                                         </ul>
                                         <div className='row pb-3'>
                                             <h6><b> Proud Member of :</b></h6>
-                                            <div className='col-3'><img src='\Assets\award\award1.png' alt='logo1' style={{ height:'80px'}}/></div>
-                                            <div className='col-3'><img src='\Assets\award\award2.png' alt='logo2' style={{ height:'80px'}}/></div>
-                                            <div className='col-3'><img src='\Assets\award\award3.png' alt='logo3' style={{ height:'80px'}}/></div>
-                                            <div className='col-3'><img src='\Assets\award\award4.png' alt='logo4' style={{ height:'80px'}}/></div>
+                                            <div className='col-3'><img src='Assets\award\award1.png' alt='logo1' style={{ height:'80px'}}/></div>
+                                            <div className='col-3'><img src='Assets\award\award2.png' alt='logo2' style={{ height:'80px'}}/></div>
+                                            <div className='col-3'><img src='Assets\award\award3.png' alt='logo3' style={{ height:'80px'}}/></div>
+                                            <div className='col-3'><img src='Assets\award\award4.png' alt='logo4' style={{ height:'80px'}}/></div>
                                         </div>
                                         <button class="hsbtn my-2 py-2 px-3" onClick={handleShow}>GET
                                             CONSULTATION NOW</button>
                                     </div>
                                 </div>
                                 <div data-aos='zoom-in' data-aos-delay='500' className='doctorImage col-12 col-md-6 d-flex justify-content-center align-items-center'>
-                                    <img className='img-fluid' src="\Assets\surgeons\DrUmang.png" alt="Dr. Umang Kothari" style={{height:'600px'}} />
+                                    <img className='img-fluid' src="Assets\surgeons\DrUmang.png" alt="Dr. Umang Kothari" style={{height:'600px'}} />
                                 </div>
                             </div>
                         </div>
@@ -126,7 +126,7 @@ export default function Doctor() {
                         <div className="container py-5">
                             <div className='row'>
                             <div data-aos='zoom-in' data-aos-delay='500' className='doctorImage order-2 order-lg-1 col-12 col-md-6  d-flex justify-content-center align-items-center'>
-                                    <img className='img-fluid' src="\Assets\surgeons\DrOmkar.png" alt="Dr. Omkar Warang" style={{height:'500px'}} />
+                                    <img className='img-fluid' src="Assets\surgeons\DrOmkar.png" alt="Dr. Omkar Warang" style={{height:'500px'}} />
                                 </div>
 
                                 <div className=" order-1 order-lg-2 col-12 col-md-6 d-flex justify-content-center align-items-center">

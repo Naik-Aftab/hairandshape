@@ -4,11 +4,11 @@ export const About = () => {
 
     return (
         <>
-            <section className='py-3 px-3' style={{ background: 'url(/Assets/patterns/bg-image3.jpg)', backgroundSize: 'cover', backgroundPosition: 'center', color: '#fff' }}>
+            <section className='py-3 px-3' style={{ background: 'url(Assets/patterns/bg-image3.jpg)', backgroundSize: 'cover', backgroundPosition: 'center', color: '#fff' }}>
                 <div className="container about-container">
                     <div className="row">
                         <div className="pt-3 col-12 col-md-6 d-flex justify-content-center align-items-center" data-aos="zoom-in" data-aos-delay="50">
-                            <img src="\Assets\clinic\cropped-clinic.png" className="img-fluid rounded" alt="clinic image" style={{ border: '1px solid var(--yellow)', boxShadow: '0 0 15px 2px var(--yellow)' }} />
+                            <img src="Assets\clinic\cropped-clinic.png" className="img-fluid rounded" alt="clinic image" style={{ border: '1px solid var(--yellow)', boxShadow: '0 0 15px 2px var(--yellow)' }} />
                         </div>
                         <div className="col-12 col-md-6 py-5 d-flex justify-content-center align-items-center" data-aos="fade-up">
                             <div>
