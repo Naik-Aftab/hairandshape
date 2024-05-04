@@ -9,11 +9,11 @@ export default function Acne() {
             </Head>
 
             {/* Start About */}
-            <section>
+            <section className='py-5'>
                 <div className="container">
                     <div className="row">
-                        <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
-                            <img src="/image.jpg" alt="about image" width={500} height={500} />
+                        <div className="col-12 col-md-6 pb-4 d-flex justify-content-center align-items-center">
+                            <img className='shadow rounded img-fluid' src="\Assets\service-imgs\Acne .jpeg" alt="about image" style={{height:'500px'}} />
                         </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
@@ -35,7 +35,7 @@ export default function Acne() {
             {/* End About */}
 
             {/* Start main content */}
-            <section className="py-5">
+            <section className="pb-5">
                 <div className="container">
                     <h2>Various Techniques</h2>
                     <p>Acne treatment can be done by various techniques are as follows:</p>

@@ -1,6 +1,4 @@
-import ContactForm from '@/app/components/contact-form';
 import Head from 'next/head';
-import Image from 'next/image';
 
 export default function Home() {
   return (
@@ -10,15 +8,15 @@ export default function Home() {
       </Head>
 
       {/* Start About */}
-      <section>
+      <section className='py-5'>
         <div className="container">
           <div className="row">
-            <div className="col-6 d-flex justify-content-center align-items-center">
-            <img src="/image.jpg" alt="about image" width={500} height={500} />
+            <div className="col-12 col-md-6 pb-3 d-flex justify-content-center align-items-center">
+            <img className="shadow rounded img-fluid" src="\Assets\service-imgs\Hi-Definition Liposuction.jpeg" alt="about image" style={{height:'400px',width:'100%'}} />
             </div>
-            <div className="col-6 d-flex justify-content-center align-items-center">
+            <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
               <div className="about">
-                <h2>6 Pack Creation</h2>
+                <h2>Hi-Defination Lipo /6 Pack Creation</h2>
                 <p>Abdominal six-pack surgery is a surgical operation that involves sucking the fat around the abdominal area. Many men and women devote a large portion of their exercises to build abdominal muscles. However, even with exercise, not everybody can achieve that athletic six-pack definition. Some people find it challenging to increase the thickness of the abdominal muscles, even with strenuous abdominal activities. Six-pack surgery or abdominal etching works for people who do not exercise. This procedure can be combined with liposuction of other areas such as the flanks and lower back</p>
               </div>
             </div>
@@ -28,7 +26,7 @@ export default function Home() {
       {/* End About */}
 
       {/* Start main content */}
-      <section>
+      <section className='pb-5'>
         <div className="container">
           <h2 className="">Who can be Candidate?</h2>
           <ul className="text-justify">
@@ -51,7 +49,75 @@ export default function Home() {
         </div>
       </section>
       {/* End main content */}
-      <ContactForm />
+
+              {/* ========== Start FAQ ========== */}
+              {/* <section className="pb-5">
+                <div className="container">
+                    <div className="row">
+                        <div className="col-12 col-md-5">
+                            <img src="\Assets\icons\faq.jpg" className="img-fluid" alt="image" />
+                        </div>
+                        <div className="col-12 col-md-7">
+                            <div className="section-header">
+                                <h1 className="text-center py-4 m-0"><b>Frequently Asked Questions</b></h1>
+                            </div>
+                            <div className="accordion" id="accordionExample">
+                            <div className="accordion-item" style={{ marginBottom: "0px" }}>
+                                    <h2 className="accordion-header">
+                                        <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-controls="collapseOne" aria-expanded="false">
+                                            <b>Q. What is Gynecomastia?</b>
+                                        </button>
+                                    </h2>
+                                    <div id="collapseOne" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                        <div className="accordion-body">
+                                        Gynecomastia is a male breast reduction surgery. This procedure is designed for men who have developed excess breast tissue on one or both breasts, commonly due to fluctuations in hormones or from a weight gain. Patients with gynecomastia are not able to lose the excess breast tissue with weight-loss.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="accordion-item" style={{ marginBottom: "0px" }}>
+                                    <h2 className="accordion-header">
+                                        <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                            <b>Q. Who is a good candidate for gynecomastia?</b>
+                                        </button>
+                                    </h2>
+                                    <div id="collapseTwo" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                        <div className="accordion-body">
+                                        Any male patient that has excessive breast growth on one or both breasts, and who is also in generally good health.                                        </div>
+                                    </div>
+                                </div>
+                                <div className="accordion-item" style={{ marginBottom: "0px" }}>
+                                    <h2 className="accordion-header">
+                                        <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                            <b>Q. Can gynecomastia be covered by my insurance? </b>
+                                        </button>
+                                    </h2>
+                                    <div id="collapseThree" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                        <div className="accordion-body">
+                                        In some circumstances, yes. This is a difficult procedure for insurance to approve. It is necessary to come in for a consultation and allow The Hair and Shape Clinic to evaluate you to see if he thinks you are a good candidate for this procedure. If you meet the requirements for insurance coverage, our office will apply for prior authorization, which can take 2-3 weeks or more.
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="accordion-item" style={{ marginBottom: "0px" }}>
+                                    <h2 className="accordion-header">
+                                        <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                            <b>Q. What will my recovery be like?</b>
+                                        </button>
+                                    </h2>
+                                    <div id="collapseFour" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                        <div className="accordion-body">
+                                        Most patients prefer to take 1 to 2 weeks off of work for their recovery. You will also have physical restrictions for at least 4 to 6 weeks following surgery. During this time, you cannot exercise, go to the gym, or engage in any strenuous activity. You will need to minimize your arm movements as well, to help optimize recovery (no lifting, pulling, or stretching).
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section> */}
+            {/* ========== End FAQ ========== */}
+
     </div>
   );
 }

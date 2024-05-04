@@ -2,19 +2,19 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <footer className="footer" style={{background:'url(/bg/footer-banner.webp)',backgroundPosition:'center', backgroundSize:'cover'}}>
+        <footer className="footer" style={{background:'url(Assets/patterns/footer-banner.webp)',backgroundPosition:'center', backgroundSize:'cover'}}>
             {/* Section: Links */}
             <section className="footer-overlay-color" id="footer">
                 <div className="container-fluid text-center text-md-start mt-3">
                     <div className="row mt-3">
                         <div className="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
                             <div className="d-flex justify-content-center align-items-center">
-                                <img src="/has-logo.png" alt="logo" width="90px" className="d-inline-block align-text-top mb-2" />
+                                <img src="\Assets\icons\has-logo.png" alt="logo" width="90px" className="d-inline-block align-text-top mb-2" />
                             </div>
-                            <p className="text-justify px-3">
-                                Dr. Umang Kothari is a Plastic Surgeon based in Mumbai and is the Director and Founder of
-                                The Hair and Shape Clinic in Malad, Mumbai. This is a dedicated day care centre for
-                                Aesthetic procedures.
+                            <p className="text-start px-3">
+                                At The Hair and Shape Clinic We conduct a range of surgical and non-surgical procedures
+                                 for shaping, enhancing, improvising and maintaining the way you look under the 
+                                  guidance of our experienced team of Plastic surgeon and Dermatologists.
                             </p>
                         </div>
 
@@ -37,7 +37,7 @@ const Footer = () => {
 
                         <div className="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
                             <h6 className="text-uppercase fw-bold mb-4" style={{color:'var(--yellow)'}}>Address</h6>
-                            <p>
+                            <p className='text-start'>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" className="bi bi-house-door-fill me-2" viewBox="0 0 16 16">
                                     <path d="M6.5 14.5v-3.505c0-.245.25-.495.5-.495h2c.25 0 .5.25.5.5v3.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5" />
                                 </svg>Lotus Link Square Building, Mithchowky, Malad West, Mumbai, Maharashtra 400064
@@ -87,7 +87,7 @@ const Footer = () => {
             {/* Section: Links */}
             {/* Copyright */}
             <div className="lower-footer text-center p-3" style={{ backgroundColor: '#03113f', color: '#fff' }}>
-                © 2024 Copyright : <span style={{color:'var(--yellow)'}}>Hair And Shape</span>
+                © 2024 Copyright : <span style={{color:'var(--yellow)'}}>The Hair and Shape Clinic</span>
             </div>
         </footer>
     );

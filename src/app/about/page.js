@@ -21,7 +21,7 @@ const Aboutpage = () => {
       <section
         style={{
           background:
-            "linear-gradient(to bottom, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(/about.jpeg)",
+            "linear-gradient(to bottom, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(/Assets/clinic/about.jpeg)",
           backgroundPosition: "center",
           backgroundSize: "cover",
         }}

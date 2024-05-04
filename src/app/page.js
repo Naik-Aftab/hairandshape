@@ -6,7 +6,7 @@ import Doctor from './components/doctor-slider';
 import { Service } from './components/service-slider';
 import Review from './components/review-slider';
 import Results from './components/results';
-import Awards from './components/awards';
+import Awards from './components/yt-slider';
 import { About } from './components/about';
 
 
@@ -25,14 +25,14 @@ export default function Home() {
 
             <section> 
                 <div className="container-fluid p-0">
-                     <video className="banner-video" src="/banner-video.mp4" poster="" muted preload="auto" loop autoPlay></video>
+                     <video className="banner-video" src="\Assets\clinic\banner-video.mp4" poster="" muted preload="auto" loop autoPlay></video>
                 </div>
              </section>
 
             {/* <!-- ========== End Section ========== --> */}
 
             {/* <!-- ========== Start doctor ========== --> */}
-            <section style={{background: 'linear-gradient(to bottom, rgba(255, 246, 209, 0.5), rgba(255, 246, 209, 0.5)), url(/bg/pattern4.jpg) center/cover'}}>
+            <section style={{background: 'linear-gradient(to bottom, rgba(255, 246, 209, 0.5), rgba(255, 246, 209, 0.5)), url(/Assets/patterns/pattern4.jpg) center/cover'}}>
             <Doctor />                
             </section>            
             {/* <!-- ========== End doctor ========== --> */}
@@ -55,7 +55,7 @@ export default function Home() {
                     <div className='row'>
                         <div className='col-md-4 col-12 mb-5'>
                             <div data-aos="fade-down" data-aos-delay="200"  className='card shadow mx-3 d-flex flex-column align-items-center text-align-center' >
-                                <img src="doctor-icon.png" className="img-fluid rounded p-2" alt="icon1" width="100px" />
+                                <img src="\Assets\icons\doctor-icon.png" className="img-fluid rounded p-2" alt="icon1" width="100px" />
                                  <div className='text-center py-3 px-4'>
                                     <h4 className=''>Board Certified Team of Doctors</h4>
                                 </div>
@@ -64,7 +64,7 @@ export default function Home() {
 
                         <div className='col-md-4 col-12 mb-5 '>
                             <div data-aos="fade-down" data-aos-delay="300" className='card shadow mx-3 d-flex flex-column align-items-center text-align-center'>
-                                <img src="staff.png" className="img-fluid rounded p-2" alt="icon2" width="100px" />
+                                <img src="\Assets\icons\staff.png" className="img-fluid rounded p-2" alt="icon2" width="100px" />
                                  <div className='text-center py-3 px-4'>
                                     <h4 className='mb-1'>Well Trained & Experienced Staff</h4>
                                 </div>
@@ -73,7 +73,7 @@ export default function Home() {
 
                      <div className='col-md-4 col-12 mb-5'>
                             <div data-aos="fade-down" data-aos-delay="400" className='card shadow mx-3 d-flex flex-column align-items-center text-align-center'>
-                                <img src="OT.png" className="img-fluid rounded p-2" alt="icon3" width="100px"/>
+                                <img src="\Assets\icons\OT.png" className="img-fluid rounded p-2" alt="icon3" width="100px"/>
                                  <div className='text-center py-3 px-4'>
                                     <h4 className='mb-1'>Two fully equipped Operation theatres</h4>
                                 </div>
@@ -83,7 +83,7 @@ export default function Home() {
                      <div className='row'>
                         <div className='col-md-4 col-12 mb-5'>
                             <div data-aos="fade-down" data-aos-delay="500" className='card shadow mx-3 d-flex flex-column align-items-center text-align-center'>
-                                <img src="/filler-icon.png" className="img-fluid rounded p-2" alt="icon4" width="100px"/>
+                                <img src="\Assets\icons\filler-icon.png" className="img-fluid rounded p-2" alt="icon4" width="100px"/>
                                  <div className='text-center py-3 px-4'>
                                     <h4 className=''>Dedicated room for botox, fillers & lasers</h4>
                                 </div>
@@ -92,7 +92,7 @@ export default function Home() {
 
                         <div className='col-md-4 col-12 mb-5'>
                             <div data-aos="fade-down" data-aos-delay="600" className='card shadow mx-3 d-flex flex-column align-items-center text-align-center'>
-                                <img src="/hair.png" className="img-fluid rounded p-2" alt="icon5" width="100px"/>
+                                <img src="\Assets\icons\hair.png" className="img-fluid rounded p-2" alt="icon5" width="100px"/>
                                  <div className='text-center py-3 px-4'>
                                     <h4 className='mb-1'>Holistic approach for Hair Loss</h4>
                                 </div>
@@ -101,7 +101,7 @@ export default function Home() {
 
                      <div className='col-md-4 col-12 mb-5'>
                             <div data-aos="fade-down" data-aos-delay="700" className='card shadow mx-3 d-flex flex-column align-items-center text-align-center'>
-                                <img src="/care.png" className="img-fluid rounded p-2" alt="icon6" width="100px"/>
+                                <img src="\Assets\icons\care.png" className="img-fluid rounded p-2" alt="icon6" width="100px"/>
                                  <div className='text-center py-3 px-4'>
                                     <h4 className='mb-1'>Prioritizing patient care and privacy.</h4>
                                 </div>

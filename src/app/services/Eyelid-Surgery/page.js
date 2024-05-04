@@ -4,10 +4,12 @@ const EyelidSurgeryPage = () => {
     return (
         <>
             {/* ========== Start About ========== */}
-            <section>
+            <section className='py-5'>
                 <div className="container">
                     <div className="row">
-                        <div className="col-12 col-md-6 d-flex justify-content-center align-items-center"><img src="/" alt="about image" /></div>
+                        <div className="col-12 col-md-6 pb-5 d-flex justify-content-center align-items-center">
+                            <img className='shadow rounded img-fluid' src="\Assets\service-imgs\Eyelid Surgery.jpeg" alt="about image" height={300} />
+                        </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
                                 <h2>Eyelid Surgery</h2>
@@ -20,7 +22,7 @@ const EyelidSurgeryPage = () => {
             {/* ========== End About ========== */}
 
             {/* ========== Start main content ========== */}
-            <section className="py-5">
+            <section className="pb-5">
                 <div className="container">
                     <h2>Eyelid Surgery Procedure</h2>
                     <p>During the initial consultation, our plastic surgeon, The Hair and Shape Clinic, will examine your eyes and develop a treatment plan tailored to your needs. There are a number of techniques available that address various conditions affecting the upper and lower eyelids, and The Hair and Shape Clinic will discuss which options are right for you. A basic overview of what to expect during eyelid surgery includes:</p>
@@ -37,11 +39,11 @@ const EyelidSurgeryPage = () => {
             {/* ========== End main content ========== */}
 
             {/* ========== Start FAQ ========== */}
-            <section className="py-5">
+            <section className="pb-5">
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-5">
-                            <img src="/faq.jpg" className="img-fluid" alt="image" />
+                            <img src="\Assets\icons\faq.jpg" className="img-fluid" alt="image" />
                         </div>
                         <div className="col-12 col-md-7">
                             <div className="section-header">

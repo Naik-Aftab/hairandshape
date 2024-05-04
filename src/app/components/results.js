@@ -53,7 +53,7 @@ export default function Results() {
                 <div className="swiper-wrapper">
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                      <img
-                        src="/comp-ht/Amey.jpg"
+                        src="\Assets\HT\HT-NEW\ht1.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
@@ -61,63 +61,77 @@ export default function Results() {
                     </div>
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                     <img
-                        src="/comp-ht/Ankur Anand.jpg"
+                        src="\Assets\HT\HT-NEW\ht2.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                     <img
-                        src="/comp-ht/Araj.jpg"
+                        src="\Assets\HT\HT-NEW\ht3.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                     <img
-                        src="/comp-ht/Bhagyesh.jpg"
+                        src="\Assets\HT\HT-NEW\ht4.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                     <img
-                        src="/comp-ht/Chirag.jpg"
+                        src="\Assets\HT\HT-NEW\ht5.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                     <img
-                        src="/comp-ht/Diensh.jpg"
+                        src="\Assets\HT\HT-NEW\ht7.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                     <img
-                        src="/comp-ht/Female.jpg"
+                        src="\Assets\HT\HT-NEW\ht8.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                     <img
-                        src="/comp-ht/ganesh.jpg"
+                        src="\Assets\HT\HT-NEW\ht9.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                     <img
-                        src="/comp-ht/Harshal Kadam.jpg"
+                        src="\Assets\HT\HT-NEW\ht10.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                     <img
-                        src="/comp-ht/Harshit.jpg"
+                        src="\Assets\HT\HT-NEW\ht11.jpg"
+                        class="img-fluid rounded"
+                        alt="result"
+                     />
+                    </div>
+                    <div className='swiper-slide d-flex justify-content-center align-items-center'>
+                    <img
+                        src="\Assets\HT\HT-NEW\ht12.jpg"
+                        class="img-fluid rounded"
+                        alt="result"
+                     />
+                    </div>
+                    <div className='swiper-slide d-flex justify-content-center align-items-center'>
+                    <img
+                        src="\Assets\HT\HT-NEW\ht13.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
@@ -134,7 +148,7 @@ export default function Results() {
                 <div className="swiper-wrapper">
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                      <img
-                        src="/Arm lift/A1.webp"
+                        src="/Assets/Arm lift/A1.webp"
                         class="img-fluid rounded"
                         alt="result"
                      />
@@ -142,56 +156,56 @@ export default function Results() {
                     </div>
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                     <img
-                        src="/Breast Augmentation/Breast Augmentation 1.webp"
+                        src="/Assets/Breast Augmentation/Breast Augmentation 1.webp"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                     <img
-                        src="/Breast Reduction/Breast Reduction 1.webp"
+                        src="/Assets/Breast Reduction/Breast Reduction 1.webp"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                     <img
-                        src="/Gynecomastia/Gynecomastia 1.webp"
+                        src="/Assets/Gynecomastia/Gynecomastia 1.webp"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                     <img
-                        src="/Liposuction/Liposuction 1.webp"
+                        src="/Assets/Liposuction/Liposuction 1.webp"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                     <img
-                        src="/Rhinoplasty/Rhinoplasty 1.webp"
+                        src="/Assets/Rhinoplasty/Rhinoplasty 1.webp"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                     <img
-                        src="/Thigh Liposuction/Thigh Liposuction 1.webp"
+                        src="/Assets/Thigh Liposuction/Thigh Liposuction 1.webp"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                     <img
-                        src="/Tummy Liposuction/Tummy Liposuction 1.webp"
+                        src="/Assets/Tummy Liposuction/Tummy Liposuction 1.webp"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='swiper-slide d-flex justify-content-center align-items-center'>
                     <img
-                        src="/Tummy Tuck/Tummy Tuck 1.webp"
+                        src="/Assets/Tummy Tuck/Tummy Tuck 1.webp"
                         class="img-fluid rounded"
                         alt="result"
                      />

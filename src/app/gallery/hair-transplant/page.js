@@ -1,7 +1,5 @@
 "use client";
 import React, { useState } from "react";
-import Lightbox from "yet-another-react-lightbox";
-import "yet-another-react-lightbox/styles.css";
 
 export default function HT(){
   return (
@@ -26,7 +24,7 @@ export default function HT(){
                 <div className="row">
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                      <img
-                        src="/HT/Hair Transplant (1).webp"
+                        src="\Assets\HT\HT-NEW\ht1.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
@@ -34,102 +32,88 @@ export default function HT(){
                     </div>
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <img
-                        src="/HT/Hair Transplant (2).webp"
+                        src="\Assets\HT\HT-NEW\ht2.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <img
-                        src="/HT/Hair Transplant (3).webp"
+                        src="\Assets\HT\HT-NEW\ht3.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <img
-                        src="/HT/Hair Transplant (4).webp"
+                        src="\Assets\HT\HT-NEW\ht4.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <img
-                        src="/HT/Hair Transplant (5).webp"
+                        src="\Assets\HT\HT-NEW\ht5.jpg"
+                        class="img-fluid rounded"
+                        alt="result"
+                     />
+                    </div>
+                    {/* <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
+                    <img
+                        src="\Assets\HT\HT-NEW\ht6.jpg"
+                        class="img-fluid rounded"
+                        alt="result"
+                     />
+                    </div> */}
+                    <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
+                    <img
+                        src="\Assets\HT\HT-NEW\ht7.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <img
-                        src="/HT/Hair Transplant (6).webp"
+                        src="\Assets\HT\HT-NEW\ht8.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <img
-                        src="/HT/Hair Transplant (7).webp"
+                        src="\Assets\HT\HT-NEW\ht9.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <img
-                        src="/HT/Hair Transplant (8).webp"
+                        src="\Assets\HT\HT-NEW\ht10.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <img
-                        src="/HT/Hair Transplant (9).webp"
+                        src="\Assets\HT\HT-NEW\ht11.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <img
-                        src="/HT/Hair Transplant (10).webp"
+                        src="\Assets\HT\HT-NEW\ht12.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <img
-                        src="/HT/Hair Transplant (11).webp"
+                        src="\Assets\HT\HT-NEW\ht13.jpg"
                         class="img-fluid rounded"
                         alt="result"
                      />
-                    </div>
-                    <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
-                    <img
-                        src="/HT/Hair Transplant (12).webp"
-                        class="img-fluid rounded"
-                        alt="result"
-                     />
-                    </div>
-                    <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
-                    <img
-                        src="/HT/Hair Transplant (13).webp"
-                        class="img-fluid rounded"
-                        alt="result"
-                     />
-                    </div>
-                    <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
-                    <img
-                        src="/HT/Hair Transplant (14).webp"
-                        class="img-fluid rounded"
-                        alt="result"
-                     />
-                    </div>
-                    <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
-                    <img
-                        src="/HT/Hair Transplant (15).webp"
-                        class="img-fluid rounded"
-                        alt="result"
-                     />
-                    </div>
+                    </div>                    
 
                 </div> 
                 
@@ -140,6 +124,9 @@ export default function HT(){
   
   <div className="container">
                 <div className="row">
+                    <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
+                    <iframe width="560" height="250" src="https://www.youtube.com/embed/92ytntt-B38?si=YzYQ7j0Cvv-84DeL" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    </div>
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <iframe width="550" height="250" src="https://www.youtube.com/embed/VY5a120ll2k?si=HiYNZDBfIA9CaAFD" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
                     </div>
@@ -160,10 +147,7 @@ export default function HT(){
                     </div>                   
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <iframe width="560" height="250" src="https://www.youtube.com/embed/EBYJnYHtHPQ?si=uMjCyGGO4dHZJyNu" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                    </div>                   
-                    <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
-                    <iframe width="560" height="250" src="https://www.youtube.com/embed/92ytntt-B38?si=YzYQ7j0Cvv-84DeL" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                    </div>                   
+                    </div>           
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <iframe width="560" height="250" src="https://www.youtube.com/embed/CkGwbwq0X2U?si=tik4-AYVGRYuLLtD" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                     </div>                   

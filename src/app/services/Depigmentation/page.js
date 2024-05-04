@@ -4,10 +4,12 @@ const DepigmentationPage = () => {
     return (
         <>
             {/* ========== Start About ========== */}
-            <section>
+            <section className='py-5'>
                 <div className="container">
                     <div className="row">
-                        <div className="col-12 col-md-6 d-flex justify-content-center align-items-center"><img src="/" alt="about image" /></div>
+                        <div className="col-12 col-md-6 pb-4 d-flex justify-content-center align-items-center">
+                            <img className='shadow rounded img-fluid' src="\Assets\service-imgs\Depigmentation.jpeg" alt="about image" style={{height:"400px"}} />
+                        </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
                                 <h2>Depigmentation</h2>
@@ -20,7 +22,7 @@ const DepigmentationPage = () => {
             {/* ========== End About ========== */}
 
             {/* ========== Start main content ========== */}
-            <section className="py-5">
+            <section className="pb-5">
                 <div className="container">
                     <h2>Ideal candidate for treatments to reduce pigmentation</h2>
                     <p>To be an ideal candidate for these treatments, you will need to meet certain conditions. Firstly, you must be in good physical condition. Some of the procedures to treat pigmentation require you to be healthy, so you can recover well after the treatment. Ideal candidates should meet certain other criteria:</p>

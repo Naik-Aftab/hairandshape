@@ -1,14 +1,49 @@
-import React from "react";
+"use client"
+import React, { useState } from "react";
 
 export default function Contact() {
+
+  const [formData, setFormData] = useState({
+    name: '',
+    email: '',
+    phone: '',
+    city: ''
+  });
+
+  const handleChange = (e) => {
+    setFormData({ ...formData, [e.target.id]: e.target.value });
+  };
+
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+
+    try {
+      const response = await fetch('/send_mail.php', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(formData)
+      });
+
+      if (response.ok) {
+        console.log('Form submitted successfully');
+      } else {
+        console.error('Form submission failed');
+      }
+    } catch (error) {
+      console.error('Error submitting form:', error);
+    }
+  };
+
   return (
     <>
       {/* <!-- ========== Start Banner ========== --> */}
       <section
         style={{
           background:
-            "linear-gradient(to bottom, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(/contact.jpg)",
-          backgroundPosition:'center',
+            "linear-gradient(to bottom, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(/Assets/clinic/contact.jpg)",
+          backgroundPosition: 'center',
           backgroundSize: 'cover',
         }}
       >
@@ -24,7 +59,7 @@ export default function Contact() {
       {/* <!-- ========== End Banner ========== --> */}
 
       {/*<!-- ========== Start Address ========== -->*/}
-      <section className="py-5" style={{background:'var(--blue)', color:'var(--yellow)'}}>
+      <section className="py-5" style={{ background: 'var(--blue)', color: 'var(--yellow)' }}>
         <div className="container contact-pg">
           <div className="row ">
             <div className="col-md ">
@@ -197,29 +232,29 @@ export default function Contact() {
       {/*<!-- ========== End Address ========== -->*/}
 
       {/* <!-- ========== Start Contactform ========== -->*/}
-      <section className="py-4" style={{background:'linear-gradient(to bottom, rgba(255, 246, 209, 0.5), rgba(255, 246, 209, 0.5)),url(/bg/pattern1.jpg)',backgroundSize:'cover',backgroundPosition:'bottom'}}>
+      <section className="py-4" style={{ background: 'linear-gradient(to bottom, rgba(255, 246, 209, 0.5), rgba(255, 246, 209, 0.5)),url(/bg/pattern1.jpg)', backgroundSize: 'cover', backgroundPosition: 'bottom' }}>
         <div className="container">
           <div className="row d-flex align-items-center justify-content-center ">
             <div className="col-lg-12 shadow">
               <div className="row">
                 <div className="col-md-6 col-12 p-0 d-flex align-items-center justify-content-center"
-                  style={{background:'url(/clinic.webp)',position:'relative',borderTopLeftRadius: '20px',borderBottomLeftRadius: '20px'}}>                 
+                  style={{ background: 'url(/Assets/clinic/clinic.webp)', position: 'relative', borderTopLeftRadius: '20px', borderBottomLeftRadius: '20px' }}>
                   <div
                     style={{
                       background: "rgba(0, 0, 0, 0.5)",
                       width: "100%",
                       height: "100%",
                       position: "absolute",
-                      borderTopLeftRadius: '20px',borderBottomLeftRadius: '20px'
+                      borderTopLeftRadius: '20px', borderBottomLeftRadius: '20px'
                     }}
                   ></div>
                 </div>
-                <div className="col-md-6 col-12 shadow py-3 d-flex align-items-center justify-content-center" style={{background:'radial-gradient(at bottom, #193bac, #03113f)',borderTopRightRadius: '20px',borderBottomRightRadius: '20px'}}>
+                <div className="col-md-6 col-12 shadow py-3 d-flex align-items-center justify-content-center" style={{ background: 'radial-gradient(at bottom, #193bac, #03113f)', borderTopRightRadius: '20px', borderBottomRightRadius: '20px' }}>
                   <div className="container px-5">
-                    <h1 className="mb-3 text-center" style={{color:'var(--yellow)'}}>
+                    <h1 className="mb-3 text-center" style={{ color: 'var(--yellow)' }}>
                       <b>Contact With Us</b>
                     </h1>
-                    <form className="text-center">
+                    <form className="text-center" onSubmit={handleSubmit}>
                       <div className="mb-3">
                         <input
                           type="text"
@@ -227,6 +262,7 @@ export default function Contact() {
                           id="name"
                           placeholder="Name"
                           required
+                          onChange={handleChange}
                         />
                       </div>
                       <div className="mb-3">
@@ -236,6 +272,7 @@ export default function Contact() {
                           id="email"
                           placeholder="Email"
                           required
+                          onChange={handleChange}
                         />
                       </div>
                       <div className="mb-3">
@@ -247,6 +284,7 @@ export default function Contact() {
                           pattern="[0-9]{10,}"
                           title="Please enter a mobile number with at least 10 digits"
                           required
+                          onChange={handleChange}
                         />
                       </div>
                       <div className="mb-3">
@@ -256,6 +294,7 @@ export default function Contact() {
                           id="city"
                           placeholder="City"
                           required
+                          onChange={handleChange}
                         />
                       </div>
                       <button type="submit" className="hsbtn px-3 py-2">
