@@ -11,11 +11,11 @@ export default function ArmLift() {
       </Head>
 
       {/* Start About */}
-      <section>
+      <section className='py-5'>
         <div className="container">
           <div className="row">
-            <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
-              <img src="/image.jpg" alt="about image" width={500} height={500} />
+            <div className="col-12 col-md-6 pb-4 d-flex justify-content-center align-items-center">
+              <img className='shadow rounded img-fluid' src="\Assets\service-imgs\Arm Contouring.jpeg" alt="about image" height={300} />
             </div>
             <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
               <div className="about">
@@ -36,7 +36,7 @@ export default function ArmLift() {
       {/* End About */}
 
       {/* Start main content */}
-      <section className="py-5">
+      <section className="pb-5">
         <div className="container">
         <h2>Who is this procedure for?</h2>
             <p>You may benefit from brachioplasty surgery if your upper arms are drooping or sagging. This area may take on a batwing-like appearance with a flap of skin that hangs down when you raise your arms.</p>

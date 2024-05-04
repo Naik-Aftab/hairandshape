@@ -9,11 +9,11 @@ export default function BreastAugmentation() {
             </Head>
 
             {/* Start About */}
-            <section>
+            <section className='py-5'>
                 <div className="container">
                     <div className="row">
-                        <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
-                            <img src="/breast-augmentation.jpg" alt="about image" width={500} height={500} />
+                        <div className="col-12 col-md-6 pb-4 d-flex justify-content-center align-items-center">
+                            <img className='shadow rounded img-fluid' src="\Assets\service-imgs\Breast Augmentation.jpeg" alt="about image" height={300} />
                         </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
@@ -27,7 +27,7 @@ export default function BreastAugmentation() {
             {/* End About */}
 
             {/* Start main content */}
-            <section className="py-5">
+            <section className="pb-5">
                 <div className="container">
                     <h2>Good Candidates for Breast Implants</h2>
                     <p>If you are considering breast implants, you may have a very different reason than someone else for desiring surgery. Many women who come into our office seeking breast implants are eager to know if they are good candidates for breast augmentation surgery. Dr.Umang Kothari has provided the following preliminary checklist with the understanding that it is impossible to know whether you are a good candidate without undergoing a medical review.</p>
@@ -42,7 +42,7 @@ export default function BreastAugmentation() {
                     </ul>
                     <p>Age is an important consideration as well. Dr.Umang Kothari understands that many young women may be dissatisfied with their current breast size. However, they should wait until their breasts have fully developed before undergoing breast augmentation surgery.</p>
                     <h2>The Breast Augmentation Procedure</h2>
-                    <p>Breast augmentation is performed under general anesthesia at a private surgery center in Walnut Creek. Depending on the type and size of breast implants you have chosen, Dr.Umang Kothari may choose to make the incision in one of three locations:</p>
+                    <p>Breast augmentation is performed under general anesthesia at The Hair And Shape Clinic in Mumbai. Depending on the type and size of breast implants you have chosen, Dr.Umang Kothari may choose to make the incision in one of three locations:</p>
                     <ul>
                         <li>Within the crease underneath the breast</li>
                         <li>Around the edge of the areola</li>
@@ -60,7 +60,7 @@ export default function BreastAugmentation() {
             {/* End main content */}
 
             {/* Start FAQ content */}
-            <section className="py-5">
+            {/* <section className="py-5">
       <div className="container">
         <div className="row">
           <div className="col-12 col-md-5">
@@ -123,7 +123,7 @@ export default function BreastAugmentation() {
           </div>
         </div>
       </div>
-    </section>
+    </section> */}
  {/* End FAQ content */}
         </div>
     );

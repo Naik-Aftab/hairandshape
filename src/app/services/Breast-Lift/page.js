@@ -12,8 +12,8 @@ export default function BreastLift() {
             <section className='py-5'>
                 <div className="container">
                     <div className="row">
-                        <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
-                            <img src="/breast-lift.jpg" alt="about image" />
+                        <div className="col-12 col-md-6 pb-4 d-flex justify-content-center align-items-center">
+                            <img className='shadow rounded img-fluid' src="\Assets\service-imgs\breast-lift-.jpeg" alt="about image" height={300} />
                         </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
@@ -47,7 +47,7 @@ export default function BreastLift() {
             {/* End main content */}
 
             {/* Start FAQ */}
-            <section className="pb-5">
+            {/* <section className="pb-5">
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-5">
@@ -111,7 +111,7 @@ export default function BreastLift() {
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> */}
             {/* End FAQ */}
         </div>
     );

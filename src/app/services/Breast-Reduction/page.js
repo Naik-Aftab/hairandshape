@@ -4,11 +4,11 @@ const BreastReductionPage = () => {
     return (
         <>
             {/* ========== Start About ========== */}
-            <section>
+            <section className='py-5'>
                 <div className="container">
                     <div className="row">
-                        <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
-                            <img src="/" alt="about image" />
+                        <div className="col-12 col-md-6 pb-4 d-flex justify-content-center align-items-center">
+                            <img className='shadow rounded img-fluid' src="\Assets\service-imgs\Breast Reduction.jpeg" alt="about image" height={300} />
                         </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
@@ -21,7 +21,7 @@ const BreastReductionPage = () => {
             </section>
             {/* ========== End About ========== */}
             {/* ========== Start main content ========== */}
-            <section className="py-5">
+            <section className="pb-5">
                 <div className="container">
                     <h2>Who Is a Good Candidate for Breast Reduction?</h2>
                     <p>As with any other plastic surgery procedure, such as breast augmentation, breast reduction requires careful consideration of your medical and aesthetic goals before surgery.</p>
@@ -46,25 +46,7 @@ const BreastReductionPage = () => {
             </section>
             {/* ========== End main content ========== */}
 
-            {/* ========== Start FAQ ========== */}
-            <section className="py-5">
-                <div className="container">
-                    <div className="row">
-                        <div className="col-12 col-md-5">
-                            <img src="/faq.jpg" className="img-fluid" alt="image" />
-                        </div>
-                        <div className="col-12 col-md-7">
-                            <div className="section-header">
-                                <h1 className="text-center py-4 m-0"><b>Frequently Asked Questions</b></h1>
-                            </div>
-                            <div className="accordion" id="accordionExample">
-                                {/* Add your FAQ accordion items here */}
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            {/* ========== End FAQ ========== */}
+           
         </>
     );
 };

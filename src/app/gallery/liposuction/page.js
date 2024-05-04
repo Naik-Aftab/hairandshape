@@ -1,7 +1,3 @@
-"use client";
-import React, { useState } from "react";
-import Lightbox from "yet-another-react-lightbox";
-import "yet-another-react-lightbox/styles.css";
 
 export default function Liposuction(){
   return (
@@ -26,7 +22,7 @@ export default function Liposuction(){
                 <div className="row">
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                      <img
-                        src="/Liposuction/Liposuction 1.webp"
+                        src="\Assets\Liposuction\Back Liposuction 1.webp"
                         class="img-fluid rounded"
                         alt="result"
                      />
@@ -34,32 +30,81 @@ export default function Liposuction(){
                     </div>
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <img
-                        src="/Liposuction/Liposuction 2.webp"
+                        src="\Assets\Liposuction\Back Liposuction 2.webp"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <img
-                        src="/Liposuction/Liposuction 3.webp"
+                        src="\Assets\Liposuction\Back Liposuction 3.webp"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <img
-                        src="/Liposuction/Liposuction 4.webp"
+                        src="\Assets\Liposuction\Back Liposuction 4.webp"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <img
-                        src="/Liposuction/Liposuction 5.webp"
+                        src="\Assets\Liposuction\Back Liposuction 5.webp"
                         class="img-fluid rounded"
                         alt="result"
                      />
                     </div>
+                    <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
+                    <img
+                        src="\Assets\Liposuction\Tummy Liposuction 1.webp"
+                        class="img-fluid rounded"
+                        alt="result"
+                     />
+                    </div>
+                    <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
+                    <img
+                        src="\Assets\Liposuction\Tummy Liposuction 2.webp"
+                        class="img-fluid rounded"
+                        alt="result"
+                     />
+                    </div>
+                    <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
+                    <img
+                        src="\Assets\Liposuction\Tummy Liposuction 3.webp"
+                        class="img-fluid rounded"
+                        alt="result"
+                     />
+                    </div>
+                    <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
+                    <img
+                        src="\Assets\Liposuction\Tummy Liposuction 4.webp"
+                        class="img-fluid rounded"
+                        alt="result"
+                     />
+                    </div>
+                    <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
+                    <img
+                        src="\Assets\Liposuction\Tummy Liposuction 5.webp"
+                        class="img-fluid rounded"
+                        alt="result"
+                     />
+                    </div>
+                    <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
+                    <img
+                        src="\Assets\Liposuction\Tummy Liposuction 6.webp"
+                        class="img-fluid rounded"
+                        alt="result"
+                     />
+                    </div>
+                    <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
+                    <img
+                        src="\Assets\Liposuction\Tummy Liposuction 7.webp"
+                        class="img-fluid rounded"
+                        alt="result"
+                     />
+                    </div>               
                    
 
                 </div> 
@@ -71,6 +116,29 @@ export default function Liposuction(){
   
   <div className="container">
                 <div className="row">
+
+                    <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
+                    <iframe width="560" height="250" src="https://www.youtube.com/embed/YoDmEDyiz5M?si=Dchy2K5wHpDWLIg9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    </div>
+
+                    <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
+                    <iframe width="560" height="250" src="https://www.youtube.com/embed/sNLtkwPWmIw?si=uHFFVEy_eYU53KUh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+                    </div>
+
+                    <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
+                    <iframe width="560" height="250" src="https://www.youtube.com/embed/9NAdDdYGk2E?si=Tg8sPrTzY1VIzR48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+                    </div>
+
+                    <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
+                    <iframe width="560" height="250" src="https://www.youtube.com/embed/nWMU9VR4a-U?si=Aab1fE5zz2M0CThv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+                    </div>
+
+                    <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
+                    <iframe width="560" height="250" src="https://www.youtube.com/embed/pXe-bBTu9Ig?si=0bEu7V6D2KW7ICDe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+                    </div>
+
                     <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                     <iframe width="560" height="250" src="https://www.youtube.com/embed/goLcSOV3zyQ?si=kbs6rT7r9rZYtfmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
  
@@ -91,14 +159,7 @@ export default function Liposuction(){
                     <iframe width="560" height="250" src="https://www.youtube.com/embed/F8mZLuVBThI?si=iQj9jx3WWHfuxxXX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
                     </div>
-                    <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
-                    <iframe width="560" height="250" src="https://www.youtube.com/embed/nWMU9VR4a-U?si=Aab1fE5zz2M0CThv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
-                    </div>
-                    <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
-                    <iframe width="560" height="250" src="https://www.youtube.com/embed/pXe-bBTu9Ig?si=0bEu7V6D2KW7ICDe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
-                    </div>
+                   
 
                 </div> 
                 

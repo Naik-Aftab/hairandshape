@@ -12,8 +12,8 @@ export default function BeardHairTransplant() {
       <section className='py-5'>
         <div className="container">
           <div className="row">
-            <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
-              <img src="/beard.jpg" alt="about image" width={200} height={200} />
+            <div className="col-12 col-md-6 pb-4 d-flex justify-content-center align-items-center">
+              <img className='shadow rounded img-fluid' src="\Assets\service-imgs\Beard Transplant.jpeg" alt="about image" height={300} />
             </div>
             <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
               <div className="about">
@@ -66,7 +66,7 @@ export default function BeardHairTransplant() {
       {/* End main content */}
 
                   {/* ========== Start FAQ ========== */}
-                  <section className="pb-5">
+                  {/* <section className="pb-5">
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-5">
@@ -130,7 +130,7 @@ export default function BeardHairTransplant() {
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> */}
             {/* ========== End FAQ ========== */}
 
 

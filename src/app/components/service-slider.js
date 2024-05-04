@@ -55,7 +55,7 @@ export const Service = () => {
             <li><a href="/services/GFC">GFC</a></li>
           </ul>
           </div>
-          <img className="hair-image img-fluid rounded-top" src="/service-icons/Hair-Transplant.png" alt="" />
+          <img className="hair-image img-fluid rounded-top" src="\Assets\service-icons\Hair-Transplant.png" alt="" />
           <h3 className="text-center">Hair Transplant</h3>
           <p className="text-center px-2">Hair transplant restores hair by relocating follicles from donor to recipient areas.</p>
         </div>
@@ -74,7 +74,7 @@ export const Service = () => {
             <li><a href="/services/Thigh-Lift">Thigh Contouring</a></li>
           </ul>
           </div>
-          <img className="hair-image img-fluid rounded-top" src="/service-icons/Plastic -Surgery.png" alt="" />
+          <img className="hair-image img-fluid rounded-top" src="\Assets\service-icons\Plastic -Surgery.png" alt="" />
           <h3 className="text-center">Body Surgeries</h3>
           <p className="text-center px-2">Body surgeries reshape and enhance physical features through surgical procedures.</p>
         </div>
@@ -92,7 +92,7 @@ export const Service = () => {
             <li><a href="/services/Thread-Lifts">Thread Lifts</a></li>
           </ul>
           </div>
-          <img className="hair-image img-fluid rounded-top" src="/service-icons/Aesthetic.png" alt="" />
+          <img className="hair-image img-fluid rounded-top" src="\Assets\service-icons\Aesthetic.png" alt="" />
           <h4 className="text-center">Aesthetic Medicines</h4>
           <p className="text-center px-2">Enhances appearance through non-invasive procedures like botox, fillers, etc.</p>
         </div>
@@ -109,7 +109,7 @@ export const Service = () => {
             <li><a href="/services/Eyelid-Surgery">Eyelid Surgery</a></li>
           </ul>
           </div>
-          <img className="hair-image img-fluid rounded-top" src="/service-icons/Plastic -Surgery.png" alt="" />
+          <img className="hair-image img-fluid rounded-top" src="\Assets\service-icons\Plastic -Surgery.png" alt="" />
           <h3 className="text-center">Facial Surgeries</h3>
           <p className="text-center px-2">Enhance facial features through procedures like rhinoplasty, facelifts, etc.</p>
         </div>
@@ -125,7 +125,7 @@ export const Service = () => {
             <li><a href="/services/Syphils">Syphils</a></li>  
           </ul>
           </div>
-          <img className="hair-image img-fluid rounded-top" src="/service-icons/Clinic-icon.png" alt="" />
+          <img className="hair-image img-fluid rounded-top" src="\Assets\service-icons\Clinic-icon.png" alt="" />
           <h4 className="text-center">Dermatology & STD</h4>
           <p className="text-center px-2">Treats skin conditions & STDs through diagnosis, treatment, and prevention strategies.</p>
         </div>
@@ -140,7 +140,7 @@ export const Service = () => {
             <li><a href="/services/Skin-Brightening">Skin Brightening</a></li>
           </ul>
           </div>
-          <img className="hair-image img-fluid rounded-top" src="/service-icons/Laser.png" alt="" />
+          <img className="hair-image img-fluid rounded-top" src="\Assets\service-icons\Laser.png" alt="" />
           <h3 className="text-center">Laser & Medispa</h3>
           <p className="text-center px-2">Offer rejuvenating treatments like laser therapy and skincare services.</p>
         </div>
@@ -152,12 +152,11 @@ export const Service = () => {
             <li><a href="/services/Breast-Augmentation">Breast Augmentation</a></li>
             <li><a href="/services/Breast-Lift">Breast Lift</a></li>
             <li><a href="/services/Breast-Reduction">Breast Reduction</a></li>
-            <li><a href="#">Breast Implant/Fat</a></li>
             <li><a href="/services/Inverted-Nipple">Inverted Nipple</a></li>
             <li><a href="/services/Gynecomastia">Gynecomastia</a></li>
           </ul>
           </div>
-          <img className="hair-image img-fluid rounded-top" src="/service-icons/Plastic -Surgery.png" alt="" />
+          <img className="hair-image img-fluid rounded-top" src="\Assets\service-icons\Plastic -Surgery.png" alt="" />
           <h3 className="text-center">Breast Surgeries</h3>
           <p className="text-center px-2">Alter breast size or shape through procedures like augmentation & reduction.</p>
         </div>

@@ -4,11 +4,11 @@ const BrowLiftPage = () => {
     return (
         <>
             {/* ========== Start About ========== */}
-            <section>
+            <section className='py-5'>
                 <div className="container">
                     <div className="row">
-                        <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
-                            <img src="/" alt="about image" />
+                        <div className="col-12 col-md-6 pb-4 d-flex justify-content-center align-items-center">
+                            <img className='shadow rounded img-fluid' src="\Assets\service-imgs\Browlift.jpeg" alt="about image" style={{height:'500px'}}/>
                         </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
@@ -21,7 +21,7 @@ const BrowLiftPage = () => {
             </section>
             {/* ========== End About ========== */}
             {/* ========== Start main content ========== */}
-            <section className="py-5">
+            <section className="pb-5">
                 <div className="container">
                     <h2>Brow Lift Consultation</h2>
                     <p>During the consultation, The Hair and Shape Clinic will evaluate not only the forehead, but also the area around the eyes, the eyelids, and the overall face. The goal is to develop a treatment plan that produces natural-appearing results while maintaining harmony between the upper, mid, and lower parts of the face. The Hair and Shape Clinic feels that improvements gained as a result of rejuvenating facial cosmetic surgery should enhance desirable facial features and maintain natural expressions. In some cases, the effect of a minimally-invasive brow lift can be complemented by other procedures, such as a facelift, eyelid surgery, or laser resurfacing. Patients interested in additional procedures can discuss these goals with The Hair and Shape Clinic during the initial consultation. He will go over a range of treatment options that may be able to address specific concerns.</p>
@@ -33,25 +33,7 @@ const BrowLiftPage = () => {
                 </div>
             </section>
             {/* ========== End main content ========== */}
-            {/* ========== Start FAQ ========== */}
-            <section className="py-5">
-                <div className="container">
-                    <div className="row">
-                        <div className="col-12 col-md-5">
-                            <img src="/faq.jpg" className="img-fluid" alt="image" />
-                        </div>
-                        <div className="col-12 col-md-7">
-                            <div className="section-header">
-                                <h1 className="text-center py-4 m-0"><b>Frequently Asked Questions</b></h1>
-                            </div>
-                            <div className="accordion" id="accordionExample">
-                                {/* Add your FAQ accordion items here */}
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            {/* ========== End FAQ ========== */}
+            
         </>
     );
 };

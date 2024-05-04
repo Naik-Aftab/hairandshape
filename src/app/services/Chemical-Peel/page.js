@@ -4,10 +4,12 @@ const ChemicalPeelPage = () => {
     return (
         <>
             {/* ========== Start About ========== */}
-            <section>
+            <section className='py-5'>
                 <div className="container">
                     <div className="row">
-                        <div className="col-12 col-md-6 d-flex justify-content-center align-items-center"><img src="/" alt="about image" /></div>
+                        <div className="col-12 col-md-6 pb-5 d-flex justify-content-center align-items-center">
+                            <img className='shadow rounded img-fluid' src="\Assets\service-imgs\Chemical Peels.jpeg" alt="about image" height={300} />
+                        </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
                                 <h2>Chemical Peel</h2>
@@ -21,7 +23,7 @@ const ChemicalPeelPage = () => {
             {/* ========== End About ========== */}
 
             {/* ========== Start main content ========== */}
-            <section className="py-5">
+            <section className="pb-5">
                 <div className="container">
                     <h2>Types of Chemical Peels Treatment</h2>
                     <p>There are different types of chemical peels treatment which offer different benefits and risks. People of all ethnic backgrounds can enjoy the benefits of a chemical peel so long as they are under the care of a qualified professional who knows how to select the right peel for the right patient.</p>

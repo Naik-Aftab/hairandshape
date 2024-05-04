@@ -9,11 +9,11 @@ export default function Botox() {
       </Head>
 
       {/* Start About */}
-      <section>
+      <section className='py-5'>
         <div className="container">
           <div className="row">
-            <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
-            <img src="/beard.jpg" alt="about image" width={500} height={500} />
+            <div className="col-12 col-md-6 pb-3 d-flex justify-content-center align-items-center">
+            <img className='shadow rounded img-fluid' src="\Assets\service-imgs\botox-treatment.webp" alt="about image"  height={250} />
             </div>
             <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
               <div className="about">

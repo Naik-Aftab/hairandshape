@@ -4,10 +4,12 @@ const FaceLiftPage = () => {
     return (
         <>
             {/* ========== Start About ========== */}
-            <section>
+            <section className='py-5'>
                 <div className="container">
                     <div className="row">
-                        <div className="col-12 col-md-6 d-flex justify-content-center align-items-center"><img src="/" alt="about image" /></div>
+                        <div className="col-12 col-md-6 pb-5 d-flex justify-content-center align-items-center">
+                            <img className='shadow rounded img-fluid' src="\Assets\service-imgs\Face Lift.jpeg" alt="about image" style={{height:'350px'}}/>
+                            </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
                                 <h2>Face Lift</h2>
@@ -21,7 +23,7 @@ const FaceLiftPage = () => {
             {/* ========== End About ========== */}
 
             {/* ========== Start main content ========== */}
-            <section className="py-5">
+            <section className="pb-5">
                 <div className="container">
                     <h2>Facelift Procedure</h2>
                     <p>Also known as a rhytidectomy, the process of the facelift procedure depends largely on your individual features and goals. In general, the incision for a facelift begins within the hairline above each ear and continues around and behind the ear. These incisions are placed in such a way that they are typically well concealed by your hairline.</p>
@@ -37,11 +39,11 @@ const FaceLiftPage = () => {
             {/* ========== End main content ========== */}
 
             {/* ========== Start FAQ ========== */}
-            <section className="py-5">
+            <section className="pb-5">
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-5">
-                            <img src="/faq.jpg" className="img-fluid" alt="image" />
+                            <img src="\Assets\icons\faq.jpg" className="img-fluid" alt="image" />
                         </div>
                         <div className="col-12 col-md-7">
                             <div className="section-header">
