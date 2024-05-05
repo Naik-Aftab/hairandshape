@@ -42,7 +42,7 @@ export default function Contact() {
       <section
         style={{
           background:
-            "linear-gradient(to bottom, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(Assets/clinic/contact.jpg)",
+            "linear-gradient(to bottom, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(./Assets/clinic/contact.jpg)",
           backgroundPosition: 'center',
           backgroundSize: 'cover',
         }}
@@ -238,7 +238,7 @@ export default function Contact() {
             <div className="col-lg-12 shadow">
               <div className="row">
                 <div className="col-md-6 col-12 p-0 d-flex align-items-center justify-content-center"
-                  style={{ background: 'url(Assets/clinic/clinic.webp)', position: 'relative', borderTopLeftRadius: '20px', borderBottomLeftRadius: '20px' }}>
+                  style={{ background: 'url(./Assets/clinic/clinic.webp)', position: 'relative', borderTopLeftRadius: '20px', borderBottomLeftRadius: '20px' }}>
                   <div
                     style={{
                       background: "rgba(0, 0, 0, 0.5)",

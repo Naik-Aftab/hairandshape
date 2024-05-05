@@ -22,7 +22,7 @@ export default function Rhinoplasty() {
               <div className="row">
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/Rhinoplasty/Rhinoplasty 1.webp"
+                    src="../Assets/Rhinoplasty/Rhinoplasty 1.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
@@ -30,91 +30,91 @@ export default function Rhinoplasty() {
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/Rhinoplasty/Rhinoplasty 2.webp"
+                    src="../Assets/Rhinoplasty/Rhinoplasty 2.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/Rhinoplasty/Rhinoplasty 3.webp"
+                    src="../Assets/Rhinoplasty/Rhinoplasty 3.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/Rhinoplasty/Rhinoplasty 4.webp"
+                    src="../Assets/Rhinoplasty/Rhinoplasty 4.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/Rhinoplasty/Rhinoplasty 5.webp"
+                    src="../Assets/Rhinoplasty/Rhinoplasty 5.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/Rhinoplasty/Rhinoplasty 6.webp"
+                    src="../Assets/Rhinoplasty/Rhinoplasty 6.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/Rhinoplasty/Rhinoplasty 7.webp"
+                    src="../Assets/Rhinoplasty/Rhinoplasty 7.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/Rhinoplasty/Rhinoplasty 8.webp"
+                    src="../Assets/Rhinoplasty/Rhinoplasty 8.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/Rhinoplasty/Rhinoplasty 9.webp"
+                    src="../Assets/Rhinoplasty/Rhinoplasty 9.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/Rhinoplasty/Rhinoplasty 10.webp"
+                    src="../Assets/Rhinoplasty/Rhinoplasty 10.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/Rhinoplasty/Rhinoplasty 11.webp"
+                    src="../Assets/Rhinoplasty/Rhinoplasty 11.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/Rhinoplasty/Rhinoplasty 12.webp"
+                    src="../Assets/Rhinoplasty/Rhinoplasty 12.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/Rhinoplasty/Rhinoplasty 13.webp"
+                    src="../Assets/Rhinoplasty/Rhinoplasty 13.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/Rhinoplasty/Rhinoplasty 14.webp"
+                    src="../Assets/Rhinoplasty/Rhinoplasty 14.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />

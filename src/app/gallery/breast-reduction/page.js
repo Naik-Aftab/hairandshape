@@ -22,7 +22,7 @@ export default function Reduction() {
               <div className="row">
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/Breast Reduction/Breast Reduction 1.webp"
+                    src="../Assets/Breast Reduction/Breast Reduction 1.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
@@ -30,21 +30,21 @@ export default function Reduction() {
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/Breast Reduction/Breast Reduction 2.webp"
+                    src="../Assets/Breast Reduction/Breast Reduction 2.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/Breast Reduction/Breast Reduction 3.webp"
+                    src="../Assets/Breast Reduction/Breast Reduction 3.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/Breast Reduction/Breast Reduction 4.webp"
+                    src="../Assets/Breast Reduction/Breast Reduction 4.webp"
                     class="img-fluid rounded"
                     alt="result"
                   />

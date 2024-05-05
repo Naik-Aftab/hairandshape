@@ -8,7 +8,7 @@ const ChemicalPeelPage = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-6 pb-5 d-flex justify-content-center align-items-center">
-                            <img className='shadow rounded img-fluid' src="Assets\service-imgs\Chemical Peels.jpeg" alt="about image" height={300} />
+                            <img className='shadow rounded img-fluid' src="..\Assets\service-imgs\Chemical Peels.jpeg" alt="about image" height={300} />
                         </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">

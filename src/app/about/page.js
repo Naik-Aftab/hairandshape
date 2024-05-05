@@ -37,7 +37,7 @@ const Aboutpage = () => {
       </section>
       {/* <!-- ========== End Banner ========== --> */}
 
-      <section style={{background: 'linear-gradient(to bottom, rgba(255, 246, 209, 0.5), rgba(255, 246, 209, 0.5)), url(/bg/pattern4.jpg) center/cover'}}>
+      <section style={{background: 'linear-gradient(to bottom, rgba(255, 246, 209, 0.5), rgba(255, 246, 209, 0.5)), url(Assets/patterns/pattern4.jpg) center/cover'}}>
         <Doctor />
       </section>
 

@@ -23,7 +23,7 @@ export default function PRP() {
               <div className="row">
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/PRP/PRP (1).webp"
+                    src="../Assets/PRP/PRP (1).webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
@@ -31,63 +31,63 @@ export default function PRP() {
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/PRP/PRP (2).webp"
+                    src="../Assets/PRP/PRP (2).webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/PRP/PRP (3).webp"
+                    src="../Assets/PRP/PRP (3).webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/PRP/PRP (4).webp"
+                    src="../Assets/PRP/PRP (4).webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/PRP/PRP (5).webp"
+                    src="../Assets/PRP/PRP (5).webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/PRP/PRP (6).webp"
+                    src="../Assets/PRP/PRP (6).webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/PRP/PRP (7).webp"
+                    src="../Assets/PRP/PRP (7).webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/PRP/PRP (8).webp"
+                    src="../Assets/PRP/PRP (8).webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/PRP/PRP (9).webp"
+                    src="../Assets/PRP/PRP (9).webp"
                     class="img-fluid rounded"
                     alt="result"
                   />
                 </div>
                 <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                   <img
-                    src="Assets/PRP/PRP (10).webp"
+                    src="../Assets/PRP/PRP (10).webp"
                     class="img-fluid rounded"
                     alt="result"
                   />

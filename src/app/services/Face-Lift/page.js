@@ -8,7 +8,7 @@ const FaceLiftPage = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-6 pb-5 d-flex justify-content-center align-items-center">
-                            <img className='shadow rounded img-fluid' src="Assets\service-imgs\Face Lift.jpeg" alt="about image" style={{height:'350px'}}/>
+                            <img className='shadow rounded img-fluid' src="..\Assets\service-imgs\Face Lift.jpeg" alt="about image" style={{height:'350px'}}/>
                             </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
@@ -43,7 +43,7 @@ const FaceLiftPage = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-5">
-                            <img src="Assets\icons\faq.jpg" className="img-fluid" alt="image" />
+                            <img src="..\Assets\icons\faq.jpg" className="img-fluid" alt="image" />
                         </div>
                         <div className="col-12 col-md-7">
                             <div className="section-header">

@@ -22,7 +22,7 @@ export default function Gynecomastia() {
                      <div className="row">
                         <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                            <img
-                              src="Assets/Gynecomastia/Gynecomastia 11.webp"
+                              src="../Assets/Gynecomastia/Gynecomastia 11.webp"
                               class="img-fluid rounded"
                               alt="result"
                            />
@@ -30,7 +30,7 @@ export default function Gynecomastia() {
                         </div>
                         <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                            <img
-                              src="Assets/Gynecomastia/Gynecomastia 12.webp"
+                              src="../Assets/Gynecomastia/Gynecomastia 12.webp"
                               class="img-fluid rounded"
                               alt="result"
                            />
@@ -38,7 +38,7 @@ export default function Gynecomastia() {
                         </div>
                         <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                            <img
-                              src="Assets/Gynecomastia/Gynecomastia 13.webp"
+                              src="../Assets/Gynecomastia/Gynecomastia 13.webp"
                               class="img-fluid rounded"
                               alt="result"
                            />
@@ -46,7 +46,7 @@ export default function Gynecomastia() {
                         </div>
                         <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                            <img
-                              src="Assets/Gynecomastia/Gynecomastia 14.webp"
+                              src="../Assets/Gynecomastia/Gynecomastia 14.webp"
                               class="img-fluid rounded"
                               alt="result"
                            />
@@ -54,7 +54,7 @@ export default function Gynecomastia() {
                         </div>
                         <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                            <img
-                              src="Assets/Gynecomastia/Gynecomastia 15.webp"
+                              src="../Assets/Gynecomastia/Gynecomastia 15.webp"
                               class="img-fluid rounded"
                               alt="result"
                            />
@@ -62,7 +62,7 @@ export default function Gynecomastia() {
                         </div>
                         <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                            <img
-                              src="Assets/Gynecomastia/Gynecomastia 1.webp"
+                              src="../Assets/Gynecomastia/Gynecomastia 1.webp"
                               class="img-fluid rounded"
                               alt="result"
                            />
@@ -70,63 +70,63 @@ export default function Gynecomastia() {
                         </div>
                         <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                            <img
-                              src="Assets/Gynecomastia/Gynecomastia 2.webp"
+                              src="../Assets/Gynecomastia/Gynecomastia 2.webp"
                               class="img-fluid rounded"
                               alt="result"
                            />
                         </div>
                         <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                            <img
-                              src="Assets/Gynecomastia/Gynecomastia 3.webp"
+                              src="../Assets/Gynecomastia/Gynecomastia 3.webp"
                               class="img-fluid rounded"
                               alt="result"
                            />
                         </div>
                         <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                            <img
-                              src="Assets/Gynecomastia/Gynecomastia 4.webp"
+                              src="../Assets/Gynecomastia/Gynecomastia 4.webp"
                               class="img-fluid rounded"
                               alt="result"
                            />
                         </div>
                         <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                            <img
-                              src="Assets/Gynecomastia/Gynecomastia 5.webp"
+                              src="../Assets/Gynecomastia/Gynecomastia 5.webp"
                               class="img-fluid rounded"
                               alt="result"
                            />
                         </div>
                         <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                            <img
-                              src="Assets/Gynecomastia/Gynecomastia 6.webp"
+                              src="../Assets/Gynecomastia/Gynecomastia 6.webp"
                               class="img-fluid rounded"
                               alt="result"
                            />
                         </div>
                         <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                            <img
-                              src="Assets/Gynecomastia/Gynecomastia 7.webp"
+                              src="../Assets/Gynecomastia/Gynecomastia 7.webp"
                               class="img-fluid rounded"
                               alt="result"
                            />
                         </div>
                         <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                            <img
-                              src="Assets/Gynecomastia/Gynecomastia 8.webp"
+                              src="../Assets/Gynecomastia/Gynecomastia 8.webp"
                               class="img-fluid rounded"
                               alt="result"
                            />
                         </div>
                         <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                            <img
-                              src="Assets/Gynecomastia/Gynecomastia 9.webp"
+                              src="../Assets/Gynecomastia/Gynecomastia 9.webp"
                               class="img-fluid rounded"
                               alt="result"
                            />
                         </div>
                         <div className='col-md-4 col-12 py-3 d-flex justify-content-center align-items-center'>
                            <img
-                              src="Assets/Gynecomastia/Gynecomastia 10.webp"
+                              src="../Assets/Gynecomastia/Gynecomastia 10.webp"
                               class="img-fluid rounded"
                               alt="result"
                            />
