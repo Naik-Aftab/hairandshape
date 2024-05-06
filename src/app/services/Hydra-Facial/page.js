@@ -4,12 +4,12 @@ const HydraFacialPage = () => {
     return (
         <>
             {/* ========== Start About ========== */}
-            <section>
+            <section className='py-5'>
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             {/* Update the image source with the correct path or use a placeholder image */}
-                            <img src="/placeholder.jpg" alt="about image" />
+                            <img className='img-fluid shadow rounded mb-3' src="..\Assets\service-imgs\Hydra Facial.jpeg" alt="about image" height={300} />
                         </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
@@ -23,7 +23,7 @@ const HydraFacialPage = () => {
             {/* ========== End About ========== */}
 
             {/* ========== Start main content ========== */}
-            <section className="py-5">
+            <section className="pb-5">
                 <div className="container">
                     <h2>What are the benefits of Hydrafacial?</h2>
                     <ul>
@@ -36,7 +36,6 @@ const HydraFacialPage = () => {
                           <li><strong>Customizable treatment</strong>: Depending on your skin type, type of skin texture, and the damage, the experts will customize the entire procedure only for you. From the composition of the chemical peel to the moisturizers used, everything is meant specifically for your skin.</li>
                           <li><strong>Amazing for sensitive skin</strong>: It is common for people with sensitive skin to refrain from using any kinds of harsh chemicals or treatments. The benefits of hydrafacial for skin are effective on the sensitive skin type too. The vacuum technology cleanses the skin without imposing risks of skin damage or swelling.</li>
 
-{/* Add other list items */}
                     </ul>
 
                     <h2>What Does Hydrafacial Do for Your Skin?</h2>
@@ -46,9 +45,7 @@ const HydraFacialPage = () => {
                      <li><strong>Extraction:</strong> This step uses the vacuum extraction tool to remove the dirt from inside the pores and the dead skin cells lying on the superficial layer of the skin.</li>
                       <li><strong>Hydrating Serum:</strong> The entire procedure is then finished with the application of a hydrating serum that seeps into the layers of the skin to hydrate it from within. The serum also helps restore the supple texture of the skin and clears out any dryness or roughness.</li>
 
-    
 
-{/* Add other list items */}
                     </ul>
                 </div>
             </section>

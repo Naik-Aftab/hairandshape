@@ -8,8 +8,7 @@ const MustacheHairTransplantPage = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
-                            {/* Update the image source with the correct path or use a placeholder image */}
-                            <img src="/placeholder.jpg" alt="about image" />
+                            <img className='img-fluid shadow rounded mb-3' src="..\Assets\service-imgs\mustache.png" alt="about image" style={{height:'400px'}}/>
                         </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
@@ -65,11 +64,11 @@ const MustacheHairTransplantPage = () => {
             {/* ========== End main content ========== */}
 
                         {/* ========== Start FAQ ========== */}
-                        <section className="pb-5">
+                        {/* <section className="pb-5">
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-5">
-                            <img src="/faq.jpg" className="img-fluid" alt="image" />
+                            <img src="..\Assets\icons\faq.jpg" className="img-fluid" alt="image" />
                         </div>
                         <div className="col-12 col-md-7">
                             <div className="section-header">
@@ -129,7 +128,7 @@ const MustacheHairTransplantPage = () => {
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> */}
             {/* ========== End FAQ ========== */}
 
 

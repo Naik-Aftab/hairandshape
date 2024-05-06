@@ -4,11 +4,11 @@ const TattooRemovalPage = () => {
     return (
         <>
             {/* ========== Start About ========== */}
-            <section>
+            <section className='py-5'>
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
-                            <img src="/" alt="about image" />
+                            <img className='img-fluid shadow rounded mb-3' src="..\Assets\service-imgs\Tattoo Removal.jpeg" alt="about image" height={300}/>
                         </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
@@ -23,7 +23,7 @@ const TattooRemovalPage = () => {
             {/* ========== End About ========== */}
 
             {/* ========== Start main content ========== */}
-            <section className="py-5">
+            <section className="pb-5">
                 <div className="container">
                     <h2>Why get tattoo removal?</h2>
                     <p>If you have an unwanted tattoo that makes you self-conscious or you are unhappy with changes in your tattoo caused by the natural aging of your skin, tattoo removal may be right for you.</p>

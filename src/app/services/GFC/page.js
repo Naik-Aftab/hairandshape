@@ -7,7 +7,8 @@ const GFCPage = () => {
             <section className='py-5'>
                 <div className="container">
                     <div className="row">
-                        <div className="col-12 col-md-6 d-flex justify-content-center align-items-center"><img src="/" alt="about image" /></div>
+                        <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
+                            <img className='img-fluid shadow rounded mb-3' src="..\Assets\service-imgs\gfc-treatment.jpg" alt="about image" height={250} /></div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
                                 <h2>Growth Factor Concentrate Therapy (GFC)</h2>
@@ -60,7 +61,7 @@ const GFCPage = () => {
             {/* ========== End main content ========== */}
 
                         {/* ========== Start FAQ ========== */}
-                        <section className="pb-5">
+                        {/* <section className="pb-5">
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-5">
@@ -124,7 +125,7 @@ const GFCPage = () => {
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> */}
             {/* ========== End FAQ ========== */}
 
 

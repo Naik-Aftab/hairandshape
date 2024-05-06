@@ -4,10 +4,12 @@ const ButtLiftPage = () => {
     return (
         <>
             {/* ========== Start About ========== */}
-            <section>
+            <section className='py-5'>
                 <div className="container">
                     <div className="row">
-                        <div className="col-12 col-md-6 d-flex justify-content-center align-items-center"><img src="/" alt="about image" /></div>
+                        <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
+                            <img className='img-fluid shadow rounded mb-3' src="..\Assets\service-imgs\buttlift.jpg" alt="about image" style={{height:'300px'}} />
+                        </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
                                 <h2>Butt Lift</h2>
@@ -20,7 +22,7 @@ const ButtLiftPage = () => {
             {/* ========== End About ========== */}
 
             {/* ========== Start main content ========== */}
-            <section className="py-5">
+            <section className="pb-5">
                 <div className="container">
                     <p>After surgery, a compression garment is applied and worn for the first six weeks of healing. The garment will provide moderate pressure to the areas where fat was harvested and also to the buttocks, where fat cells were transferred. The goal during this recovery period is to control the degree of swelling, and to create an environment in which the greatest percentage of the newly transferred fat cells survives. For first two weeks after a BBL, it is important not to sit or lay directly on the buttocks for any period greater than 15-20 minutes, including during the night. Weighty pressure can eliminate these new fat cells before they have time to incorporate into the surrounding buttock tissue. Sleeping on your stomach or turning from side to side is the best way to protect the buttocks while healing.</p>
                     <p>From recovery weeks three through six after surgery, it is acceptable to sit for short amounts of time. A period of no more than 30 minutes of sitting is best and ideally, you would stand or walk around for at least 15 minutes in between these sitting “sessions”. You will continue sleeping on your stomach or sides during this period.</p>

@@ -4,11 +4,11 @@ const VitiligoPage = () => {
     return (
         <>
             {/* ========== Start About ========== */}
-            <section>
+            <section className='py-5'>
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
-                            <img src="/" alt="about image" />
+                            <img className='img-fluid shadow rounded mb-3' src="..\Assets\service-imgs\vitiligo.jpg" alt="about image" height={300}/>
                         </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
@@ -22,7 +22,7 @@ const VitiligoPage = () => {
             {/* ========== End About ========== */}
 
             {/* ========== Start main content ========== */}
-            <section className="py-5">
+            <section className="pb-5">
                 <div className="container">
                     <h2>Who does vitiligo affect?</h2>
                     <p>Vitiligo affects all races and sexes equally. It’s more visible in people with darker skin tones. Although vitiligo can develop in anyone at any age, macules or patches usually become apparent before age 30.</p>

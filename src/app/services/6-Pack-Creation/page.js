@@ -12,7 +12,7 @@ export default function Home() {
         <div className="container">
           <div className="row">
             <div className="col-12 col-md-6 pb-3 d-flex justify-content-center align-items-center">
-            <img className="shadow rounded img-fluid" src="Assets\service-imgs\Hi-Definition Liposuction.jpeg" alt="about image" style={{height:'400px',width:'100%'}} />
+            <img className="shadow rounded img-fluid mb-3" src="Assets\service-imgs\Hi-Definition Liposuction.jpeg" alt="about image" style={{height:'400px',width:'100%'}} />
             </div>
             <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
               <div className="about">

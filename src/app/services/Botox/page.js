@@ -13,7 +13,7 @@ export default function Botox() {
         <div className="container">
           <div className="row">
             <div className="col-12 col-md-6 pb-3 d-flex justify-content-center align-items-center">
-            <img className='shadow rounded img-fluid' src="Assets\service-imgs\botox-treatment.webp" alt="about image"  height={250} />
+            <img className='shadow rounded img-fluid mb-3' src="..\Assets\service-imgs\botox-treatment.webp" alt="about image"  height={250} />
             </div>
             <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
               <div className="about">
@@ -27,7 +27,7 @@ export default function Botox() {
       {/* End About */}
 
       {/* Start main content */}
-      <section className="py-5">
+      <section className="pb-5">
         <div className="container">
           <h2>Botox Treatments</h2>
           <ul>

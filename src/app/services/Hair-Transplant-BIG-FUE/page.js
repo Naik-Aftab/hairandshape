@@ -8,7 +8,7 @@ const HairTransplantPage = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
-                            <img src="/placeholder.jpg" alt="about image" />
+                            <img className='img-fluid shadow rounded mb-3' src="..\Assets\service-imgs\Hair Transplant Big Fue1.jpg" alt="about image" height={300} />
                         </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
@@ -68,7 +68,7 @@ const HairTransplantPage = () => {
             {/* ========== End main content ========== */}
 
             {/* ========== Start FAQ ========== */}
-            <section className="pb-5">
+            {/* <section className="pb-5">
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-5">
@@ -132,7 +132,7 @@ const HairTransplantPage = () => {
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> */}
             {/* ========== End FAQ ========== */}
 
 

@@ -7,7 +7,9 @@ const GynecomastiaPage = () => {
             <section className='py-5'>
                 <div className="container">
                     <div className="row">
-                        <div className="col-6 d-flex justify-content-center align-items-center"><img src="/" alt="about image" /></div>
+                        <div className="col-6 d-flex justify-content-center align-items-center">
+                            <img className='img-fluid shadow rounded mb-3' src="..\Assets\service-imgs\Gynecomastia.jpeg" alt="about image" height={300} />
+                        </div>
                         <div className="col-6 d-flex justify-content-center align-items-center">
                             <div className="about">
                                 <h2>Gynecomastia</h2>
@@ -27,7 +29,7 @@ const GynecomastiaPage = () => {
             {/* ========== End About ========== */}
 
             {/* ========== Start main content ========== */}
-            <section className='py-5'>
+            <section className='pb-5'>
                 <div className="container">
                     <h2>Candidates for Male Breast Reduction</h2>
                     <p>The best candidates for male breast reduction include:</p>
@@ -53,11 +55,11 @@ const GynecomastiaPage = () => {
             {/* ========== End main content ========== */}
 
             {/* ========== Start FAQ ========== */}
-            <section className="py-5">
+            <section className="pb-5">
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-5">
-                            <img src="/faq.jpg" className="img-fluid" alt="image" />
+                            <img src="..\Assets\icons\faq.jpg" className="img-fluid" alt="image" />
                         </div>
                         <div className="col-12 col-md-7">
                             <div className="section-header">

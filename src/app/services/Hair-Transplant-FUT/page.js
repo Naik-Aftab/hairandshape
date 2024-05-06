@@ -8,7 +8,7 @@ const HairTransplantFutPage = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-md-6 col-12 pb-4 d-flex justify-content-center align-items-center">
-                            <img className=' rounded shadow' src="/hair-transplant.jpeg" alt="about image" height='300px'/>
+                            <img className='img-fluid rounded shadow mb-3' src="..\Assets\service-imgs\hair-transplant-1.webp" alt="about image" height='300px'/>
                         </div>
                         <div className="col-md-6 col-12 d-flex justify-content-center align-items-center">
                             <div className="about">
@@ -72,7 +72,7 @@ const HairTransplantFutPage = () => {
             {/* ========== End main content ========== */}
 
         {/* ========== Start FAQ ========== */}
-            <section className="pb-5">
+            {/* <section className="pb-5">
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-5">
@@ -136,7 +136,7 @@ const HairTransplantFutPage = () => {
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> */}
             {/* ========== End FAQ ========== */}
 
         </>

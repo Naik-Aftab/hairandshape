@@ -28,6 +28,7 @@ export default function Contact() {
 
       if (response.ok) {
         console.log('Form submitted successfully');
+        window.location.href = '/thank_you';
       } else {
         console.error('Form submission failed');
       }

@@ -3,8 +3,27 @@ import React from 'react';
 const ThreadLiftPage = () => {
     return (
         <>
+            {/* ========== Start About ========== */}
+            <section className='py-5'>
+                <div className="container">
+                    <div className="row">
+                        <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
+                            <img className='img-fluid shadow rounded mb-3' src="..\Assets\service-imgs\Thigh Contouring.jpeg" alt="about image" height={300}/>
+                        </div>
+                        <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
+                            <div className="about">
+                                <h2>Thread Lifts</h2>
+                                <p>A thread lift is a nonsurgical procedure that lifts sagging, aging skin and stimulates collagen production to give your face or neck a more youthful appearance. Plastic surgeons place medical-grade thread under the skin to pull the skin into position. These threads activate the body's natural healing response, triggering the increase of collagen. Threads come in several different materials and lengths.</p>
+                                <p>Unlike a facelift, a thread lift is a nonsurgical procedure that creates subtle changes. It's often called a “lunchtime facelift” because it's such a quick procedure with minimal downtime.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            {/* ========== End About ========== */}
+
             {/* ========== Start main content ========== */}
-            <section className="py-5">
+            <section className="pb-5">
                 <div className="container">
                     <h2>How long does a thread lift last?</h2>
                     <p>Results from a thread lift are temporary, lasting from one to three years. Over time, the threads dissolve, and your body absorbs them. If you like your results, you can have another thread lift procedure.</p>

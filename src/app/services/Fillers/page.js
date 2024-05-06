@@ -4,10 +4,11 @@ const FillersPage = () => {
     return (
         <>
             {/* ========== Start About ========== */}
-            <section>
+            <section className='py-5'>
                 <div className="container">
                     <div className="row">
-                        <div className="col-12 col-md-6 d-flex justify-content-center align-items-center"><img src="/" alt="about image" /></div>
+                        <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
+                            <img className='img-fluid shadow rounded mb-3' src="..\Assets\service-imgs\Filler Treatment.jpeg" alt="about image" height={300}/></div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
                                 <h2>Fillers</h2>
@@ -20,7 +21,7 @@ const FillersPage = () => {
             {/* ========== End About ========== */}
 
             {/* ========== Start main content ========== */}
-            <section className="py-5">
+            <section className="pb-5">
                 <div className="container">
                     <h2>Used to:</h2>
                     <ul>

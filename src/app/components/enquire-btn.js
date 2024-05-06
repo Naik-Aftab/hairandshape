@@ -1,18 +1,19 @@
 "use client"
-import React from 'react';
+import React from 'react'
 import { useState } from 'react';
 
-export default function Doctor() {
+export const Enquire = () => {
+
     const [show, setShow] = useState(false);
 
-  const handleClose = () => setShow(false);
-  const handleShow = () => setShow(true);
-    return (
+    const handleClose = () => setShow(false);
+    const handleShow = () => setShow(true);
 
-        <>
+  return (
+    <div className=''>
 
-          {/* <!-- ========== Start modal ========== --> */}
-          {show && <div className="modal-backdrop fade show"></div>}
+              {/* <!-- ========== Start modal ========== --> */}
+              {show && <div className="modal-backdrop fade show"></div>}
           <div className={`modal ${show ? 'd-block' : ''}`} tabIndex="-1" role="dialog">
             <div class="modal-dialog modal-sm modal-dialog-centered">
                 <div class="modal-content" style={{backgroundColor: '#f8fbff'}}>
@@ -89,66 +90,8 @@ export default function Doctor() {
         </div>
         {/* <!-- ========== End modal ========== --> */}
 
-        <section id='doctor' className='pt-5'>
-            <div className="container" style={{overflow:'hidden'}}>
-                <h1 className='text-center mb-5' style={{color:'var(--blue)'}} data-aos="zoom-in"><b>&#x275D; Meet The Surgeons &#x275E;</b></h1>
-
-                        <div className="container">
-                            <div className='row'>
-                                <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
-                                    <div className='doctorInfo my-2'>
-                                        <h1 className='' style={{color:'var(--yellow)'}}><b>Dr. Umang Kothari</b></h1>
-                                        <h6 className='pb-2'><b>MBBS, M.S(Gen.Surgery), DNB(Plastic Surgery)</b></h6>
-                                        <ul>
-                                            <li><h6>Founder and Director of &quot;The Hair And Shape Clinic&quot; and Nursing Home</h6></li>
-                                            <li><h6>Over 14 years of extensive experience in Aesthetic and Reconstructive surgery</h6></li>
-                                            <li><h6>Distinguished as a Premier National Mentor and Global Trainer for Reveal lasers, specializing in microlift and microtight procedures</h6></li>
-                                            <li><h6>Renowned for conducting numerous live surgeries at both National and International conferences, coupled with delivering captivating lectures</h6></li>
-                                            <li><h6>Founding Member of AAPS (Association of Aesthetic Plastic Surgeons) representing Mumbai, Navi Mumbai, and Thane</h6></li>
-                                            <li><h6>Expert in laser-assisted liposuction, pioneering innovative techniques in body contouring and sculpting</h6></li>
-                                        </ul>
-                                        <div className='row pb-3'>
-                                            <h6><b> Proud Member of :</b></h6>
-                                            <div className='col-3'><img src='Assets\award\award1.png' alt='logo1' style={{ height:'80px'}}/></div>
-                                            <div className='col-3'><img src='Assets\award\award2.png' alt='logo2' style={{ height:'80px'}}/></div>
-                                            <div className='col-3'><img src='Assets\award\award3.png' alt='logo3' style={{ height:'80px'}}/></div>
-                                            <div className='col-3'><img src='Assets\award\award4.png' alt='logo4' style={{ height:'80px'}}/></div>
-                                        </div>
-                                        <button class="hsbtn my-2 py-2 px-3" onClick={handleShow}>GET
-                                            CONSULTATION NOW</button>
-                                    </div>
-                                </div>
-                                <div data-aos='zoom-in' data-aos-delay='500' className='doctorImage col-12 col-md-6 d-flex justify-content-center align-items-center'>
-                                    <img className='img-fluid' src="Assets\surgeons\DrUmang.png" alt="Dr. Umang Kothari" style={{height:'600px'}} />
-                                </div>
-                            </div>
-                        </div>
-                  
-                        <div className="container py-5">
-                            <div className='row'>
-                            <div data-aos='zoom-in' data-aos-delay='500' className='doctorImage order-2 order-lg-1 col-12 col-md-6  d-flex justify-content-center align-items-center'>
-                                    <img className='img-fluid' src="Assets\surgeons\DrOmkar.png" alt="Dr. Omkar Warang" style={{height:'500px'}} />
-                                </div>
-
-                                <div className=" order-1 order-lg-2 col-12 col-md-6 d-flex justify-content-center align-items-center">
-                                    <div className='doctorInfo my-2'>
-                                        <h1  style={{color:'var(--yellow)'}} ><b>Dr. Omkar Warang</b></h1>
-                                        <h6 className='pb-2'><b>MBBS, D.D.V.L , D.N.B.(Dermatology & Sexually Transmitted Diseases)</b></h6>
-                                        <ul>
-                                            <li><h6>Director of &quot;The Hair And Shape Clinic&quot;</h6></li>
-                                            <li><h6>Board Certified Dermatologist with over 7 years of experience in the field of Dermatology & Hair Transplant</h6></li>
-                                            <li><h6>Trained in Dermatology & Venereology,and earned Diplomate of National Board (D.N.B) Degree</h6></li>
-                                            <li><h6>He is currently associated with various trust hospitals in Malad & Borivali.</h6></li>
-                                        </ul>
-                                        <button class="hsbtn my-2 py-2 px-3" onClick={handleShow}>GET
-                                            CONSULTATION NOW</button>
-                                    </div>
-                                </div>
-                               
-                            </div>
-                        </div>
-                    </div>
-        </section>
-        </>
-    );
+          <button onClick={handleShow} className='eqn-btn d-md-block d-none'>Enquire Now</button>
+          <button onClick={handleShow} className='eqn-sm-btn d-md-none d-block py-1'>Enquire Now</button>
+        </div>
+  )
 }

@@ -13,12 +13,12 @@ export default function BreastAugmentation() {
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-6 pb-4 d-flex justify-content-center align-items-center">
-                            <img className='shadow rounded img-fluid' src="..\Assets\service-imgs\Breast Augmentation.jpeg" alt="about image" height={300} />
+                            <img className='shadow rounded img-fluid mb-3' src="..\Assets\service-imgs\Breast Augmentation.jpeg" alt="about image" height={300} />
                         </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
                                 <h2>Breast Augmentation</h2>
-                                <p>Breast augmentation, or the placement of breast implants, is a surgical procedure designed to enhance the volume and shape of the breasts. For most of our patients, the ultimate goal of breast augmentation is to increase the size of the breasts while maintaining a desirable form, firmness, and natural appearance.</p>
+                                <p>Breast augmentation, or the placement of breast implants, is a surgical procedure designed to enhance the volume and shape of the breasts by implant and fat transfer and also by using both technique. For most of our patients, the ultimate goal of breast augmentation is to increase the size of the breasts while maintaining a desirable form, firmness, and natural appearance.</p>
                             </div>
                         </div>
                     </div>

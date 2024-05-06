@@ -4,12 +4,11 @@ const PsoriasisPage = () => {
     return (
         <>
             {/* ========== Start About ========== */}
-            <section>
+            <section className='py-5'>
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
-                            {/* Update the image source with the correct path or use a placeholder image */}
-                            <img src="/placeholder.jpg" alt="about image" />
+                            <img className='img-fluid shadow rounded mb-3' src="..\Assets\service-imgs\Psoriasis.jpeg" alt="about image" style={{height:'400px'}}/>
                         </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
@@ -24,7 +23,7 @@ const PsoriasisPage = () => {
             {/* ========== End About ========== */}
 
             {/* ========== Start main content ========== */}
-            <section className="py-5">
+            <section className="pb-5">
                 <div className="container">
                     <h2>Common signs and symptoms of psoriasis</h2>
                     <ul>

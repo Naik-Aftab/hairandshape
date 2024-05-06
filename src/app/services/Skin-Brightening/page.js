@@ -4,12 +4,11 @@ const SkinBrighteningPage = () => {
     return (
         <>
             {/* ========== Start About ========== */}
-            <section>
+            <section className='py-5'>
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
-                            {/* Update the image source with the correct path or use a placeholder image */}
-                            <img src="/placeholder.jpg" alt="about image" />
+                            <img className='img-fluid shadow rounded mb-3' src="..\Assets\service-imgs\Skin Brightening.png" alt="about image" style={{height:'400px'}}/>
                         </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
@@ -25,7 +24,7 @@ const SkinBrighteningPage = () => {
             {/* ========== End About ========== */}
 
             {/* ========== Start main content ========== */}
-            <section className="py-5">
+            <section className="pb-5">
                 <div className="container">
                     <h2>How is the skin brightening treatment done?</h2>
                     <p>The first step towards a skin brightening procedure would be to schedule an appointment with a dermatologist and tell him/her what kind of skin tone you have in mind. To get a clearer idea across it would be best if you carried a picture with you of the person with the desired skin tone that you have in mind. After discussing with your dermatologist, you may go and talk to the plastic surgeon. You can also show him/her the picture so that he/she knows what it is you exactly want.</p>

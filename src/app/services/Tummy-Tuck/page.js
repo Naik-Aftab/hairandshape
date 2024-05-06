@@ -8,7 +8,7 @@ const TummyTuckPage = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
-                            <img src="/" alt="about image" />
+                            <img className='img-fluid shadow rounded mb-3'src="..\Assets\service-imgs\Tummy Tuck.jpeg" alt="about image" style={{height:'400px'}}/>
                         </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
@@ -48,35 +48,7 @@ const TummyTuckPage = () => {
             {/* ========== End main content ========== */}
 
             {/* ========== Start FAQ ========== */}
-            <section className="pb-5">
-                <div className="container">
-                    <div className="row">
-                        <div className="col-12 col-md-5">
-                            <img src="/faq.jpg" className="img-fluid" alt="image" />
-                        </div>
-                        <div className="col-12 col-md-7">
-                            <div className="section-header">
-                                <h1 className="text-center py-4 m-0"><b>Frequently Asked Questions</b></h1>
-                            </div>
-                            <div className="accordion" id="accordionExample">
-                                <div className="accordion-item" style={{ marginBottom: '0px' }}>
-                                    <h2 className="accordion-header">
-                                        <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-controls="collapseOne" aria-expanded="false">
-                                            <b>Q. Does insurance cover an abdominoplasty for any reason?</b>
-                                        </button>
-                                    </h2>
-                                    <div id="collapseOne" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div className="accordion-body">
-                                            Insurance does not typically cover an abdominoplasty. This procedure is considered elective, and therefore insurance will not cover it. If a hernia repair is involved, in some circumstances the hernia repair itself can be covered by insurance, which will commonly cover a small portion of the surgery center and anesthesia fees as well.
-                                        </div>
-                                    </div>
-                                </div>
-                                {/* Add other FAQ items similarly */}
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+
             {/* ========== End FAQ ========== */}
         </>
     );

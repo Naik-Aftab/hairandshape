@@ -8,7 +8,7 @@ const DepigmentationPage = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-6 pb-4 d-flex justify-content-center align-items-center">
-                            <img className='shadow rounded img-fluid' src="..\Assets\service-imgs\Depigmentation.jpeg" alt="about image" style={{height:"400px"}} />
+                            <img className='shadow rounded img-fluid mb-3' src="..\Assets\service-imgs\Depigmentation.jpeg" alt="about image" style={{height:"400px"}} />
                         </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">

@@ -140,8 +140,8 @@ const Navbar = () => {
                         <li><Link href="/services/Acne">Acne</Link></li>
                         <li><Link href="/services/Psoriasis">Psoriasis</Link></li>
                         <li><Link href="/services/Vitiligo">Vitiligo</Link></li>
-                        <li><Link href="/services/HIV-&-AIDS">HIV & AIDS</Link></li>
-                        <li><Link href="/services/Syphils">Syphils</Link></li>
+                        <li><Link href="/services/HIV_&_AIDS">HIV & AIDS</Link></li>
+                        <li><Link href="/services/Syphils">Syphilis</Link></li>
                       </ul>
                     </div>
                   </div>

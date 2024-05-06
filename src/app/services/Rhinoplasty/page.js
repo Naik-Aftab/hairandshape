@@ -4,12 +4,11 @@ const RhinoplastyPage = () => {
     return (
         <>
             {/* ========== Start About ========== */}
-            <section>
+            <section className='py-5'>
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
-                            {/* Update the image source with the correct path or use a placeholder image */}
-                            <img src="/placeholder.jpg" alt="about image" />
+                            <img className='img-fluid shadow rounded mb-3' src="..\Assets\service-imgs\Rhinoplasty.jpeg" alt="about image" height={300} />
                         </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
@@ -24,7 +23,7 @@ const RhinoplastyPage = () => {
             {/* ========== End About ========== */}
 
             {/* ========== Start main content ========== */}
-            <section className="py-5">
+            <section className="pb-5">
                 <div className="container">
                     <h2>Rhinoplasty Consultation</h2>
                     <p>If you are dissatisfied with the cosmetic appearance of your nose and are seeking rhinoplasty nose reshaping, you may have spent a significant amount of time determining what you do and do not like about your nose. The consultation provides The Hair and Shape Clinic a chance to hear your concerns and at the same time examine your nose. He will then discuss with you a surgical plan for improving the shape and function of your nose. In addition, he will discuss other factors that may influence the outcome of your surgery, such as the structure of your nasal bones and cartilages, the shape of your face, and the thickness of your skin. It is important that you share your complete medical history with The Hair and Shape Clinic during the consultation. This includes your general health, any medications you take, history of allergies and breathing difficulties, previous nasal surgery, and any prior injuries to your nose. During your consultation, you will have the opportunity to ask any questions or address any specific concerns that you may have. You will have an additional chance to review any information you like during your preoperative visit to our office in Walnut Creek.</p>
@@ -47,12 +46,12 @@ const RhinoplastyPage = () => {
             {/* ========== End main content ========== */}
 
             {/* ========== Start FAQ ========== */}
-            <section className="py-5">
+            <section className="pb-5">
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-5">
                             {/* Update the image source with the correct path or use a placeholder image */}
-                            <img src="/faq.jpg" className="img-fluid" alt="image" />
+                            <img src="..\Assets\icons\faq.jpg" className="img-fluid" alt="image" />
                         </div>
                         <div className="col-12 col-md-7">
                             <div className="section-header">

@@ -4,10 +4,12 @@ const HairRemovalPage = () => {
     return (
         <>
             {/* ========== Start About ========== */}
-            <section>
+            <section className='py-5'>
                 <div className="container">
                     <div className="row">
-                        <div className="col-12 col-md-6 d-flex justify-content-center align-items-center"><img src="/" alt="about image" /></div>
+                        <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
+                            <img className='img-fluid shadow rounded mb-3' src="..\Assets\service-imgs\Laser Hair Removal .jpeg" alt="about image" style={{height:'500px'}}/>
+                        </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
                                 <h2>Hair Removal</h2>
@@ -45,7 +47,7 @@ const HairRemovalPage = () => {
             {/* ========== End main content ========== */}
 
                         {/* ========== Start FAQ ========== */}
-                        <section className="pb-5">
+                        {/* <section className="pb-5">
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-5">
@@ -109,7 +111,7 @@ const HairRemovalPage = () => {
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> */}
             {/* ========== End FAQ ========== */}
 
 

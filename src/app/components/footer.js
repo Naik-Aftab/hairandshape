@@ -31,6 +31,9 @@ const Footer = () => {
                                 <a href="#service" className="text-reset">Services</a>
                             </h6>
                             <h6>
+                                <a href="#result" className="text-reset">Before/After</a>
+                            </h6>
+                            <h6>
                                 <a href="/contact" className="text-reset">Contact Us</a>
                             </h6>
                         </div>

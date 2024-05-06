@@ -9,7 +9,7 @@ const LiposuctionPage = () => {
                     <div className="row">
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             {/* Update the image source with the correct path or use a placeholder image */}
-                            <img src="/placeholder.jpg" alt="about image" />
+                            <img className='img-fluid shadow rounded mb-3' src="..\Assets\service-imgs\LIPOSUCTION.jpg" alt="about image" height={300}/>
                         </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
@@ -60,7 +60,7 @@ const LiposuctionPage = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-5">
-                            <img src="/faq.jpg" className="img-fluid" alt="FAQ image" />
+                            <img src="..\Assets\icons\faq.jpg" className="img-fluid" alt="FAQ image" />
                         </div>
                         <div className="col-12 col-md-7">
                             <div className="section-header">

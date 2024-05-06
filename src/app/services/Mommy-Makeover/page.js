@@ -4,12 +4,11 @@ const MommyMakeoverPage = () => {
     return (
         <>
             {/* ========== Start About ========== */}
-            <section>
+            <section className='py-5'>
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
-                            {/* Update the image source with the correct path or use a placeholder image */}
-                            <img src="/placeholder.jpg" alt="about image" />
+                            <img className='img-fluid shadow rounded mb-3' src="..\Assets\service-imgs\Mommy Makeover.jpeg" alt="about image" style={{height:'400px'}}/>
                         </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
@@ -23,26 +22,6 @@ const MommyMakeoverPage = () => {
             </section>
             {/* ========== End About ========== */}
 
-            {/* ========== Start FAQ ========== */}
-            <section className="py-5">
-                <div className="container">
-                    <div className="row">
-                        <div className="col-12 col-md-5">
-                            {/* Update the image source with the correct path or use a placeholder image */}
-                            <img src="/faq.jpg" className="img-fluid" alt="FAQ image" />
-                        </div>
-                        <div className="col-12 col-md-7">
-                            <div className="section-header">
-                                <h1 className="text-center py-4 m-0"><b>Frequently Asked Questions</b></h1>
-                            </div>
-                            <div className="accordion" id="accordionExample">
-                                {/* Add FAQ items */}
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            {/* ========== End FAQ ========== */}
         </>
     );
 };

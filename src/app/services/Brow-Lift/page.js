@@ -8,7 +8,7 @@ const BrowLiftPage = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-6 pb-4 d-flex justify-content-center align-items-center">
-                            <img className='shadow rounded img-fluid' src="..\Assets\service-imgs\Browlift.jpeg" alt="about image" style={{height:'500px'}}/>
+                            <img className='shadow rounded img-fluid mb-3' src="..\Assets\service-imgs\Browlift.jpeg" alt="about image" style={{height:'500px'}}/>
                         </div>
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">

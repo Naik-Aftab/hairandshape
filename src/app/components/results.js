@@ -32,7 +32,7 @@ export default function Results() {
     }, []);
 
     return (
-        <section className='py-5'>
+        <section className='py-5' id='result'>
           <h1 className='text-center pb-3 px-3' data-aos="zoom-in"><b>Our Successful Results</b></h1>
 
 <div className='d-flex justify-content-center pb-3'>
