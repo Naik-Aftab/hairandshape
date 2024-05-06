@@ -43,7 +43,7 @@ const InvertedNipplePage = () => {
 
                     <h2>How is the inverted nipple surgery performed?</h2>
                     <p>There are two types of inverted nipple surgeries. In one of them, the shortened milk duct gets disconnected from the nipple while it stays untouched during the other. If it is necessary to disconnect the milk duct, you will not be able to breastfeed after having surgery.</p>
-                   <p>The inverted nipple correction can be performed under local or general anesthesia based on the patient's request and takes about an hour. Small incisions are made at the lower edge of the nipple, and the anatomically typical nipple position is formed. Nipple reduction may also be completed during the same surgery.</p>
+                   <p>The inverted nipple correction can be performed under local or general anesthesia based on the patient&apos;s request and takes about an hour. Small incisions are made at the lower edge of the nipple, and the anatomically typical nipple position is formed. Nipple reduction may also be completed during the same surgery.</p>
                 </div>
             </section>
             {/* ========== End main content ========== */}

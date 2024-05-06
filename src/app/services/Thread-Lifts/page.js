@@ -13,8 +13,8 @@ const ThreadLiftPage = () => {
                         <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                             <div className="about">
                                 <h2>Thread Lifts</h2>
-                                <p>A thread lift is a nonsurgical procedure that lifts sagging, aging skin and stimulates collagen production to give your face or neck a more youthful appearance. Plastic surgeons place medical-grade thread under the skin to pull the skin into position. These threads activate the body's natural healing response, triggering the increase of collagen. Threads come in several different materials and lengths.</p>
-                                <p>Unlike a facelift, a thread lift is a nonsurgical procedure that creates subtle changes. It's often called a “lunchtime facelift” because it's such a quick procedure with minimal downtime.</p>
+                                <p>A thread lift is a nonsurgical procedure that lifts sagging, aging skin and stimulates collagen production to give your face or neck a more youthful appearance. Plastic surgeons place medical-grade thread under the skin to pull the skin into position. These threads activate the body&apos;s natural healing response, triggering the increase of collagen. Threads come in several different materials and lengths.</p>
+                                <p>Unlike a facelift, a thread lift is a nonsurgical procedure that creates subtle changes. It&apos;s often called a “lunchtime facelift” because it&apos;s such a quick procedure with minimal downtime.</p>
                             </div>
                         </div>
                     </div>

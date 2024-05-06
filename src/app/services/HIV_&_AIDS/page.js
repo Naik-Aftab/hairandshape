@@ -50,7 +50,7 @@ const HivAidsPage = () => {
 
                     <h2>Causes of HIV infection</h2>
                     <p>HIV is found in the body fluids of an infected person. This includes semen, vaginal and anal fluids, blood and breast milk.</p>
-                    <p>It's a fragile virus and does not survive outside the body for long.</p>
+                    <p>It&apos;s a fragile virus and does not survive outside the body for long.</p>
                     <p>HIV cannot be transmitted through sweat, urine or saliva.</p>                        
                     <p>The most common way of getting HIV in the UK is through having anal or vaginal sex without a condom.</p>
                     <p>Other ways of getting HIV include:
@@ -67,7 +67,7 @@ const HivAidsPage = () => {
                     <p>Antiretroviral medicines are used to treat HIV. They work by stopping the virus replicating in the body, allowing the immune system to repair itself and preventing further damage.</p>
                     <p>These come in the form of tablets, which need to be taken every day.</p>
                     <p>HIV is able to develop resistance to a single HIV medicine very easily, but taking a combination of different medicines makes this much less likely.</p>
-                    <p>Most people with HIV take a combination of medicines. It's vital these are taken every day as recommended by your doctor.</p>
+                    <p>Most people with HIV take a combination of medicines. It&apos;s vital these are taken every day as recommended by your doctor.</p>
                     <p>The goal of HIV treatment is to have an undetectable viral load. This means the level of HIV virus in your body is low enough to not be detected by a test.</p>
                 </div>
             </section>

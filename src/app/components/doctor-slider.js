@@ -122,12 +122,13 @@ export default function Doctor() {
                                     <img className='img-fluid' src="Assets\surgeons\DrUmang.png" alt="Dr. Umang Kothari" style={{height:'600px'}} />
                                 </div>
                             </div>
+                            <hr className='mt-0'/>
                         </div>
                   
                         <div className="container py-5">
                             <div className='row'>
                             <div data-aos='zoom-in' data-aos-delay='500' className='doctorImage order-2 order-lg-1 col-12 col-md-6  d-flex justify-content-center align-items-center'>
-                                    <img className='img-fluid' src="Assets\surgeons\DrOmkar.png" alt="Dr. Omkar Warang" style={{height:'500px'}} />
+                                    <img className='img-fluid' src="Assets\surgeons\DrOmkar.png" alt="Dr. Omkar Warang" style={{height:'600px'}} />
                                 </div>
 
                                 <div className=" order-1 order-lg-2 col-12 col-md-6 d-flex justify-content-center align-items-center">
